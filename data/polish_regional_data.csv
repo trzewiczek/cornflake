@@ -1,0 +1,4263 @@
+1000000000;Region centralny;-1.0;-1.0
+1100000000;ŁÓDZKIE;0.52301663;0.53131527
+1101500000;Podregion 15 - łódzki;0.52301663;0.53131527
+1101506000;Powiat łódzki wschodni;0.52301663;0.53131527
+1101506011;Brzeziny;-1.0;-1.0
+1101506022;Andrespol;-1.0;-1.0
+1101506032;Brójce;-1.0;-1.0
+1101506042;Brzeziny;-1.0;-1.0
+1101506052;Dmosin;-1.0;-1.0
+1101506062;Jeżów;-1.0;-1.0
+1101506073;Koluszki;-1.0;-1.0
+1101506074;Koluszki - miasto;-1.0;-1.0
+1101506075;Koluszki - obszar wiejski;-1.0;-1.0
+1101506082;Nowosolna;-1.0;-1.0
+1101506092;Rogów;-1.0;-1.0
+1101506102;Rzgów;-1.0;-1.0
+1101506103;Rzgów;-1.0;-1.0
+1101506104;Rzgów - miasto;-1.0;-1.0
+1101506105;Rzgów - obszar wiejski;-1.0;-1.0
+1101506113;Tuszyn;-1.0;-1.0
+1101506114;Tuszyn - miasto;-1.0;-1.0
+1101506115;Tuszyn - obszar wiejski;-1.0;-1.0
+1101508000;Powiat pabianicki;0.5093046;0.5501044
+1101508011;Konstantynów Łódzki;-1.0;-1.0
+1101508021;Pabianice;-1.0;-1.0
+1101508032;Dłutów;-1.0;-1.0
+1101508042;Dobroń;-1.0;-1.0
+1101508052;Ksawerów;-1.0;-1.0
+1101508062;Lutomiersk;-1.0;-1.0
+1101508072;Pabianice;-1.0;-1.0
+1101520000;Powiat zgierski;0.5151812;0.5156576
+1101520011;Głowno;-1.0;-1.0
+1101520021;Ozorków;-1.0;-1.0
+1101520031;Zgierz;-1.0;-1.0
+1101520043;Aleksandrów Łódzki;-1.0;-1.0
+1101520044;Aleksandrów Łódzki - miasto;-1.0;-1.0
+1101520045;Aleksandrów Łódzki - obszar wiejski;-1.0;-1.0
+1101520052;Głowno;-1.0;-1.0
+1101520062;Ozorków;-1.0;-1.0
+1101520072;Parzęczew;-1.0;-1.0
+1101520083;Stryków;-1.0;-1.0
+1101520084;Stryków - miasto;-1.0;-1.0
+1101520085;Stryków - obszar wiejski;-1.0;-1.0
+1101520092;Zgierz;-1.0;-1.0
+1101521000;Powiat brzeziński;0.5494613;0.5250522
+1101521011;Brzeziny;-1.0;-1.0
+1101521022;Brzeziny;-1.0;-1.0
+1101521032;Dmosin;-1.0;-1.0
+1101521042;Jeżów;-1.0;-1.0
+1101521052;Rogów;-1.0;-1.0
+1101600000;Podregion 16 - m. Łódź;0.52301663;0.53131527
+1101661000;Powiat m.Łódź;0.52301663;0.53131527
+1101661011;Łódź;-1.0;-1.0
+1101700000;Podregion 17 - piotrkowski;0.5435847;0.5929019
+1101701000;Powiat bełchatowski;0.5112635;0.6022965
+1101701011;Bełchatów;-1.0;-1.0
+1101701022;Bełchatów;-1.0;-1.0
+1101701032;Drużbice;-1.0;-1.0
+1101701042;Kleszczów;-1.0;-1.0
+1101701052;Kluki;-1.0;-1.0
+1101701062;Rusiec;-1.0;-1.0
+1101701072;Szczerców;-1.0;-1.0
+1101701083;Zelów;-1.0;-1.0
+1101701084;Zelów - miasto;-1.0;-1.0
+1101701085;Zelów - obszar wiejski;-1.0;-1.0
+1101707000;Powiat opoczyński;0.6033301;0.5960334
+1101707012;Białaczów;-1.0;-1.0
+1101707023;Drzewica;-1.0;-1.0
+1101707024;Drzewica - miasto;-1.0;-1.0
+1101707025;Drzewica - obszar wiejski;-1.0;-1.0
+1101707032;Mniszków;-1.0;-1.0
+1101707043;Opoczno;-1.0;-1.0
+1101707044;Opoczno - miasto;-1.0;-1.0
+1101707045;Opoczno - obszar wiejski;-1.0;-1.0
+1101707052;Paradyż;-1.0;-1.0
+1101707062;Poświętne;-1.0;-1.0
+1101707072;Sławno;-1.0;-1.0
+1101707082;Żarnów;-1.0;-1.0
+1101710000;Powiat piotrkowski;0.5445641;0.5929019
+1101710012;Aleksandrów;-1.0;-1.0
+1101710022;Czarnocin;-1.0;-1.0
+1101710032;Gorzkowice;-1.0;-1.0
+1101710042;Grabica;-1.0;-1.0
+1101710052;Łęki Szlacheckie;-1.0;-1.0
+1101710062;Moszczenica;-1.0;-1.0
+1101710072;Ręczno;-1.0;-1.0
+1101710082;Rozprza;-1.0;-1.0
+1101710093;Sulejów;-1.0;-1.0
+1101710094;Sulejów - miasto;-1.0;-1.0
+1101710095;Sulejów - obszar wiejski;-1.0;-1.0
+1101710102;Wola Krzysztoporska;-1.0;-1.0
+1101710112;Wolbórz;-1.0;-1.0
+1101712000;Powiat radomszczański;0.51909894;0.651357
+1101712011;Radomsko;-1.0;-1.0
+1101712022;Dobryszyce;-1.0;-1.0
+1101712032;Gidle;-1.0;-1.0
+1101712042;Gomunice;-1.0;-1.0
+1101712053;Kamieńsk;-1.0;-1.0
+1101712054;Kamieńsk - miasto;-1.0;-1.0
+1101712055;Kamieńsk - obszar wiejski;-1.0;-1.0
+1101712062;Kobiele Wielkie;-1.0;-1.0
+1101712072;Kodrąb;-1.0;-1.0
+1101712082;Lgota Wielka;-1.0;-1.0
+1101712092;Ładzice;-1.0;-1.0
+1101712102;Masłowice;-1.0;-1.0
+1101712113;Przedbórz;-1.0;-1.0
+1101712114;Przedbórz - miasto;-1.0;-1.0
+1101712115;Przedbórz - obszar wiejski;-1.0;-1.0
+1101712122;Radomsko;-1.0;-1.0
+1101712132;Wielgomłyny;-1.0;-1.0
+1101712142;Żytno;-1.0;-1.0
+1101716000;Powiat tomaszowski;0.575906;0.5709812
+1101716011;Tomaszów Mazowiecki;-1.0;-1.0
+1101716022;Będków;-1.0;-1.0
+1101716032;Budziszewice;-1.0;-1.0
+1101716042;Czerniewice;-1.0;-1.0
+1101716052;Inowłódz;-1.0;-1.0
+1101716062;Lubochnia;-1.0;-1.0
+1101716072;Rokiciny;-1.0;-1.0
+1101716082;Rzeczyca;-1.0;-1.0
+1101716092;Tomaszów Mazowiecki;-1.0;-1.0
+1101716102;Ujazd;-1.0;-1.0
+1101716112;Żelechlinek;-1.0;-1.0
+1101762000;Powiat m.Piotrków Trybunalski;0.5435847;0.5929019
+1101762011;Piotrków Trybunalski;-1.0;-1.0
+1101800000;Podregion 18 - sieradzki;0.44564152;0.5615866
+1101803000;Powiat łaski;0.48971596;0.55949897
+1101803012;Buczek;-1.0;-1.0
+1101803023;Łask;-1.0;-1.0
+1101803024;Łask - miasto;-1.0;-1.0
+1101803025;Łask - obszar wiejski;-1.0;-1.0
+1101803032;Sędziejowice;-1.0;-1.0
+1101803042;Widawa;-1.0;-1.0
+1101803052;Wodzierady;-1.0;-1.0
+1101809000;Powiat pajęczański;0.47404507;0.6388309
+1101809013;Działoszyn;-1.0;-1.0
+1101809014;Działoszyn - miasto;-1.0;-1.0
+1101809015;Działoszyn - obszar wiejski;-1.0;-1.0
+1101809022;Kiełczygłów;-1.0;-1.0
+1101809032;Nowa Brzeźnica;-1.0;-1.0
+1101809043;Pajęczno;-1.0;-1.0
+1101809044;Pajęczno - miasto;-1.0;-1.0
+1101809045;Pajęczno - obszar wiejski;-1.0;-1.0
+1101809052;Rząśnia;-1.0;-1.0
+1101809062;Siemkowice;-1.0;-1.0
+1101809072;Strzelce Wielkie;-1.0;-1.0
+1101809082;Sulmierzyce;-1.0;-1.0
+1101811000;Powiat poddębicki;0.4701273;0.51043844
+1101811012;Dalików;-1.0;-1.0
+1101811022;Pęczniew;-1.0;-1.0
+1101811033;Poddębice;-1.0;-1.0
+1101811034;Poddębice - miasto;-1.0;-1.0
+1101811035;Poddębice - obszar wiejski;-1.0;-1.0
+1101811043;Uniejów;-1.0;-1.0
+1101811044;Uniejów - miasto;-1.0;-1.0
+1101811045;Uniejów - obszar wiejski;-1.0;-1.0
+1101811052;Wartkowice;-1.0;-1.0
+1101811062;Zadzim;-1.0;-1.0
+1101814000;Powiat sieradzki;0.44564152;0.5615866
+1101814011;Sieradz;-1.0;-1.0
+1101814023;Błaszki;-1.0;-1.0
+1101814024;Błaszki - miasto;-1.0;-1.0
+1101814025;Błaszki - obszar wiejski;-1.0;-1.0
+1101814032;Brąszewice;-1.0;-1.0
+1101814042;Brzeźnio;-1.0;-1.0
+1101814052;Burzenin;-1.0;-1.0
+1101814062;Goszczanów;-1.0;-1.0
+1101814072;Klonowa;-1.0;-1.0
+1101814082;Sieradz;-1.0;-1.0
+1101814093;Warta;-1.0;-1.0
+1101814094;Warta - miasto;-1.0;-1.0
+1101814095;Warta - obszar wiejski;-1.0;-1.0
+1101814102;Wróblew;-1.0;-1.0
+1101814113;Złoczew;-1.0;-1.0
+1101814114;Złoczew - miasto;-1.0;-1.0
+1101814115;Złoczew - obszar wiejski;-1.0;-1.0
+1101817000;Powiat wieluński;0.43095005;0.62212944
+1101817012;Biała;-1.0;-1.0
+1101817022;Czarnożyły;-1.0;-1.0
+1101817032;Konopnica;-1.0;-1.0
+1101817042;Mokrsko;-1.0;-1.0
+1101817052;Osjaków;-1.0;-1.0
+1101817062;Ostrówek;-1.0;-1.0
+1101817072;Pątnów;-1.0;-1.0
+1101817082;Skomlin;-1.0;-1.0
+1101817093;Wieluń;-1.0;-1.0
+1101817094;Wieluń - miasto;-1.0;-1.0
+1101817095;Wieluń - obszar wiejski;-1.0;-1.0
+1101817102;Wierzchlas;-1.0;-1.0
+1101818000;Powiat wieruszowski;0.3898139;0.611691
+1101818012;Bolesławiec;-1.0;-1.0
+1101818022;Czastary;-1.0;-1.0
+1101818032;Galewice;-1.0;-1.0
+1101818042;Lututów;-1.0;-1.0
+1101818052;Łubnice;-1.0;-1.0
+1101818062;Sokolniki;-1.0;-1.0
+1101818073;Wieruszów;-1.0;-1.0
+1101818074;Wieruszów - miasto;-1.0;-1.0
+1101818075;Wieruszów - obszar wiejski;-1.0;-1.0
+1101819000;Powiat zduńskowolski;0.4691479;0.5615866
+1101819011;Zduńska Wola;-1.0;-1.0
+1101819023;Szadek;-1.0;-1.0
+1101819024;Szadek - miasto;-1.0;-1.0
+1101819025;Szadek - obszar wiejski;-1.0;-1.0
+1101819032;Zapolice;-1.0;-1.0
+1101819042;Zduńska Wola;-1.0;-1.0
+1101900000;Podregion 19 - skierniewicki;0.5886386;0.49895614
+1101902000;Powiat kutnowski;0.510284;0.4519833
+1101902011;Kutno;-1.0;-1.0
+1101902022;Bedlno;-1.0;-1.0
+1101902032;Dąbrowice;-1.0;-1.0
+1101902043;Krośniewice;-1.0;-1.0
+1101902044;Krośniewice - miasto;-1.0;-1.0
+1101902045;Krośniewice - obszar wiejski;-1.0;-1.0
+1101902052;Krzyżanów;-1.0;-1.0
+1101902062;Kutno;-1.0;-1.0
+1101902072;Łanięta;-1.0;-1.0
+1101902082;Nowe Ostrowy;-1.0;-1.0
+1101902092;Oporów;-1.0;-1.0
+1101902102;Strzelce;-1.0;-1.0
+1101902113;Żychlin;-1.0;-1.0
+1101902114;Żychlin - miasto;-1.0;-1.0
+1101902115;Żychlin - obszar wiejski;-1.0;-1.0
+1101904000;Powiat łęczycki;0.49265426;0.48225468
+1101904011;Łęczyca;-1.0;-1.0
+1101904022;Daszyna;-1.0;-1.0
+1101904032;Góra Świętej Małgorzaty;-1.0;-1.0
+1101904042;Grabów;-1.0;-1.0
+1101904052;Łęczyca;-1.0;-1.0
+1101904062;Piątek;-1.0;-1.0
+1101904072;Świnice Warckie;-1.0;-1.0
+1101904082;Witonia;-1.0;-1.0
+1101905000;Powiat łowicki;0.56807053;0.47286013
+1101905011;Łowicz;-1.0;-1.0
+1101905022;Bielawy;-1.0;-1.0
+1101905032;Chąśno;-1.0;-1.0
+1101905042;Domaniewice;-1.0;-1.0
+1101905052;Kiernozia;-1.0;-1.0
+1101905062;Kocierzew Południowy;-1.0;-1.0
+1101905072;Łowicz;-1.0;-1.0
+1101905082;Łyszkowice;-1.0;-1.0
+1101905092;Nieborów;-1.0;-1.0
+1101905102;Zduny;-1.0;-1.0
+1101913000;Powiat rawski;0.60724777;0.5302714
+1101913011;Rawa Mazowiecka;-1.0;-1.0
+1101913023;Biała Rawska;-1.0;-1.0
+1101913024;Biała Rawska - miasto;-1.0;-1.0
+1101913025;Biała Rawska - obszar wiejski;-1.0;-1.0
+1101913032;Cielądz;-1.0;-1.0
+1101913042;Rawa Mazowiecka;-1.0;-1.0
+1101913052;Regnów;-1.0;-1.0
+1101913062;Sadkowice;-1.0;-1.0
+1101915000;Powiat skierniewicki;0.5886386;0.49895614
+1101915012;Bolimów;-1.0;-1.0
+1101915022;Głuchów;-1.0;-1.0
+1101915032;Godzianów;-1.0;-1.0
+1101915042;Kowiesy;-1.0;-1.0
+1101915052;Lipce Reymontowskie;-1.0;-1.0
+1101915062;Maków;-1.0;-1.0
+1101915072;Nowy Kawęczyn;-1.0;-1.0
+1101915082;Skierniewice;-1.0;-1.0
+1101915092;Słupia;-1.0;-1.0
+1101963000;Powiat m.Skierniewice;0.5886386;0.49791232
+1101963011;Skierniewice;-1.0;-1.0
+1140000000;MAZOWIECKIE;0.675808;0.44989562
+1142500000;Podregion 25 - ciechanowsko-płocki;0.5954946;0.37682673
+1142502000;Powiat ciechanowski;0.6317336;0.34029227
+1142502011;Ciechanów;-1.0;-1.0
+1142502022;Ciechanów;-1.0;-1.0
+1142502033;Glinojeck;-1.0;-1.0
+1142502034;Glinojeck - miasto;-1.0;-1.0
+1142502035;Glinojeck - obszar wiejski;-1.0;-1.0
+1142502042;Gołymin-Ośrodek;-1.0;-1.0
+1142502052;Grudusk;-1.0;-1.0
+1142502062;Ojrzeń;-1.0;-1.0
+1142502072;Opinogóra Górna;-1.0;-1.0
+1142502082;Regimin;-1.0;-1.0
+1142502092;Sońsk;-1.0;-1.0
+1142504000;Powiat gostyniński;0.52007836;0.41753653
+1142504011;Gostynin;-1.0;-1.0
+1142504022;Gostynin;-1.0;-1.0
+1142504032;Pacyna;-1.0;-1.0
+1142504042;Sanniki;-1.0;-1.0
+1142504052;Szczawin Kościelny;-1.0;-1.0
+1142513000;Powiat mławski;0.6043095;0.29958245
+1142513011;Mława;-1.0;-1.0
+1142513022;Dzierzgowo;-1.0;-1.0
+1142513032;Lipowiec Kościelny;-1.0;-1.0
+1142513042;Radzanów;-1.0;-1.0
+1142513052;Strzegowo;-1.0;-1.0
+1142513062;Stupsk;-1.0;-1.0
+1142513072;Szreńsk;-1.0;-1.0
+1142513082;Szydłowo;-1.0;-1.0
+1142513092;Wieczfnia Kościelna;-1.0;-1.0
+1142513102;Wiśniewo;-1.0;-1.0
+1142519000;Powiat płocki;0.5426053;0.3966597
+1142519012;Bielsk;-1.0;-1.0
+1142519022;Bodzanów;-1.0;-1.0
+1142519032;Brudzeń Duży;-1.0;-1.0
+1142519042;Bulkowo;-1.0;-1.0
+1142519053;Drobin;-1.0;-1.0
+1142519054;Drobin - miasto;-1.0;-1.0
+1142519055;Drobin - obszar wiejski;-1.0;-1.0
+1142519063;Gąbin;-1.0;-1.0
+1142519064;Gąbin - miasto;-1.0;-1.0
+1142519065;Gąbin - obszar wiejski;-1.0;-1.0
+1142519072;Łąck;-1.0;-1.0
+1142519082;Mała Wieś;-1.0;-1.0
+1142519092;Nowy Duninów;-1.0;-1.0
+1142519102;Radzanowo;-1.0;-1.0
+1142519112;Słubice;-1.0;-1.0
+1142519122;Słupno;-1.0;-1.0
+1142519132;Stara Biała;-1.0;-1.0
+1142519142;Staroźreby;-1.0;-1.0
+1142519153;Wyszogród;-1.0;-1.0
+1142519154;Wyszogród - miasto;-1.0;-1.0
+1142519155;Wyszogród - obszar wiejski;-1.0;-1.0
+1142520000;Powiat płoński;0.60822725;0.38308978
+1142520011;Płońsk;-1.0;-1.0
+1142520021;Raciąż;-1.0;-1.0
+1142520032;Baboszewo;-1.0;-1.0
+1142520042;Czerwińsk nad Wisłą;-1.0;-1.0
+1142520052;Dzierzążnia;-1.0;-1.0
+1142520062;Joniec;-1.0;-1.0
+1142520072;Naruszewo;-1.0;-1.0
+1142520082;Nowe Miasto;-1.0;-1.0
+1142520092;Płońsk;-1.0;-1.0
+1142520102;Raciąż;-1.0;-1.0
+1142520112;Sochocin;-1.0;-1.0
+1142520122;Załuski;-1.0;-1.0
+1142527000;Powiat sierpecki;0.54064643;0.34446764
+1142527011;Sierpc;-1.0;-1.0
+1142527022;Gozdowo;-1.0;-1.0
+1142527032;Mochowo;-1.0;-1.0
+1142527042;Rościszewo;-1.0;-1.0
+1142527052;Sierpc;-1.0;-1.0
+1142527062;Szczutowo;-1.0;-1.0
+1142527072;Zawidz;-1.0;-1.0
+1142537000;Powiat żuromiński;0.5641528;0.30897704
+1142537013;Bieżuń;-1.0;-1.0
+1142537014;Bieżuń - miasto;-1.0;-1.0
+1142537015;Bieżuń - obszar wiejski;-1.0;-1.0
+1142537022;Kuczbork-Osada;-1.0;-1.0
+1142537032;Lubowidz;-1.0;-1.0
+1142537042;Lutocin;-1.0;-1.0
+1142537052;Siemiątkowo;-1.0;-1.0
+1142537063;Żuromin;-1.0;-1.0
+1142537064;Żuromin - miasto;-1.0;-1.0
+1142537065;Żuromin - obszar wiejski;-1.0;-1.0
+1142562000;Powiat m.Płock;0.5435847;0.39770356
+1142562011;Płock;-1.0;-1.0
+1142600000;Podregion 26 - ostrołęcko-siedlecki;0.7580803;0.37995824
+1142610000;Powiat łosicki;0.84231144;0.44885176
+1142610012;Huszlew;-1.0;-1.0
+1142610023;Łosice;-1.0;-1.0
+1142610024;Łosice - miasto;-1.0;-1.0
+1142610025;Łosice - obszar wiejski;-1.0;-1.0
+1142610032;Olszanka;-1.0;-1.0
+1142610042;Platerów;-1.0;-1.0
+1142610052;Sarnaki;-1.0;-1.0
+1142610062;Stara Kornica;-1.0;-1.0
+1142611000;Powiat makowski;0.67972577;0.34446764
+1142611011;Maków Mazowiecki;-1.0;-1.0
+1142611022;Czerwonka;-1.0;-1.0
+1142611032;Karniewo;-1.0;-1.0
+1142611042;Krasnosielc;-1.0;-1.0
+1142611052;Młynarze;-1.0;-1.0
+1142611062;Płoniawy-Bramura;-1.0;-1.0
+1142611073;Różan;-1.0;-1.0
+1142611074;Różan - miasto;-1.0;-1.0
+1142611075;Różan - obszar wiejski;-1.0;-1.0
+1142611082;Rzewnie;-1.0;-1.0
+1142611092;Sypniewo;-1.0;-1.0
+1142611102;Szelków;-1.0;-1.0
+1142615000;Powiat ostrołęcki;0.7247796;0.30167013
+1142615012;Baranowo;-1.0;-1.0
+1142615022;Czarnia;-1.0;-1.0
+1142615032;Czerwin;-1.0;-1.0
+1142615042;Goworowo;-1.0;-1.0
+1142615052;Kadzidło;-1.0;-1.0
+1142615062;Lelis;-1.0;-1.0
+1142615072;Łyse;-1.0;-1.0
+1142615083;Myszyniec;-1.0;-1.0
+1142615084;Myszyniec - miasto;-1.0;-1.0
+1142615085;Myszyniec - obszar wiejski;-1.0;-1.0
+1142615092;Olszewo-Borki;-1.0;-1.0
+1142615102;Rzekuń;-1.0;-1.0
+1142615112;Troszyn;-1.0;-1.0
+1142616000;Powiat ostrowski;0.75612146;0.34759918
+1142616011;Ostrów Mazowiecka;-1.0;-1.0
+1142616022;Andrzejewo;-1.0;-1.0
+1142616032;Boguty-Pianki;-1.0;-1.0
+1142616043;Brok;-1.0;-1.0
+1142616044;Brok - miasto;-1.0;-1.0
+1142616045;Brok - obszar wiejski;-1.0;-1.0
+1142616052;Małkinia Górna;-1.0;-1.0
+1142616062;Nur;-1.0;-1.0
+1142616072;Ostrów Mazowiecka;-1.0;-1.0
+1142616082;Stary Lubotyń;-1.0;-1.0
+1142616092;Szulborze Wielkie;-1.0;-1.0
+1142616102;Wąsewo;-1.0;-1.0
+1142616112;Zaręby Kościelne;-1.0;-1.0
+1142622000;Powiat przasnyski;0.65719885;0.31419623
+1142622011;Przasnysz;-1.0;-1.0
+1142622023;Chorzele;-1.0;-1.0
+1142622024;Chorzele - miasto;-1.0;-1.0
+1142622025;Chorzele - obszar wiejski;-1.0;-1.0
+1142622032;Czernice Borowe;-1.0;-1.0
+1142622042;Jednorożec;-1.0;-1.0
+1142622052;Krasne;-1.0;-1.0
+1142622062;Krzynowłoga Mała;-1.0;-1.0
+1142622072;Przasnysz;-1.0;-1.0
+1142624000;Powiat pułtuski;0.6777669;0.36638832
+1142624012;Gzy;-1.0;-1.0
+1142624022;Obryte;-1.0;-1.0
+1142624032;Pokrzywnica;-1.0;-1.0
+1142624043;Pułtusk;-1.0;-1.0
+1142624044;Pułtusk - miasto;-1.0;-1.0
+1142624045;Pułtusk - obszar wiejski;-1.0;-1.0
+1142624052;Świercze;-1.0;-1.0
+1142624062;Winnica;-1.0;-1.0
+1142624072;Zatory;-1.0;-1.0
+1142626000;Powiat siedlecki;0.798237;0.4572025
+1142626012;Domanice;-1.0;-1.0
+1142626022;Korczew;-1.0;-1.0
+1142626032;Kotuń;-1.0;-1.0
+1142626042;Mokobody;-1.0;-1.0
+1142626053;Mordy;-1.0;-1.0
+1142626054;Mordy - miasto;-1.0;-1.0
+1142626055;Mordy - obszar wiejski;-1.0;-1.0
+1142626062;Paprotnia;-1.0;-1.0
+1142626072;Przesmyki;-1.0;-1.0
+1142626082;Siedlce;-1.0;-1.0
+1142626092;Skórzec;-1.0;-1.0
+1142626102;Suchożebry;-1.0;-1.0
+1142626112;Wiśniew;-1.0;-1.0
+1142626122;Wodynie;-1.0;-1.0
+1142626132;Zbuczyn;-1.0;-1.0
+1142629000;Powiat sokołowski;0.7943193;0.41544884
+1142629011;Sokołów Podlaski;-1.0;-1.0
+1142629022;Bielany;-1.0;-1.0
+1142629032;Ceranów;-1.0;-1.0
+1142629042;Jabłonna Lacka;-1.0;-1.0
+1142629052;Kosów Lacki;-1.0;-1.0
+1142629053;Kosów Lacki;-1.0;-1.0
+1142629054;Kosów Lacki - miasto;-1.0;-1.0
+1142629055;Kosów Lacki - obszar wiejski;-1.0;-1.0
+1142629062;Repki;-1.0;-1.0
+1142629072;Sabnie;-1.0;-1.0
+1142629082;Sokołów Podlaski;-1.0;-1.0
+1142629092;Sterdyń;-1.0;-1.0
+1142633000;Powiat węgrowski;0.77179235;0.4164927
+1142633011;Węgrów;-1.0;-1.0
+1142633022;Grębków;-1.0;-1.0
+1142633032;Korytnica;-1.0;-1.0
+1142633042;Liw;-1.0;-1.0
+1142633053;Łochów;-1.0;-1.0
+1142633054;Łochów - miasto;-1.0;-1.0
+1142633055;Łochów - obszar wiejski;-1.0;-1.0
+1142633062;Miedzna;-1.0;-1.0
+1142633072;Sadowne;-1.0;-1.0
+1142633082;Stoczek;-1.0;-1.0
+1142633092;Wierzbno;-1.0;-1.0
+1142635000;Powiat wyszkowski;0.71204704;0.3841336
+1142635012;Brańszczyk;-1.0;-1.0
+1142635022;Długosiodło;-1.0;-1.0
+1142635032;Rząśnik;-1.0;-1.0
+1142635042;Somianka;-1.0;-1.0
+1142635053;Wyszków;-1.0;-1.0
+1142635054;Wyszków - miasto;-1.0;-1.0
+1142635055;Wyszków - obszar wiejski;-1.0;-1.0
+1142635062;Zabrodzie;-1.0;-1.0
+1142661000;Powiat m.Ostrołęka;0.7247796;0.30167013
+1142661011;Ostrołęka;-1.0;-1.0
+1142664000;Powiat m.Siedlce;0.798237;0.45824635
+1142664011;Siedlce;-1.0;-1.0
+1142700000;Podregion 27 - radomski;0.68952006;0.59498954
+1142701000;Powiat białobrzeski;0.66797256;0.55114824
+1142701013;Białobrzegi;-1.0;-1.0
+1142701014;Białobrzegi - miasto;-1.0;-1.0
+1142701015;Białobrzegi - obszar wiejski;-1.0;-1.0
+1142701022;Promna;-1.0;-1.0
+1142701032;Radzanów;-1.0;-1.0
+1142701042;Stara Błotnica;-1.0;-1.0
+1142701052;Stromiec;-1.0;-1.0
+1142701063;Wyśmierzyce;-1.0;-1.0
+1142701064;Wyśmierzyce - miasto;-1.0;-1.0
+1142701065;Wyśmierzyce - obszar wiejski;-1.0;-1.0
+1142707000;Powiat kozienicki;0.72771794;0.5584551
+1142707012;Garbatka-Letnisko;-1.0;-1.0
+1142707022;Głowaczów;-1.0;-1.0
+1142707032;Gniewoszów;-1.0;-1.0
+1142707042;Grabów nad Pilicą;-1.0;-1.0
+1142707053;Kozienice;-1.0;-1.0
+1142707054;Kozienice - miasto;-1.0;-1.0
+1142707055;Kozienice - obszar wiejski;-1.0;-1.0
+1142707062;Magnuszew;-1.0;-1.0
+1142707072;Sieciechów;-1.0;-1.0
+1142709000;Powiat lipski;0.74045056;0.631524
+1142709012;Chotcza;-1.0;-1.0
+1142709022;Ciepielów;-1.0;-1.0
+1142709033;Lipsko;-1.0;-1.0
+1142709034;Lipsko - miasto;-1.0;-1.0
+1142709035;Lipsko - obszar wiejski;-1.0;-1.0
+1142709042;Rzeczniów;-1.0;-1.0
+1142709052;Sienno;-1.0;-1.0
+1142709062;Solec nad Wisłą;-1.0;-1.0
+1142723000;Powiat przysuski;0.6366308;0.60020876
+1142723012;Borkowice;-1.0;-1.0
+1142723022;Gielniów;-1.0;-1.0
+1142723032;Klwów;-1.0;-1.0
+1142723042;Odrzywół;-1.0;-1.0
+1142723052;Potworów;-1.0;-1.0
+1142723063;Przysucha;-1.0;-1.0
+1142723064;Przysucha - miasto;-1.0;-1.0
+1142723065;Przysucha - obszar wiejski;-1.0;-1.0
+1142723072;Rusinów;-1.0;-1.0
+1142723082;Wieniawa;-1.0;-1.0
+1142725000;Powiat radomski;0.68952006;0.59498954
+1142725011;Pionki;-1.0;-1.0
+1142725022;Gózd;-1.0;-1.0
+1142725033;Iłża;-1.0;-1.0
+1142725034;Iłża - miasto;-1.0;-1.0
+1142725035;Iłża - obszar wiejski;-1.0;-1.0
+1142725042;Jastrzębia;-1.0;-1.0
+1142725052;Jedlińsk;-1.0;-1.0
+1142725062;Jedlnia-Letnisko;-1.0;-1.0
+1142725072;Kowala;-1.0;-1.0
+1142725082;Pionki;-1.0;-1.0
+1142725092;Przytyk;-1.0;-1.0
+1142725103;Skaryszew;-1.0;-1.0
+1142725104;Skaryszew - miasto;-1.0;-1.0
+1142725105;Skaryszew - obszar wiejski;-1.0;-1.0
+1142725112;Wierzbica;-1.0;-1.0
+1142725122;Wolanów;-1.0;-1.0
+1142725132;Zakrzew;-1.0;-1.0
+1142730000;Powiat szydłowiecki;0.66111654;0.6231733
+1142730012;Chlewiska;-1.0;-1.0
+1142730022;Jastrząb;-1.0;-1.0
+1142730032;Mirów;-1.0;-1.0
+1142730042;Orońsko;-1.0;-1.0
+1142730053;Szydłowiec;-1.0;-1.0
+1142730054;Szydłowiec - miasto;-1.0;-1.0
+1142730055;Szydłowiec - obszar wiejski;-1.0;-1.0
+1142736000;Powiat zwoleński;0.73457396;0.5981211
+1142736012;Kazanów;-1.0;-1.0
+1142736022;Policzna;-1.0;-1.0
+1142736032;Przyłęk;-1.0;-1.0
+1142736042;Tczów;-1.0;-1.0
+1142736053;Zwoleń;-1.0;-1.0
+1142736054;Zwoleń - miasto;-1.0;-1.0
+1142736055;Zwoleń - obszar wiejski;-1.0;-1.0
+1142763000;Powiat m.Radom;0.68952006;0.59498954
+1142763011;Radom;-1.0;-1.0
+1142800000;Podregion 28 - m. Warszawa;0.675808;0.44989562
+1142831000;Powiat warszawski;0.675808;0.44989562
+1142831001;M.st.Warszawa;-1.0;-1.0
+1142831011;Warszawa - Bemowo;-1.0;-1.0
+1142831021;Warszawa - Białołęka;-1.0;-1.0
+1142831031;Warszawa - Bielany;-1.0;-1.0
+1142831041;Warszawa - Centrum;-1.0;-1.0
+1142831121;Warszawa - Rembertów;-1.0;-1.0
+1142831131;Warszawa - Targówek;-1.0;-1.0
+1142831141;Warszawa - Ursus;-1.0;-1.0
+1142831151;Warszawa - Ursynów;-1.0;-1.0
+1142831161;Warszawa - Wawer;-1.0;-1.0
+1142831171;Warszawa - Wilanów;-1.0;-1.0
+1142831181;Warszawa - Włochy;-1.0;-1.0
+1142831981;Związek gmin dzielnic Warszawy;-1.0;-1.0
+1142831991;GMINY-DZIELNICY WARSZAWY NIE USTALONO;-1.0;-1.0
+1142865000;Powiat m. st. Warszawa;0.675808;0.44989562
+1142865011;M.st.Warszawa;-1.0;-1.0
+1142865028;Bemowo - dzielnica;-1.0;-1.0
+1142865038;Białołęka - dzielnica;-1.0;-1.0
+1142865048;Bielany - dzielnica;-1.0;-1.0
+1142865058;Mokotów - dzielnica;-1.0;-1.0
+1142865068;Ochota - dzielnica;-1.0;-1.0
+1142865078;Praga-Południe - dzielnica;-1.0;-1.0
+1142865088;Praga-Północ - dzielnica;-1.0;-1.0
+1142865098;Rembertów - dzielnica;-1.0;-1.0
+1142865108;Śródmieście - dzielnica;-1.0;-1.0
+1142865118;Targówek - dzielnica;-1.0;-1.0
+1142865128;Ursus - dzielnica;-1.0;-1.0
+1142865138;Ursynów - dzielnica;-1.0;-1.0
+1142865148;Wawer - dzielnica;-1.0;-1.0
+1142865158;Wesoła - dzielnica;-1.0;-1.0
+1142865168;Wilanów - dzielnica;-1.0;-1.0
+1142865178;Włochy - dzielnica;-1.0;-1.0
+1142865188;Wola - dzielnica;-1.0;-1.0
+1142865198;Żoliborz - dzielnica;-1.0;-1.0
+1142900000;Podregion 29 - warszawski wschodni;0.675808;0.44989562
+1142903000;Powiat garwoliński;0.73457396;0.5052192
+1142903011;Garwolin;-1.0;-1.0
+1142903021;Łaskarzew;-1.0;-1.0
+1142903032;Borowie;-1.0;-1.0
+1142903042;Garwolin;-1.0;-1.0
+1142903052;Górzno;-1.0;-1.0
+1142903062;Łaskarzew;-1.0;-1.0
+1142903072;Maciejowice;-1.0;-1.0
+1142903082;Miastków Kościelny;-1.0;-1.0
+1142903092;Parysów;-1.0;-1.0
+1142903103;Pilawa;-1.0;-1.0
+1142903104;Pilawa - miasto;-1.0;-1.0
+1142903105;Pilawa - obszar wiejski;-1.0;-1.0
+1142903112;Sobolew;-1.0;-1.0
+1142903122;Trojanów;-1.0;-1.0
+1142903132;Wilga;-1.0;-1.0
+1142903143;Żelechów;-1.0;-1.0
+1142903144;Żelechów - miasto;-1.0;-1.0
+1142903145;Żelechów - obszar wiejski;-1.0;-1.0
+1142908000;Powiat legionowski;0.6650343;0.4196242
+1142908011;Legionowo;-1.0;-1.0
+1142908022;Jabłonna;-1.0;-1.0
+1142908032;Nieporęt;-1.0;-1.0
+1142908043;Serock;-1.0;-1.0
+1142908044;Serock - miasto;-1.0;-1.0
+1142908045;Serock - obszar wiejski;-1.0;-1.0
+1142908052;Wieliszew;-1.0;-1.0
+1142912000;Powiat miński;0.72771794;0.45824635
+1142912011;Mińsk Mazowiecki;-1.0;-1.0
+1142912021;Sulejówek;-1.0;-1.0
+1142912031;Wesoła;-1.0;-1.0
+1142912042;Cegłów;-1.0;-1.0
+1142912052;Dębe Wielkie;-1.0;-1.0
+1142912062;Dobre;-1.0;-1.0
+1142912072;Halinów;-1.0;-1.0
+1142912073;Halinów;-1.0;-1.0
+1142912074;Halinów - miasto;-1.0;-1.0
+1142912075;Halinów - obszar wiejski;-1.0;-1.0
+1142912082;Jakubów;-1.0;-1.0
+1142912093;Kałuszyn;-1.0;-1.0
+1142912094;Kałuszyn - miasto;-1.0;-1.0
+1142912095;Kałuszyn - obszar wiejski;-1.0;-1.0
+1142912102;Latowicz;-1.0;-1.0
+1142912112;Mińsk Mazowiecki;-1.0;-1.0
+1142912122;Mrozy;-1.0;-1.0
+1142912132;Siennica;-1.0;-1.0
+1142912142;Stanisławów;-1.0;-1.0
+1142912151;Sulejówek;-1.0;-1.0
+1142914000;Powiat nowodworski;0.6444662;0.41440502
+1142914011;Nowy Dwór Mazowiecki;-1.0;-1.0
+1142914022;Czosnów;-1.0;-1.0
+1142914032;Leoncin;-1.0;-1.0
+1142914043;Nasielsk;-1.0;-1.0
+1142914044;Nasielsk - miasto;-1.0;-1.0
+1142914045;Nasielsk - obszar wiejski;-1.0;-1.0
+1142914052;Pomiechówek;-1.0;-1.0
+1142914063;Zakroczym;-1.0;-1.0
+1142914064;Zakroczym - miasto;-1.0;-1.0
+1142914065;Zakroczym - obszar wiejski;-1.0;-1.0
+1142917000;Powiat otwocki;0.6993144;0.46868476
+1142917011;Józefów;-1.0;-1.0
+1142917021;Otwock;-1.0;-1.0
+1142917032;Celestynów;-1.0;-1.0
+1142917043;Karczew;-1.0;-1.0
+1142917044;Karczew - miasto;-1.0;-1.0
+1142917045;Karczew - obszar wiejski;-1.0;-1.0
+1142917052;Kołbiel;-1.0;-1.0
+1142917062;Osieck;-1.0;-1.0
+1142917072;Sobienie-Jeziory;-1.0;-1.0
+1142917082;Wiązowna;-1.0;-1.0
+1142934000;Powiat wołomiński;0.69539666;0.4290188
+1142934011;Kobyłka;-1.0;-1.0
+1142934021;Marki;-1.0;-1.0
+1142934031;Ząbki;-1.0;-1.0
+1142934041;Zielonka;-1.0;-1.0
+1142934052;Dąbrówka;-1.0;-1.0
+1142934062;Jadów;-1.0;-1.0
+1142934072;Klembów;-1.0;-1.0
+1142934082;Poświętne;-1.0;-1.0
+1142934093;Radzymin;-1.0;-1.0
+1142934094;Radzymin - miasto;-1.0;-1.0
+1142934095;Radzymin - obszar wiejski;-1.0;-1.0
+1142934102;Strachówka;-1.0;-1.0
+1142934113;Tłuszcz;-1.0;-1.0
+1142934114;Tłuszcz - miasto;-1.0;-1.0
+1142934115;Tłuszcz - obszar wiejski;-1.0;-1.0
+1142934123;Wołomin;-1.0;-1.0
+1142934124;Wołomin - miasto;-1.0;-1.0
+1142934125;Wołomin - obszar wiejski;-1.0;-1.0
+1143000000;Podregion 30 - warszawski zachodni;0.63956904;0.4446764
+1143005000;Powiat grodziski;0.63467187;0.47286013
+1143005011;Milanówek;-1.0;-1.0
+1143005021;Podkowa Leśna;-1.0;-1.0
+1143005032;Baranów;-1.0;-1.0
+1143005043;Grodzisk Mazowiecki;-1.0;-1.0
+1143005044;Grodzisk Mazowiecki - miasto;-1.0;-1.0
+1143005045;Grodzisk Mazowiecki - obszar wiejski;-1.0;-1.0
+1143005052;Jaktorów;-1.0;-1.0
+1143005062;Żabia Wola;-1.0;-1.0
+1143006000;Powiat grójecki;0.6630754;0.5125261
+1143006012;Belsk Duży;-1.0;-1.0
+1143006022;Błędów;-1.0;-1.0
+1143006032;Chynów;-1.0;-1.0
+1143006042;Goszczyn;-1.0;-1.0
+1143006053;Grójec;-1.0;-1.0
+1143006054;Grójec - miasto;-1.0;-1.0
+1143006055;Grójec - obszar wiejski;-1.0;-1.0
+1143006062;Jasieniec;-1.0;-1.0
+1143006073;Mogielnica;-1.0;-1.0
+1143006074;Mogielnica - miasto;-1.0;-1.0
+1143006075;Mogielnica - obszar wiejski;-1.0;-1.0
+1143006083;Nowe Miasto nad Pilicą;-1.0;-1.0
+1143006084;Nowe Miasto nad Pilicą - miasto;-1.0;-1.0
+1143006085;Nowe Miasto nad Pilicą - obszar wiejski;-1.0;-1.0
+1143006092;Pniewy;-1.0;-1.0
+1143006102;Tarczyn;-1.0;-1.0
+1143006113;Warka;-1.0;-1.0
+1143006114;Warka - miasto;-1.0;-1.0
+1143006115;Warka - obszar wiejski;-1.0;-1.0
+1143018000;Powiat piaseczyński;0.675808;0.47599164
+1143018013;Góra Kalwaria;-1.0;-1.0
+1143018014;Góra Kalwaria - miasto;-1.0;-1.0
+1143018015;Góra Kalwaria - obszar wiejski;-1.0;-1.0
+1143018023;Konstancin-Jeziorna;-1.0;-1.0
+1143018024;Konstancin-Jeziorna - miasto;-1.0;-1.0
+1143018025;Konstancin-Jeziorna - obszar wiejski;-1.0;-1.0
+1143018032;Lesznowola;-1.0;-1.0
+1143018043;Piaseczno;-1.0;-1.0
+1143018044;Piaseczno - miasto;-1.0;-1.0
+1143018045;Piaseczno - obszar wiejski;-1.0;-1.0
+1143018052;Prażmów;-1.0;-1.0
+1143018063;Tarczyn;-1.0;-1.0
+1143018064;Tarczyn - miasto;-1.0;-1.0
+1143018065;Tarczyn - obszar wiejski;-1.0;-1.0
+1143021000;Powiat pruszkowski;0.65230167;0.46137786
+1143021011;Piastów;-1.0;-1.0
+1143021021;Pruszków;-1.0;-1.0
+1143021033;Brwinów;-1.0;-1.0
+1143021034;Brwinów - miasto;-1.0;-1.0
+1143021035;Brwinów - obszar wiejski;-1.0;-1.0
+1143021042;Michałowice;-1.0;-1.0
+1143021052;Nadarzyn;-1.0;-1.0
+1143021062;Raszyn;-1.0;-1.0
+1143028000;Powiat sochaczewski;0.60039175;0.4519833
+1143028011;Sochaczew;-1.0;-1.0
+1143028022;Brochów;-1.0;-1.0
+1143028032;Iłów;-1.0;-1.0
+1143028042;Młodzieszyn;-1.0;-1.0
+1143028052;Nowa Sucha;-1.0;-1.0
+1143028062;Rybno;-1.0;-1.0
+1143028072;Sochaczew;-1.0;-1.0
+1143028082;Teresin;-1.0;-1.0
+1143032000;Powiat warszawski zachodni;0.675808;0.44989562
+1143032013;Błonie;-1.0;-1.0
+1143032014;Błonie - miasto;-1.0;-1.0
+1143032015;Błonie - obszar wiejski;-1.0;-1.0
+1143032022;Izabelin;-1.0;-1.0
+1143032032;Kampinos;-1.0;-1.0
+1143032042;Leszno;-1.0;-1.0
+1143032053;Łomianki;-1.0;-1.0
+1143032054;Łomianki - miasto;-1.0;-1.0
+1143032055;Łomianki - obszar wiejski;-1.0;-1.0
+1143032063;Ożarów Mazowiecki;-1.0;-1.0
+1143032064;Ożarów Mazowiecki - miasto;-1.0;-1.0
+1143032065;Ożarów Mazowiecki - obszar wiejski;-1.0;-1.0
+1143032072;Stare Babice;-1.0;-1.0
+1143038000;Powiat żyrardowski;0.6141038;0.48225468
+1143038011;Żyrardów;-1.0;-1.0
+1143038023;Mszczonów;-1.0;-1.0
+1143038024;Mszczonów - miasto;-1.0;-1.0
+1143038025;Mszczonów - obszar wiejski;-1.0;-1.0
+1143038032;Puszcza Mariańska;-1.0;-1.0
+1143038042;Radziejowice;-1.0;-1.0
+1143038052;Wiskitki;-1.0;-1.0
+2000000000;Region południowy;0.52399606;0.743215
+2120000000;MAŁOPOLSKIE;0.5719882;0.8277662
+2122000000;Podregion 20 - krakowski;0.5719882;0.8277662
+2122001000;Powiat bocheński;0.6209598;0.8434238
+2122001011;Bochnia;-1.0;-1.0
+2122001022;Bochnia;-1.0;-1.0
+2122001032;Drwinia;-1.0;-1.0
+2122001042;Lipnica Murowana;-1.0;-1.0
+2122001052;Łapanów;-1.0;-1.0
+2122001063;Nowy Wiśnicz;-1.0;-1.0
+2122001064;Nowy Wiśnicz - miasto;-1.0;-1.0
+2122001065;Nowy Wiśnicz - obszar wiejski;-1.0;-1.0
+2122001072;Rzezawa;-1.0;-1.0
+2122001082;Trzciana;-1.0;-1.0
+2122001092;Żegocina;-1.0;-1.0
+2122006000;Powiat krakowski;0.5719882;0.8277662
+2122006012;Czernichów;-1.0;-1.0
+2122006022;Igołomia-Wawrzeńczyce;-1.0;-1.0
+2122006032;Iwanowice;-1.0;-1.0
+2122006042;Jerzmanowice-Przeginia;-1.0;-1.0
+2122006052;Kocmyrzów-Luborzyca;-1.0;-1.0
+2122006063;Krzeszowice;-1.0;-1.0
+2122006064;Krzeszowice - miasto;-1.0;-1.0
+2122006065;Krzeszowice - obszar wiejski;-1.0;-1.0
+2122006072;Liszki;-1.0;-1.0
+2122006082;Michałowice;-1.0;-1.0
+2122006092;Mogilany;-1.0;-1.0
+2122006103;Skała;-1.0;-1.0
+2122006104;Skała - miasto;-1.0;-1.0
+2122006105;Skała - obszar wiejski;-1.0;-1.0
+2122006113;Skawina;-1.0;-1.0
+2122006114;Skawina - miasto;-1.0;-1.0
+2122006115;Skawina - obszar wiejski;-1.0;-1.0
+2122006123;Słomniki;-1.0;-1.0
+2122006124;Słomniki - miasto;-1.0;-1.0
+2122006125;Słomniki - obszar wiejski;-1.0;-1.0
+2122006132;Sułoszowa;-1.0;-1.0
+2122006142;Świątniki Górne;-1.0;-1.0
+2122006143;Świątniki Górne;-1.0;-1.0
+2122006144;Świątniki Górne - miasto;-1.0;-1.0
+2122006145;Świątniki Górne - obszar wiejski;-1.0;-1.0
+2122006152;Wielka Wieś;-1.0;-1.0
+2122006162;Zabierzów;-1.0;-1.0
+2122006172;Zielonki;-1.0;-1.0
+2122008000;Powiat miechowski;0.5798237;0.7745303
+2122008012;Charsznica;-1.0;-1.0
+2122008022;Gołcza;-1.0;-1.0
+2122008032;Kozłów;-1.0;-1.0
+2122008042;Książ Wielki;-1.0;-1.0
+2122008053;Miechów;-1.0;-1.0
+2122008054;Miechów - miasto;-1.0;-1.0
+2122008055;Miechów - obszar wiejski;-1.0;-1.0
+2122008062;Racławice;-1.0;-1.0
+2122008072;Słaboszów;-1.0;-1.0
+2122009000;Powiat myślenicki;0.5719882;0.8663883
+2122009013;Dobczyce;-1.0;-1.0
+2122009014;Dobczyce - miasto;-1.0;-1.0
+2122009015;Dobczyce - obszar wiejski;-1.0;-1.0
+2122009022;Lubień;-1.0;-1.0
+2122009033;Myślenice;-1.0;-1.0
+2122009034;Myślenice - miasto;-1.0;-1.0
+2122009035;Myślenice - obszar wiejski;-1.0;-1.0
+2122009042;Pcim;-1.0;-1.0
+2122009052;Raciechowice;-1.0;-1.0
+2122009062;Siepraw;-1.0;-1.0
+2122009073;Sułkowice;-1.0;-1.0
+2122009074;Sułkowice - miasto;-1.0;-1.0
+2122009075;Sułkowice - obszar wiejski;-1.0;-1.0
+2122009082;Tokarnia;-1.0;-1.0
+2122009092;Wiśniowa;-1.0;-1.0
+2122014000;Powiat proszowicki;0.60724777;0.802714
+2122014012;Koniusza;-1.0;-1.0
+2122014022;Koszyce;-1.0;-1.0
+2122014032;Nowe Brzesko;-1.0;-1.0
+2122014042;Pałecznica;-1.0;-1.0
+2122014053;Proszowice;-1.0;-1.0
+2122014054;Proszowice - miasto;-1.0;-1.0
+2122014055;Proszowice - obszar wiejski;-1.0;-1.0
+2122014062;Radziemice;-1.0;-1.0
+2122019000;Powiat wielicki;0.5837414;0.8392484
+2122019012;Biskupice;-1.0;-1.0
+2122019022;Gdów;-1.0;-1.0
+2122019032;Kłaj;-1.0;-1.0
+2122019043;Niepołomice;-1.0;-1.0
+2122019044;Niepołomice - miasto;-1.0;-1.0
+2122019045;Niepołomice - obszar wiejski;-1.0;-1.0
+2122019053;Wieliczka;-1.0;-1.0
+2122019054;Wieliczka - miasto;-1.0;-1.0
+2122019055;Wieliczka - obszar wiejski;-1.0;-1.0
+2122100000;Podregion 21 - m. Kraków;0.5719882;0.8277662
+2122161000;Powiat m.Kraków;0.5719882;0.8277662
+2122161011;Kraków;-1.0;-1.0
+2122200000;Podregion 22 - nowosądecki;0.65132225;0.9039666
+2122205000;Powiat gorlicki;0.6993144;0.8914405
+2122205011;Gorlice;-1.0;-1.0
+2122205023;Biecz;-1.0;-1.0
+2122205024;Biecz - miasto;-1.0;-1.0
+2122205025;Biecz - obszar wiejski;-1.0;-1.0
+2122205032;Bobowa;-1.0;-1.0
+2122205033;Bobowa;-1.0;-1.0
+2122205034;Bobowa - miasto;-1.0;-1.0
+2122205035;Bobowa - obszar wiejski;-1.0;-1.0
+2122205042;Gorlice;-1.0;-1.0
+2122205052;Lipinki;-1.0;-1.0
+2122205062;Łużna;-1.0;-1.0
+2122205072;Moszczenica;-1.0;-1.0
+2122205082;Ropa;-1.0;-1.0
+2122205092;Sękowa;-1.0;-1.0
+2122205102;Uście Gorlickie;-1.0;-1.0
+2122207000;Powiat limanowski;0.6199804;0.88517743
+2122207011;Limanowa;-1.0;-1.0
+2122207021;Mszana Dolna;-1.0;-1.0
+2122207032;Dobra;-1.0;-1.0
+2122207042;Jodłownik;-1.0;-1.0
+2122207052;Kamienica;-1.0;-1.0
+2122207062;Laskowa;-1.0;-1.0
+2122207072;Limanowa;-1.0;-1.0
+2122207082;Łukowica;-1.0;-1.0
+2122207092;Mszana Dolna;-1.0;-1.0
+2122207102;Niedźwiedź;-1.0;-1.0
+2122207112;Słopnice;-1.0;-1.0
+2122207122;Tymbark;-1.0;-1.0
+2122210000;Powiat nowosądecki;0.6503428;0.90501046
+2122210001;Miejska strefa usług publicznych;-1.0;-1.0
+2122210011;Grybów;-1.0;-1.0
+2122210022;Chełmiec;-1.0;-1.0
+2122210032;Gródek nad Dunajcem;-1.0;-1.0
+2122210042;Grybów;-1.0;-1.0
+2122210052;Kamionka Wielka;-1.0;-1.0
+2122210062;Korzenna;-1.0;-1.0
+2122210073;Krynica-Zdrój;-1.0;-1.0
+2122210074;Krynica-Zdrój - miasto;-1.0;-1.0
+2122210075;Krynica-Zdrój - obszar wiejski;-1.0;-1.0
+2122210082;Łabowa;-1.0;-1.0
+2122210092;Łącko;-1.0;-1.0
+2122210102;Łososina Dolna;-1.0;-1.0
+2122210113;Muszyna;-1.0;-1.0
+2122210114;Muszyna - miasto;-1.0;-1.0
+2122210115;Muszyna - obszar wiejski;-1.0;-1.0
+2122210122;Nawojowa;-1.0;-1.0
+2122210133;Piwniczna-Zdrój;-1.0;-1.0
+2122210134;Piwniczna-Zdrój - miasto;-1.0;-1.0
+2122210135;Piwniczna-Zdrój - obszar wiejski;-1.0;-1.0
+2122210142;Podegrodzie;-1.0;-1.0
+2122210152;Rytro;-1.0;-1.0
+2122210163;Stary Sącz;-1.0;-1.0
+2122210164;Stary Sącz - miasto;-1.0;-1.0
+2122210165;Stary Sącz - obszar wiejski;-1.0;-1.0
+2122211000;Powiat nowotarski;0.58080316;0.92484343
+2122211011;Nowy Targ;-1.0;-1.0
+2122211021;Szczawnica;-1.0;-1.0
+2122211023;Szczawnica;-1.0;-1.0
+2122211024;Szczawnica - miasto;-1.0;-1.0
+2122211025;Szczawnica - obszar wiejski;-1.0;-1.0
+2122211032;Czarny Dunajec;-1.0;-1.0
+2122211042;Czorsztyn;-1.0;-1.0
+2122211052;Jabłonka;-1.0;-1.0
+2122211062;Krościenko nad Dunajcem;-1.0;-1.0
+2122211072;Lipnica Wielka;-1.0;-1.0
+2122211082;Łapsze Niżne;-1.0;-1.0
+2122211092;Nowy Targ;-1.0;-1.0
+2122211102;Ochotnica Dolna;-1.0;-1.0
+2122211112;Raba Wyżna;-1.0;-1.0
+2122211123;Rabka-Zdrój;-1.0;-1.0
+2122211124;Rabka-Zdrój - miasto;-1.0;-1.0
+2122211125;Rabka-Zdrój - obszar wiejski;-1.0;-1.0
+2122211132;Spytkowice;-1.0;-1.0
+2122211142;Szaflary;-1.0;-1.0
+2122217000;Powiat tatrzański;0.57492656;0.95824635
+2122217011;Zakopane;-1.0;-1.0
+2122217022;Biały Dunajec;-1.0;-1.0
+2122217032;Bukowina Tatrzańska;-1.0;-1.0
+2122217042;Kościelisko;-1.0;-1.0
+2122217052;Poronin;-1.0;-1.0
+2122262000;Powiat m.Nowy Sącz;0.65132225;0.9039666
+2122262011;Nowy Sącz;-1.0;-1.0
+2122300000;Podregion 23 - oświęcimski;0.4995103;0.83194155
+2122303000;Powiat chrzanowski;0.51420176;0.8141962
+2122303013;Alwernia;-1.0;-1.0
+2122303014;Alwernia - miasto;-1.0;-1.0
+2122303015;Alwernia - obszar wiejski;-1.0;-1.0
+2122303022;Babice;-1.0;-1.0
+2122303033;Chrzanów;-1.0;-1.0
+2122303034;Chrzanów - miasto;-1.0;-1.0
+2122303035;Chrzanów - obszar wiejski;-1.0;-1.0
+2122303043;Libiąż;-1.0;-1.0
+2122303044;Libiąż - miasto;-1.0;-1.0
+2122303045;Libiąż - obszar wiejski;-1.0;-1.0
+2122303053;Trzebinia;-1.0;-1.0
+2122303054;Trzebinia - miasto;-1.0;-1.0
+2122303055;Trzebinia - obszar wiejski;-1.0;-1.0
+2122312000;Powiat olkuski;0.52987266;0.7881002
+2122312011;Bukowno;-1.0;-1.0
+2122312021;Sławków;-1.0;-1.0
+2122312032;Bolesław;-1.0;-1.0
+2122312042;Klucze;-1.0;-1.0
+2122312053;Olkusz;-1.0;-1.0
+2122312054;Olkusz - miasto;-1.0;-1.0
+2122312055;Olkusz - obszar wiejski;-1.0;-1.0
+2122312062;Trzyciąż;-1.0;-1.0
+2122312073;Wolbrom;-1.0;-1.0
+2122312074;Wolbrom - miasto;-1.0;-1.0
+2122312075;Wolbrom - obszar wiejski;-1.0;-1.0
+2122313000;Powiat oświęcimski;0.4995103;0.8329854
+2122313011;Oświęcim;-1.0;-1.0
+2122313023;Brzeszcze;-1.0;-1.0
+2122313024;Brzeszcze - miasto;-1.0;-1.0
+2122313025;Brzeszcze - obszar wiejski;-1.0;-1.0
+2122313033;Chełmek;-1.0;-1.0
+2122313034;Chełmek - miasto;-1.0;-1.0
+2122313035;Chełmek - obszar wiejski;-1.0;-1.0
+2122313043;Kęty;-1.0;-1.0
+2122313044;Kęty - miasto;-1.0;-1.0
+2122313045;Kęty - obszar wiejski;-1.0;-1.0
+2122313052;Osiek;-1.0;-1.0
+2122313062;Oświęcim;-1.0;-1.0
+2122313072;Polanka Wielka;-1.0;-1.0
+2122313082;Przeciszów;-1.0;-1.0
+2122313093;Zator;-1.0;-1.0
+2122313094;Zator - miasto;-1.0;-1.0
+2122313095;Zator - obszar wiejski;-1.0;-1.0
+2122315000;Powiat suski;0.5337904;0.88100207
+2122315011;Jordanów;-1.0;-1.0
+2122315021;Sucha Beskidzka;-1.0;-1.0
+2122315032;Budzów;-1.0;-1.0
+2122315042;Bystra-Sidzina;-1.0;-1.0
+2122315052;Jordanów;-1.0;-1.0
+2122315063;Maków Podhalański;-1.0;-1.0
+2122315064;Maków Podhalański - miasto;-1.0;-1.0
+2122315065;Maków Podhalański - obszar wiejski;-1.0;-1.0
+2122315072;Stryszawa;-1.0;-1.0
+2122315082;Zawoja;-1.0;-1.0
+2122315092;Zembrzyce;-1.0;-1.0
+2122318000;Powiat wadowicki;0.52301663;0.85699373
+2122318013;Andrychów;-1.0;-1.0
+2122318014;Andrychów - miasto;-1.0;-1.0
+2122318015;Andrychów - obszar wiejski;-1.0;-1.0
+2122318022;Brzeźnica;-1.0;-1.0
+2122318033;Kalwaria Zebrzydowska;-1.0;-1.0
+2122318034;Kalwaria Zebrzydowska - miasto;-1.0;-1.0
+2122318035;Kalwaria Zebrzydowska - obszar wiejski;-1.0;-1.0
+2122318042;Lanckorona;-1.0;-1.0
+2122318052;Mucharz;-1.0;-1.0
+2122318062;Spytkowice;-1.0;-1.0
+2122318072;Stryszów;-1.0;-1.0
+2122318082;Tomice;-1.0;-1.0
+2122318093;Wadowice;-1.0;-1.0
+2122318094;Wadowice - miasto;-1.0;-1.0
+2122318095;Wadowice - obszar wiejski;-1.0;-1.0
+2122318102;Wieprz;-1.0;-1.0
+2122400000;Podregion 24 - tarnowski;0.675808;0.8308977
+2122402000;Powiat brzeski;0.64054847;0.8392484
+2122402012;Borzęcin;-1.0;-1.0
+2122402023;Brzesko;-1.0;-1.0
+2122402024;Brzesko - miasto;-1.0;-1.0
+2122402025;Brzesko - obszar wiejski;-1.0;-1.0
+2122402032;Czchów;-1.0;-1.0
+2122402033;Czchów;-1.0;-1.0
+2122402034;Czchów - miasto;-1.0;-1.0
+2122402035;Czchów - obszar wiejski;-1.0;-1.0
+2122402042;Dębno;-1.0;-1.0
+2122402052;Gnojnik;-1.0;-1.0
+2122402062;Iwkowa;-1.0;-1.0
+2122402072;Szczurowa;-1.0;-1.0
+2122404000;Powiat dąbrowski;0.6777669;0.8058455
+2122404012;Bolesław;-1.0;-1.0
+2122404023;Dąbrowa Tarnowska;-1.0;-1.0
+2122404024;Dąbrowa Tarnowska - miasto;-1.0;-1.0
+2122404025;Dąbrowa Tarnowska - obszar wiejski;-1.0;-1.0
+2122404032;Gręboszów;-1.0;-1.0
+2122404042;Mędrzechów;-1.0;-1.0
+2122404052;Olesno;-1.0;-1.0
+2122404062;Radgoszcz;-1.0;-1.0
+2122404072;Szczucin;-1.0;-1.0
+2122404073;Szczucin;-1.0;-1.0
+2122404074;Szczucin - miasto;-1.0;-1.0
+2122404075;Szczucin - obszar wiejski;-1.0;-1.0
+2122416000;Powiat tarnowski;0.67678744;0.8308977
+2122416012;Ciężkowice;-1.0;-1.0
+2122416013;Ciężkowice;-1.0;-1.0
+2122416014;Ciężkowice - miasto;-1.0;-1.0
+2122416015;Ciężkowice - obszar wiejski;-1.0;-1.0
+2122416022;Gromnik;-1.0;-1.0
+2122416032;Lisia Góra;-1.0;-1.0
+2122416042;Pleśna;-1.0;-1.0
+2122416052;Radłów;-1.0;-1.0
+2122416062;Ryglice;-1.0;-1.0
+2122416063;Ryglice;-1.0;-1.0
+2122416064;Ryglice - miasto;-1.0;-1.0
+2122416065;Ryglice - obszar wiejski;-1.0;-1.0
+2122416072;Rzepiennik Strzyżewski;-1.0;-1.0
+2122416082;Skrzyszów;-1.0;-1.0
+2122416092;Tarnów;-1.0;-1.0
+2122416103;Tuchów;-1.0;-1.0
+2122416104;Tuchów - miasto;-1.0;-1.0
+2122416105;Tuchów - obszar wiejski;-1.0;-1.0
+2122416112;Wierzchosławice;-1.0;-1.0
+2122416122;Wietrzychowice;-1.0;-1.0
+2122416132;Wojnicz;-1.0;-1.0
+2122416133;Wojnicz;-1.0;-1.0
+2122416134;Wojnicz - miasto;-1.0;-1.0
+2122416135;Wojnicz - obszar wiejski;-1.0;-1.0
+2122416142;Zakliczyn;-1.0;-1.0
+2122416143;Zakliczyn;-1.0;-1.0
+2122416144;Zakliczyn - miasto;-1.0;-1.0
+2122416145;Zakliczyn - obszar wiejski;-1.0;-1.0
+2122416153;Żabno;-1.0;-1.0
+2122416154;Żabno - miasto;-1.0;-1.0
+2122416155;Żabno - obszar wiejski;-1.0;-1.0
+2122416162;Szerzyny;-1.0;-1.0
+2122463000;Powiat m.Tarnów;0.67678744;0.8308977
+2122463011;Tarnów;-1.0;-1.0
+2240000000;ŚLĄSKIE;0.4750245;0.79749477
+2244400000;Podregion 44 - bielski;0.47698334;0.8674322
+2244402000;Powiat bielski;0.47698334;0.8674322
+2244402011;Szczyrk;-1.0;-1.0
+2244402022;Bestwina;-1.0;-1.0
+2244402032;Buczkowice;-1.0;-1.0
+2244402043;Czechowice-Dziedzice;-1.0;-1.0
+2244402044;Czechowice-Dziedzice - miasto;-1.0;-1.0
+2244402045;Czechowice-Dziedzice - obszar wiejski;-1.0;-1.0
+2244402052;Jasienica;-1.0;-1.0
+2244402062;Jaworze;-1.0;-1.0
+2244402072;Kozy;-1.0;-1.0
+2244402082;Porąbka;-1.0;-1.0
+2244402093;Wilamowice;-1.0;-1.0
+2244402094;Wilamowice - miasto;-1.0;-1.0
+2244402095;Wilamowice - obszar wiejski;-1.0;-1.0
+2244402102;Wilkowice;-1.0;-1.0
+2244403000;Powiat cieszyński;0.43780607;0.8768267
+2244403011;Cieszyn;-1.0;-1.0
+2244403021;Ustroń;-1.0;-1.0
+2244403031;Wisła;-1.0;-1.0
+2244403042;Brenna;-1.0;-1.0
+2244403052;Chybie;-1.0;-1.0
+2244403062;Dębowiec;-1.0;-1.0
+2244403072;Goleszów;-1.0;-1.0
+2244403082;Hażlach;-1.0;-1.0
+2244403092;Istebna;-1.0;-1.0
+2244403103;Skoczów;-1.0;-1.0
+2244403104;Skoczów - miasto;-1.0;-1.0
+2244403105;Skoczów - obszar wiejski;-1.0;-1.0
+2244403113;Strumień;-1.0;-1.0
+2244403114;Strumień - miasto;-1.0;-1.0
+2244403115;Strumień - obszar wiejski;-1.0;-1.0
+2244403122;Zebrzydowice;-1.0;-1.0
+2244417000;Powiat żywiecki;0.49265426;0.89352816
+2244417011;Żywiec;-1.0;-1.0
+2244417022;Czernichów;-1.0;-1.0
+2244417032;Gilowice;-1.0;-1.0
+2244417042;Jeleśnia;-1.0;-1.0
+2244417052;Koszarawa;-1.0;-1.0
+2244417062;Lipowa;-1.0;-1.0
+2244417072;Łękawica;-1.0;-1.0
+2244417082;Łodygowice;-1.0;-1.0
+2244417092;Milówka;-1.0;-1.0
+2244417102;Radziechowy-Wieprz;-1.0;-1.0
+2244417112;Rajcza;-1.0;-1.0
+2244417122;Ślemień;-1.0;-1.0
+2244417132;Świnna;-1.0;-1.0
+2244417142;Ujsoły;-1.0;-1.0
+2244417152;Węgierska Górka;-1.0;-1.0
+2244461000;Powiat m.Bielsko-Biała;0.4779628;0.868476
+2244461011;Bielsko-Biała;-1.0;-1.0
+2244500000;Podregion 45 - bytomski;0.46131244;0.7755741
+2244507000;Powiat lubliniecki;0.4417238;0.7254697
+2244507011;Lubliniec;-1.0;-1.0
+2244507022;Boronów;-1.0;-1.0
+2244507032;Ciasna;-1.0;-1.0
+2244507042;Herby;-1.0;-1.0
+2244507052;Kochanowice;-1.0;-1.0
+2244507062;Koszęcin;-1.0;-1.0
+2244507072;Pawonków;-1.0;-1.0
+2244507083;Woźniki;-1.0;-1.0
+2244507084;Woźniki - miasto;-1.0;-1.0
+2244507085;Woźniki - obszar wiejski;-1.0;-1.0
+2244513000;Powiat tarnogórski;0.45739472;0.7588726
+2244513011;Kalety;-1.0;-1.0
+2244513021;Miasteczko Śląskie;-1.0;-1.0
+2244513031;Radzionków;-1.0;-1.0
+2244513041;Tarnowskie Góry;-1.0;-1.0
+2244513052;Krupski Młyn;-1.0;-1.0
+2244513062;Ożarowice;-1.0;-1.0
+2244513072;Świerklaniec;-1.0;-1.0
+2244513082;Tworóg;-1.0;-1.0
+2244513092;Zbrosławice;-1.0;-1.0
+2244562000;Powiat m.Bytom;0.46131244;0.7755741
+2244562011;Bytom;-1.0;-1.0
+2244571000;Powiat m.Piekary Śląskie;0.4701273;0.7713987
+2244571011;Piekary Śląskie;-1.0;-1.0
+2244600000;Podregion 46 - częstochowski;0.48677766;0.697286
+2244604000;Powiat częstochowski;0.48677766;0.697286
+2244604013;Blachownia;-1.0;-1.0
+2244604014;Blachownia - miasto;-1.0;-1.0
+2244604015;Blachownia - obszar wiejski;-1.0;-1.0
+2244604022;Dąbrowa Zielona;-1.0;-1.0
+2244604032;Janów;-1.0;-1.0
+2244604042;Kamienica Polska;-1.0;-1.0
+2244604052;Kłomnice;-1.0;-1.0
+2244604063;Koniecpol;-1.0;-1.0
+2244604064;Koniecpol - miasto;-1.0;-1.0
+2244604065;Koniecpol - obszar wiejski;-1.0;-1.0
+2244604072;Konopiska;-1.0;-1.0
+2244604082;Kruszyna;-1.0;-1.0
+2244604092;Lelów;-1.0;-1.0
+2244604102;Mstów;-1.0;-1.0
+2244604112;Mykanów;-1.0;-1.0
+2244604122;Olsztyn;-1.0;-1.0
+2244604132;Poczesna;-1.0;-1.0
+2244604142;Przyrów;-1.0;-1.0
+2244604152;Rędziny;-1.0;-1.0
+2244604162;Starcza;-1.0;-1.0
+2244606000;Powiat kłobucki;0.4662096;0.6795407
+2244606013;Kłobuck;-1.0;-1.0
+2244606014;Kłobuck - miasto;-1.0;-1.0
+2244606015;Kłobuck - obszar wiejski;-1.0;-1.0
+2244606023;Krzepice;-1.0;-1.0
+2244606024;Krzepice - miasto;-1.0;-1.0
+2244606025;Krzepice - obszar wiejski;-1.0;-1.0
+2244606032;Lipie;-1.0;-1.0
+2244606042;Miedźno;-1.0;-1.0
+2244606052;Opatów;-1.0;-1.0
+2244606062;Panki;-1.0;-1.0
+2244606072;Popów;-1.0;-1.0
+2244606082;Przystajń;-1.0;-1.0
+2244606092;Wręczyca Wielka;-1.0;-1.0
+2244609000;Powiat myszkowski;0.50832516;0.73903966
+2244609011;Myszków;-1.0;-1.0
+2244609023;Koziegłowy;-1.0;-1.0
+2244609024;Koziegłowy - miasto;-1.0;-1.0
+2244609025;Koziegłowy - obszar wiejski;-1.0;-1.0
+2244609032;Niegowa;-1.0;-1.0
+2244609042;Poraj;-1.0;-1.0
+2244609053;Żarki;-1.0;-1.0
+2244609054;Żarki - miasto;-1.0;-1.0
+2244609055;Żarki - obszar wiejski;-1.0;-1.0
+2244664000;Powiat m.Częstochowa;0.48677766;0.69624215
+2244664011;Częstochowa;-1.0;-1.0
+2244700000;Podregion 47 - gliwicki;0.43682665;0.78183717
+2244705000;Powiat gliwicki;0.43682665;0.78183717
+2244705011;Knurów;-1.0;-1.0
+2244705021;Pyskowice;-1.0;-1.0
+2244705032;Gierałtowice;-1.0;-1.0
+2244705042;Pilchowice;-1.0;-1.0
+2244705052;Rudziniec;-1.0;-1.0
+2244705062;Sośnicowice;-1.0;-1.0
+2244705063;Sośnicowice;-1.0;-1.0
+2244705064;Sośnicowice - miasto;-1.0;-1.0
+2244705065;Sośnicowice - obszar wiejski;-1.0;-1.0
+2244705073;Toszek;-1.0;-1.0
+2244705074;Toszek - miasto;-1.0;-1.0
+2244705075;Toszek - obszar wiejski;-1.0;-1.0
+2244705082;Wielowieś;-1.0;-1.0
+2244766000;Powiat m.Gliwice;0.43682665;0.78183717
+2244766011;Gliwice;-1.0;-1.0
+2244778000;Powiat m.Zabrze;0.4505387;0.782881
+2244778011;Zabrze;-1.0;-1.0
+2244800000;Podregion 48 - katowicki;0.47404507;0.79749477
+2244863000;Powiat m.Chorzów;0.4691479;0.7849687
+2244863011;Chorzów;-1.0;-1.0
+2244869000;Powiat m.Katowice;0.47404507;0.79749477
+2244869011;Katowice;-1.0;-1.0
+2244870000;Powiat m.Mysłowice;0.4877571;0.80167013
+2244870011;Mysłowice;-1.0;-1.0
+2244872000;Powiat m.Ruda Śląska;0.45837414;0.79227555
+2244872011;Ruda Śląska;-1.0;-1.0
+2244874000;Powiat m.Siemianowice Śląskie;0.4779628;0.782881
+2244874011;Siemianowice Śląskie;-1.0;-1.0
+2244876000;Powiat m.Świętochłowice;0.4632713;0.78601253
+2244876011;Świętochłowice;-1.0;-1.0
+2244900000;Podregion 49 - rybnicki;0.4260529;0.81941545
+2244911000;Powiat raciborski;0.3927522;0.8183716
+2244911011;Racibórz;-1.0;-1.0
+2244911022;Kornowac;-1.0;-1.0
+2244911032;Krzanowice;-1.0;-1.0
+2244911033;Krzanowice;-1.0;-1.0
+2244911034;Krzanowice - miasto;-1.0;-1.0
+2244911035;Krzanowice - obszar wiejski;-1.0;-1.0
+2244911042;Krzyżanowice;-1.0;-1.0
+2244911053;Kuźnia Raciborska;-1.0;-1.0
+2244911054;Kuźnia Raciborska - miasto;-1.0;-1.0
+2244911055;Kuźnia Raciborska - obszar wiejski;-1.0;-1.0
+2244911062;Nędza;-1.0;-1.0
+2244911072;Pietrowice Wielkie;-1.0;-1.0
+2244911082;Rudnik;-1.0;-1.0
+2244912000;Powiat rybnicki;0.4260529;0.81941545
+2244912013;Czerwionka-Leszczyny;-1.0;-1.0
+2244912014;Czerwionka-Leszczyny - miasto;-1.0;-1.0
+2244912015;Czerwionka-Leszczyny - obszar wiejski;-1.0;-1.0
+2244912022;Gaszowice;-1.0;-1.0
+2244912032;Jejkowice;-1.0;-1.0
+2244912042;Lyski;-1.0;-1.0
+2244912052;Świerklany;-1.0;-1.0
+2244915000;Powiat wodzisławski;0.4142997;0.83507305
+2244915011;Pszów;-1.0;-1.0
+2244915021;Radlin;-1.0;-1.0
+2244915031;Rydułtowy;-1.0;-1.0
+2244915041;Wodzisław Śląski;-1.0;-1.0
+2244915052;Godów;-1.0;-1.0
+2244915062;Gorzyce;-1.0;-1.0
+2244915072;Lubomia;-1.0;-1.0
+2244915082;Marklowice;-1.0;-1.0
+2244915092;Mszana;-1.0;-1.0
+2244967000;Powiat m.Jastrzębie-Zdrój;0.43290892;0.8455115
+2244967011;Jastrzębie-Zdrój;-1.0;-1.0
+2244973000;Powiat m.Rybnik;0.4260529;0.81941545
+2244973011;Rybnik;-1.0;-1.0
+2244979000;Powiat m.Żory;0.44270322;0.82985383
+2244979011;Żory;-1.0;-1.0
+2245000000;Podregion 50 - sosnowiecki;0.4906954;0.7901879
+2245001000;Powiat będziński;0.48579824;0.77870566
+2245001011;Będzin;-1.0;-1.0
+2245001021;Czeladź;-1.0;-1.0
+2245001031;Wojkowice;-1.0;-1.0
+2245001042;Bobrowniki;-1.0;-1.0
+2245001052;Mierzęcice;-1.0;-1.0
+2245001062;Psary;-1.0;-1.0
+2245001073;Siewierz;-1.0;-1.0
+2245001074;Siewierz - miasto;-1.0;-1.0
+2245001075;Siewierz - obszar wiejski;-1.0;-1.0
+2245001081;Sławków;-1.0;-1.0
+2245016000;Powiat zawierciański;0.5181195;0.7505219
+2245016011;Poręba;-1.0;-1.0
+2245016021;Zawiercie;-1.0;-1.0
+2245016032;Irządze;-1.0;-1.0
+2245016042;Kroczyce;-1.0;-1.0
+2245016053;Łazy;-1.0;-1.0
+2245016054;Łazy - miasto;-1.0;-1.0
+2245016055;Łazy - obszar wiejski;-1.0;-1.0
+2245016063;Ogrodzieniec;-1.0;-1.0
+2245016064;Ogrodzieniec - miasto;-1.0;-1.0
+2245016065;Ogrodzieniec - obszar wiejski;-1.0;-1.0
+2245016073;Pilica;-1.0;-1.0
+2245016074;Pilica - miasto;-1.0;-1.0
+2245016075;Pilica - obszar wiejski;-1.0;-1.0
+2245016083;Szczekociny;-1.0;-1.0
+2245016084;Szczekociny - miasto;-1.0;-1.0
+2245016085;Szczekociny - obszar wiejski;-1.0;-1.0
+2245016092;Włodowice;-1.0;-1.0
+2245016102;Żarnowiec;-1.0;-1.0
+2245065000;Powiat m.Dąbrowa Górnicza;0.50146914;0.77661794
+2245065011;Dąbrowa Górnicza;-1.0;-1.0
+2245068000;Powiat m.Jaworzno;0.50146914;0.7985386
+2245068011;Jaworzno;-1.0;-1.0
+2245075000;Powiat m.Sosnowiec;0.49167484;0.7901879
+2245075011;Sosnowiec;-1.0;-1.0
+2245100000;Podregion 51 - tyski;0.4720862;0.8152401
+2245108000;Powiat mikołowski;0.46033302;0.80375785
+2245108011;Łaziska Górne;-1.0;-1.0
+2245108021;Mikołów;-1.0;-1.0
+2245108031;Orzesze;-1.0;-1.0
+2245108042;Ornontowice;-1.0;-1.0
+2245108052;Wyry;-1.0;-1.0
+2245110000;Powiat pszczyński;0.4662096;0.8392484
+2245110012;Goczałkowice-Zdrój;-1.0;-1.0
+2245110022;Kobiór;-1.0;-1.0
+2245110032;Miedźna;-1.0;-1.0
+2245110042;Pawłowice;-1.0;-1.0
+2245110053;Pszczyna;-1.0;-1.0
+2245110054;Pszczyna - miasto;-1.0;-1.0
+2245110055;Pszczyna - obszar wiejski;-1.0;-1.0
+2245110062;Suszec;-1.0;-1.0
+2245114000;Powiat bieruńsko-lędziński;0.48285994;0.8204593
+2245114011;Bieruń;-1.0;-1.0
+2245114021;Imielin;-1.0;-1.0
+2245114031;Lędziny;-1.0;-1.0
+2245114042;Bojszowy;-1.0;-1.0
+2245114052;Chełm Śląski;-1.0;-1.0
+2245177000;Powiat m.Tychy;0.4720862;0.8141962
+2245177011;Tychy;-1.0;-1.0
+3000000000;Region wschodni;0.78746325;0.53131527
+3060000000;LUBELSKIE;0.83251715;0.6169102
+3060900000;Podregion 9 - bialski;0.884427;0.4770355
+3060901000;Powiat bialski;0.884427;0.4770355
+3060901011;Międzyrzec Podlaski;-1.0;-1.0
+3060901021;Terespol;-1.0;-1.0
+3060901032;Biała Podlaska;-1.0;-1.0
+3060901042;Drelów;-1.0;-1.0
+3060901052;Janów Podlaski;-1.0;-1.0
+3060901062;Kodeń;-1.0;-1.0
+3060901072;Konstantynów;-1.0;-1.0
+3060901082;Leśna Podlaska;-1.0;-1.0
+3060901092;Łomazy;-1.0;-1.0
+3060901102;Międzyrzec Podlaski;-1.0;-1.0
+3060901112;Piszczac;-1.0;-1.0
+3060901122;Rokitno;-1.0;-1.0
+3060901132;Rossosz;-1.0;-1.0
+3060901142;Sławatycze;-1.0;-1.0
+3060901152;Sosnówka;-1.0;-1.0
+3060901162;Terespol;-1.0;-1.0
+3060901172;Tuczna;-1.0;-1.0
+3060901182;Wisznice;-1.0;-1.0
+3060901192;Zalesie;-1.0;-1.0
+3060913000;Powiat parczewski;0.86385894;0.54384136
+3060913012;Dębowa Kłoda;-1.0;-1.0
+3060913022;Jabłoń;-1.0;-1.0
+3060913032;Milanów;-1.0;-1.0
+3060913043;Parczew;-1.0;-1.0
+3060913044;Parczew - miasto;-1.0;-1.0
+3060913045;Parczew - obszar wiejski;-1.0;-1.0
+3060913052;Podedwórze;-1.0;-1.0
+3060913062;Siemień;-1.0;-1.0
+3060913072;Sosnowica;-1.0;-1.0
+3060915000;Powiat radzyński;0.834476;0.52296454
+3060915011;Radzyń Podlaski;-1.0;-1.0
+3060915022;Borki;-1.0;-1.0
+3060915032;Czemierniki;-1.0;-1.0
+3060915042;Kąkolewnica Wschodnia;-1.0;-1.0
+3060915052;Komarówka Podlaska;-1.0;-1.0
+3060915062;Radzyń Podlaski;-1.0;-1.0
+3060915072;Ulan-Majorat;-1.0;-1.0
+3060915082;Wohyń;-1.0;-1.0
+3060919000;Powiat włodawski;0.9294809;0.5584551
+3060919011;Włodawa;-1.0;-1.0
+3060919022;Hanna;-1.0;-1.0
+3060919032;Hańsk;-1.0;-1.0
+3060919042;Stary Brus;-1.0;-1.0
+3060919052;Urszulin;-1.0;-1.0
+3060919062;Włodawa;-1.0;-1.0
+3060919072;Wola Uhruska;-1.0;-1.0
+3060919082;Wyryki;-1.0;-1.0
+3060961000;Powiat m.Biała Podlaska;0.884427;0.47599164
+3060961011;Biała Podlaska;-1.0;-1.0
+3061000000;Podregion 10 - chełmsko-zamojski;0.91478944;0.6607516
+3061002000;Powiat biłgorajski;0.85406464;0.7348643
+3061002011;Biłgoraj;-1.0;-1.0
+3061002022;Aleksandrów;-1.0;-1.0
+3061002032;Biłgoraj;-1.0;-1.0
+3061002042;Biszcza;-1.0;-1.0
+3061002053;Frampol;-1.0;-1.0
+3061002054;Frampol - miasto;-1.0;-1.0
+3061002055;Frampol - obszar wiejski;-1.0;-1.0
+3061002062;Goraj;-1.0;-1.0
+3061002073;Józefów;-1.0;-1.0
+3061002074;Józefów - miasto;-1.0;-1.0
+3061002075;Józefów - obszar wiejski;-1.0;-1.0
+3061002082;Księżpol;-1.0;-1.0
+3061002092;Łukowa;-1.0;-1.0
+3061002102;Obsza;-1.0;-1.0
+3061002112;Potok Górny;-1.0;-1.0
+3061002123;Tarnogród;-1.0;-1.0
+3061002124;Tarnogród - miasto;-1.0;-1.0
+3061002125;Tarnogród - obszar wiejski;-1.0;-1.0
+3061002132;Tereszpol;-1.0;-1.0
+3061002142;Turobin;-1.0;-1.0
+3061003000;Powiat chełmski;0.9265426;0.62734866
+3061003011;Rejowiec Fabryczny;-1.0;-1.0
+3061003022;Białopole;-1.0;-1.0
+3061003032;Chełm;-1.0;-1.0
+3061003042;Dorohusk;-1.0;-1.0
+3061003052;Dubienka;-1.0;-1.0
+3061003062;Kamień;-1.0;-1.0
+3061003072;Leśniowice;-1.0;-1.0
+3061003082;Rejowiec Fabryczny;-1.0;-1.0
+3061003092;Ruda-Huta;-1.0;-1.0
+3061003102;Sawin;-1.0;-1.0
+3061003112;Siedliszcze;-1.0;-1.0
+3061003122;Wierzbica;-1.0;-1.0
+3061003132;Wojsławice;-1.0;-1.0
+3061003142;Żmudź;-1.0;-1.0
+3061003152;Rejowiec;-1.0;-1.0
+3061004000;Powiat hrubieszowski;0.9715965;0.68371606
+3061004011;Hrubieszów;-1.0;-1.0
+3061004022;Dołhobyczów;-1.0;-1.0
+3061004032;Horodło;-1.0;-1.0
+3061004042;Hrubieszów;-1.0;-1.0
+3061004052;Mircze;-1.0;-1.0
+3061004062;Trzeszczany;-1.0;-1.0
+3061004072;Uchanie;-1.0;-1.0
+3061004082;Werbkowice;-1.0;-1.0
+3061006000;Powiat krasnostawski;0.8961802;0.65553236
+3061006011;Krasnystaw;-1.0;-1.0
+3061006022;Fajsławice;-1.0;-1.0
+3061006032;Gorzków;-1.0;-1.0
+3061006042;Izbica;-1.0;-1.0
+3061006052;Krasnystaw;-1.0;-1.0
+3061006062;Kraśniczyn;-1.0;-1.0
+3061006072;Łopiennik Górny;-1.0;-1.0
+3061006082;Rejowiec;-1.0;-1.0
+3061006092;Rudnik;-1.0;-1.0
+3061006102;Siennica Różana;-1.0;-1.0
+3061006112;Żółkiewka;-1.0;-1.0
+3061018000;Powiat tomaszowski;0.92752206;0.74634653
+3061018011;Tomaszów Lubelski;-1.0;-1.0
+3061018022;Bełżec;-1.0;-1.0
+3061018032;Jarczów;-1.0;-1.0
+3061018042;Krynice;-1.0;-1.0
+3061018052;Lubycza Królewska;-1.0;-1.0
+3061018062;Łaszczów;-1.0;-1.0
+3061018072;Rachanie;-1.0;-1.0
+3061018082;Susiec;-1.0;-1.0
+3061018092;Tarnawatka;-1.0;-1.0
+3061018102;Telatyn;-1.0;-1.0
+3061018112;Tomaszów Lubelski;-1.0;-1.0
+3061018122;Tyszowce;-1.0;-1.0
+3061018123;Tyszowce;-1.0;-1.0
+3061018124;Tyszowce - miasto;-1.0;-1.0
+3061018125;Tyszowce - obszar wiejski;-1.0;-1.0
+3061018132;Ulhówek;-1.0;-1.0
+3061020000;Powiat zamojski;0.9079334;0.7014614
+3061020012;Adamów;-1.0;-1.0
+3061020022;Grabowiec;-1.0;-1.0
+3061020032;Komarów-Osada;-1.0;-1.0
+3061020043;Krasnobród;-1.0;-1.0
+3061020044;Krasnobród - miasto;-1.0;-1.0
+3061020045;Krasnobród - obszar wiejski;-1.0;-1.0
+3061020052;Łabunie;-1.0;-1.0
+3061020062;Miączyn;-1.0;-1.0
+3061020072;Nielisz;-1.0;-1.0
+3061020082;Radecznica;-1.0;-1.0
+3061020092;Sitno;-1.0;-1.0
+3061020102;Skierbieszów;-1.0;-1.0
+3061020112;Stary Zamość;-1.0;-1.0
+3061020122;Sułów;-1.0;-1.0
+3061020133;Szczebrzeszyn;-1.0;-1.0
+3061020134;Szczebrzeszyn - miasto;-1.0;-1.0
+3061020135;Szczebrzeszyn - obszar wiejski;-1.0;-1.0
+3061020142;Zamość;-1.0;-1.0
+3061020153;Zwierzyniec;-1.0;-1.0
+3061020154;Zwierzyniec - miasto;-1.0;-1.0
+3061020155;Zwierzyniec - obszar wiejski;-1.0;-1.0
+3061062000;Powiat m.Chełm;0.9265426;0.62839246
+3061062011;Chełm;-1.0;-1.0
+3061064000;Powiat m.Zamość;0.906954;0.7004175
+3061064011;Zamość;-1.0;-1.0
+3061100000;Podregion 11 - lubelski;0.8315377;0.61586636
+3061108000;Powiat lubartowski;0.834476;0.5772443
+3061108011;Lubartów;-1.0;-1.0
+3061108022;Abramów;-1.0;-1.0
+3061108032;Firlej;-1.0;-1.0
+3061108042;Jeziorzany;-1.0;-1.0
+3061108052;Kamionka;-1.0;-1.0
+3061108063;Kock;-1.0;-1.0
+3061108064;Kock - miasto;-1.0;-1.0
+3061108065;Kock - obszar wiejski;-1.0;-1.0
+3061108072;Lubartów;-1.0;-1.0
+3061108082;Michów;-1.0;-1.0
+3061108092;Niedźwiada;-1.0;-1.0
+3061108103;Ostrów Lubelski;-1.0;-1.0
+3061108104;Ostrów Lubelski - miasto;-1.0;-1.0
+3061108105;Ostrów Lubelski - obszar wiejski;-1.0;-1.0
+3061108112;Ostrówek;-1.0;-1.0
+3061108122;Serniki;-1.0;-1.0
+3061108132;Uścimów;-1.0;-1.0
+3061109000;Powiat lubelski;0.8315377;0.6169102
+3061109013;Bełżyce;-1.0;-1.0
+3061109014;Bełżyce - miasto;-1.0;-1.0
+3061109015;Bełżyce - obszar wiejski;-1.0;-1.0
+3061109022;Borzechów;-1.0;-1.0
+3061109033;Bychawa;-1.0;-1.0
+3061109034;Bychawa - miasto;-1.0;-1.0
+3061109035;Bychawa - obszar wiejski;-1.0;-1.0
+3061109042;Garbów;-1.0;-1.0
+3061109052;Głusk;-1.0;-1.0
+3061109062;Jabłonna;-1.0;-1.0
+3061109072;Jastków;-1.0;-1.0
+3061109082;Konopnica;-1.0;-1.0
+3061109092;Krzczonów;-1.0;-1.0
+3061109102;Niedrzwica Duża;-1.0;-1.0
+3061109112;Niemce;-1.0;-1.0
+3061109122;Strzyżewice;-1.0;-1.0
+3061109132;Wojciechów;-1.0;-1.0
+3061109142;Wólka;-1.0;-1.0
+3061109152;Wysokie;-1.0;-1.0
+3061109162;Zakrzew;-1.0;-1.0
+3061110000;Powiat łęczyński;0.86679727;0.60334027
+3061110012;Cyców;-1.0;-1.0
+3061110022;Ludwin;-1.0;-1.0
+3061110033;Łęczna;-1.0;-1.0
+3061110034;Łęczna - miasto;-1.0;-1.0
+3061110035;Łęczna - obszar wiejski;-1.0;-1.0
+3061110042;Milejów;-1.0;-1.0
+3061110052;Puchaczów;-1.0;-1.0
+3061110062;Spiczyn;-1.0;-1.0
+3061117000;Powiat świdnicki;0.8472086;0.6179541
+3061117011;Świdnik;-1.0;-1.0
+3061117022;Mełgiew;-1.0;-1.0
+3061117033;Piaski;-1.0;-1.0
+3061117034;Piaski - miasto;-1.0;-1.0
+3061117035;Piaski - obszar wiejski;-1.0;-1.0
+3061117042;Rybczewice;-1.0;-1.0
+3061117052;Trawniki;-1.0;-1.0
+3061163000;Powiat m.Lublin;0.83251715;0.61586636
+3061163011;Lublin;-1.0;-1.0
+3061200000;Podregion 12 - puławski;0.7747307;0.5866388
+3061205000;Powiat janowski;0.8227228;0.70772445
+3061205012;Batorz;-1.0;-1.0
+3061205022;Chrzanów;-1.0;-1.0
+3061205032;Dzwola;-1.0;-1.0
+3061205042;Godziszów;-1.0;-1.0
+3061205053;Janów Lubelski;-1.0;-1.0
+3061205054;Janów Lubelski - miasto;-1.0;-1.0
+3061205055;Janów Lubelski - obszar wiejski;-1.0;-1.0
+3061205062;Modliborzyce;-1.0;-1.0
+3061205072;Potok Wielki;-1.0;-1.0
+3061207000;Powiat kraśnicki;0.8001959;0.6691023
+3061207011;Kraśnik;-1.0;-1.0
+3061207022;Annopol;-1.0;-1.0
+3061207023;Annopol;-1.0;-1.0
+3061207024;Annopol - miasto;-1.0;-1.0
+3061207025;Annopol - obszar wiejski;-1.0;-1.0
+3061207032;Dzierzkowice;-1.0;-1.0
+3061207042;Gościeradów;-1.0;-1.0
+3061207052;Kraśnik;-1.0;-1.0
+3061207062;Szastarka;-1.0;-1.0
+3061207072;Trzydnik Duży;-1.0;-1.0
+3061207082;Urzędów;-1.0;-1.0
+3061207092;Wilkołaz;-1.0;-1.0
+3061207102;Zakrzówek;-1.0;-1.0
+3061211000;Powiat łukowski;0.8099902;0.49791232
+3061211011;Łuków;-1.0;-1.0
+3061211021;Stoczek Łukowski;-1.0;-1.0
+3061211032;Adamów;-1.0;-1.0
+3061211042;Krzywda;-1.0;-1.0
+3061211052;Łuków;-1.0;-1.0
+3061211062;Serokomla;-1.0;-1.0
+3061211072;Stanin;-1.0;-1.0
+3061211082;Stoczek Łukowski;-1.0;-1.0
+3061211083;Stoczek Łukowski;-1.0;-1.0
+3061211084;Stoczek Łukowski - miasto;-1.0;-1.0
+3061211085;Stoczek Łukowski - obszar wiejski;-1.0;-1.0
+3061211092;Trzebieszów;-1.0;-1.0
+3061211102;Wojcieszków;-1.0;-1.0
+3061211112;Wola Mysłowska;-1.0;-1.0
+3061212000;Powiat opolski;0.7737512;0.631524
+3061212012;Chodel;-1.0;-1.0
+3061212022;Józefów nad Wisłą;-1.0;-1.0
+3061212032;Karczmiska;-1.0;-1.0
+3061212042;Łaziska;-1.0;-1.0
+3061212053;Opole Lubelskie;-1.0;-1.0
+3061212054;Opole Lubelskie - miasto;-1.0;-1.0
+3061212055;Opole Lubelskie - obszar wiejski;-1.0;-1.0
+3061212063;Poniatowa;-1.0;-1.0
+3061212064;Poniatowa - miasto;-1.0;-1.0
+3061212065;Poniatowa - obszar wiejski;-1.0;-1.0
+3061212072;Wilków;-1.0;-1.0
+3061214000;Powiat puławski;0.7747307;0.5887265
+3061214011;Puławy;-1.0;-1.0
+3061214022;Baranów;-1.0;-1.0
+3061214032;Janowiec;-1.0;-1.0
+3061214043;Kazimierz Dolny;-1.0;-1.0
+3061214044;Kazimierz Dolny - miasto;-1.0;-1.0
+3061214045;Kazimierz Dolny - obszar wiejski;-1.0;-1.0
+3061214052;Końskowola;-1.0;-1.0
+3061214062;Kurów;-1.0;-1.0
+3061214072;Markuszów;-1.0;-1.0
+3061214083;Nałęczów;-1.0;-1.0
+3061214084;Nałęczów - miasto;-1.0;-1.0
+3061214085;Nałęczów - obszar wiejski;-1.0;-1.0
+3061214092;Puławy;-1.0;-1.0
+3061214102;Wąwolnica;-1.0;-1.0
+3061214112;Żyrzyn;-1.0;-1.0
+3061216000;Powiat rycki;0.7668952;0.55114824
+3061216011;Dęblin;-1.0;-1.0
+3061216022;Kłoczew;-1.0;-1.0
+3061216032;Nowodwór;-1.0;-1.0
+3061216043;Ryki;-1.0;-1.0
+3061216044;Ryki - miasto;-1.0;-1.0
+3061216045;Ryki - obszar wiejski;-1.0;-1.0
+3061216052;Stężyca;-1.0;-1.0
+3061216062;Ułęż;-1.0;-1.0
+3180000000;PODKARPACKIE;0.78354555;0.8246347
+3183300000;Podregion 33 - krośnieński;0.76003915;0.88413364
+3183301000;Powiat bieszczadzki;0.84818804;0.9258873
+3183301012;Baligród;-1.0;-1.0
+3183301022;Cisna;-1.0;-1.0
+3183301032;Czarna;-1.0;-1.0
+3183301043;Lesko;-1.0;-1.0
+3183301044;Lesko - miasto;-1.0;-1.0
+3183301045;Lesko - obszar wiejski;-1.0;-1.0
+3183301052;Lutowiska;-1.0;-1.0
+3183301062;Olszanica;-1.0;-1.0
+3183301072;Solina;-1.0;-1.0
+3183301083;Ustrzyki Dolne;-1.0;-1.0
+3183301084;Ustrzyki Dolne - miasto;-1.0;-1.0
+3183301085;Ustrzyki Dolne - obszar wiejski;-1.0;-1.0
+3183302000;Powiat brzozowski;0.78844273;0.8830898
+3183302013;Brzozów;-1.0;-1.0
+3183302014;Brzozów - miasto;-1.0;-1.0
+3183302015;Brzozów - obszar wiejski;-1.0;-1.0
+3183302022;Domaradz;-1.0;-1.0
+3183302032;Dydnia;-1.0;-1.0
+3183302042;Haczów;-1.0;-1.0
+3183302052;Jasienica Rosielna;-1.0;-1.0
+3183302062;Nozdrzec;-1.0;-1.0
+3183305000;Powiat jasielski;0.7296768;0.8768267
+3183305011;Jasło;-1.0;-1.0
+3183305022;Brzyska;-1.0;-1.0
+3183305032;Dębowiec;-1.0;-1.0
+3183305042;Jasło;-1.0;-1.0
+3183305052;Kołaczyce;-1.0;-1.0
+3183305062;Krempna;-1.0;-1.0
+3183305072;Nowy Żmigród;-1.0;-1.0
+3183305082;Osiek Jasielski;-1.0;-1.0
+3183305092;Skołyszyn;-1.0;-1.0
+3183305102;Szerzyny;-1.0;-1.0
+3183305112;Tarnowiec;-1.0;-1.0
+3183307000;Powiat krośnieński;0.7590597;0.8830898
+3183307012;Chorkówka;-1.0;-1.0
+3183307023;Dukla;-1.0;-1.0
+3183307024;Dukla - miasto;-1.0;-1.0
+3183307025;Dukla - obszar wiejski;-1.0;-1.0
+3183307033;Iwonicz-Zdrój;-1.0;-1.0
+3183307034;Iwonicz-Zdrój - miasto;-1.0;-1.0
+3183307035;Iwonicz-Zdrój - obszar wiejski;-1.0;-1.0
+3183307043;Jedlicze;-1.0;-1.0
+3183307044;Jedlicze - miasto;-1.0;-1.0
+3183307045;Jedlicze - obszar wiejski;-1.0;-1.0
+3183307052;Korczyna;-1.0;-1.0
+3183307062;Krościenko Wyżne;-1.0;-1.0
+3183307072;Miejsce Piastowe;-1.0;-1.0
+3183307083;Rymanów;-1.0;-1.0
+3183307084;Rymanów - miasto;-1.0;-1.0
+3183307085;Rymanów - obszar wiejski;-1.0;-1.0
+3183307092;Wojaszówka;-1.0;-1.0
+3183317000;Powiat sanocki;0.8080313;0.90605426
+3183317011;Sanok;-1.0;-1.0
+3183317022;Besko;-1.0;-1.0
+3183317032;Bukowsko;-1.0;-1.0
+3183317042;Komańcza;-1.0;-1.0
+3183317052;Sanok;-1.0;-1.0
+3183317062;Tyrawa Wołoska;-1.0;-1.0
+3183317073;Zagórz;-1.0;-1.0
+3183317074;Zagórz - miasto;-1.0;-1.0
+3183317075;Zagórz - obszar wiejski;-1.0;-1.0
+3183317082;Zarszyn;-1.0;-1.0
+3183321000;Powiat leski;0.8188051;0.9217119
+3183321012;Baligród;-1.0;-1.0
+3183321022;Cisna;-1.0;-1.0
+3183321033;Lesko;-1.0;-1.0
+3183321034;Lesko - miasto;-1.0;-1.0
+3183321035;Lesko - obszar wiejski;-1.0;-1.0
+3183321042;Olszanica;-1.0;-1.0
+3183321052;Solina;-1.0;-1.0
+3183361000;Powiat m.Krosno;0.76003915;0.88413364
+3183361011;Krosno;-1.0;-1.0
+3183400000;Podregion 34 - przemyski;0.86385894;0.86534446
+3183404000;Powiat jarosławski;0.85406464;0.8235908
+3183404011;Jarosław;-1.0;-1.0
+3183404021;Radymno;-1.0;-1.0
+3183404032;Chłopice;-1.0;-1.0
+3183404042;Jarosław;-1.0;-1.0
+3183404052;Laszki;-1.0;-1.0
+3183404062;Pawłosiów;-1.0;-1.0
+3183404072;Pruchnik;-1.0;-1.0
+3183404082;Radymno;-1.0;-1.0
+3183404092;Rokietnica;-1.0;-1.0
+3183404102;Roźwienica;-1.0;-1.0
+3183404112;Wiązownica;-1.0;-1.0
+3183409000;Powiat lubaczowski;0.89813906;0.8006263
+3183409011;Lubaczów;-1.0;-1.0
+3183409023;Cieszanów;-1.0;-1.0
+3183409024;Cieszanów - miasto;-1.0;-1.0
+3183409025;Cieszanów - obszar wiejski;-1.0;-1.0
+3183409032;Horyniec-Zdrój;-1.0;-1.0
+3183409042;Lubaczów;-1.0;-1.0
+3183409052;Narol;-1.0;-1.0
+3183409053;Narol;-1.0;-1.0
+3183409054;Narol - miasto;-1.0;-1.0
+3183409055;Narol - obszar wiejski;-1.0;-1.0
+3183409063;Oleszyce;-1.0;-1.0
+3183409064;Oleszyce - miasto;-1.0;-1.0
+3183409065;Oleszyce - obszar wiejski;-1.0;-1.0
+3183409072;Stary Dzików;-1.0;-1.0
+3183409082;Wielkie Oczy;-1.0;-1.0
+3183413000;Powiat przemyski;0.8648384;0.8643006
+3183413012;Bircza;-1.0;-1.0
+3183413022;Dubiecko;-1.0;-1.0
+3183413032;Fredropol;-1.0;-1.0
+3183413042;Krasiczyn;-1.0;-1.0
+3183413052;Krzywcza;-1.0;-1.0
+3183413062;Medyka;-1.0;-1.0
+3183413072;Orły;-1.0;-1.0
+3183413082;Przemyśl;-1.0;-1.0
+3183413092;Stubno;-1.0;-1.0
+3183413102;Żurawica;-1.0;-1.0
+3183414000;Powiat przeworski;0.834476;0.81941545
+3183414011;Przeworsk;-1.0;-1.0
+3183414022;Adamówka;-1.0;-1.0
+3183414032;Gać;-1.0;-1.0
+3183414042;Jawornik Polski;-1.0;-1.0
+3183414053;Kańczuga;-1.0;-1.0
+3183414054;Kańczuga - miasto;-1.0;-1.0
+3183414055;Kańczuga - obszar wiejski;-1.0;-1.0
+3183414062;Przeworsk;-1.0;-1.0
+3183414073;Sieniawa;-1.0;-1.0
+3183414074;Sieniawa - miasto;-1.0;-1.0
+3183414075;Sieniawa - obszar wiejski;-1.0;-1.0
+3183414082;Tryńcza;-1.0;-1.0
+3183414092;Zarzecze;-1.0;-1.0
+3183462000;Powiat m.Przemyśl;0.86385894;0.8632568
+3183462011;Przemyśl;-1.0;-1.0
+3183500000;Podregion 35 - rzeszowski;0.784525;0.8246347
+3183506000;Powiat kolbuszowski;0.7580803;0.7901879
+3183506012;Cmolas;-1.0;-1.0
+3183506023;Kolbuszowa;-1.0;-1.0
+3183506024;Kolbuszowa - miasto;-1.0;-1.0
+3183506025;Kolbuszowa - obszar wiejski;-1.0;-1.0
+3183506032;Majdan Królewski;-1.0;-1.0
+3183506042;Niwiska;-1.0;-1.0
+3183506052;Raniżów;-1.0;-1.0
+3183506062;Dzikowiec;-1.0;-1.0
+3183510000;Powiat łańcucki;0.8060725;0.81732774
+3183510011;Łańcut;-1.0;-1.0
+3183510022;Białobrzegi;-1.0;-1.0
+3183510032;Czarna;-1.0;-1.0
+3183510042;Łańcut;-1.0;-1.0
+3183510052;Markowa;-1.0;-1.0
+3183510062;Rakszawa;-1.0;-1.0
+3183510072;Żołynia;-1.0;-1.0
+3183515000;Powiat ropczycko-sędziszowski;0.74338883;0.8215031
+3183515012;Iwierzyce;-1.0;-1.0
+3183515022;Ostrów;-1.0;-1.0
+3183515033;Ropczyce;-1.0;-1.0
+3183515034;Ropczyce - miasto;-1.0;-1.0
+3183515035;Ropczyce - obszar wiejski;-1.0;-1.0
+3183515043;Sędziszów Małopolski;-1.0;-1.0
+3183515044;Sędziszów Małopolski - miasto;-1.0;-1.0
+3183515045;Sędziszów Małopolski - obszar wiejski;-1.0;-1.0
+3183515052;Wielopole Skrzyńskie;-1.0;-1.0
+3183516000;Powiat rzeszowski;0.78256613;0.8267223
+3183516011;Dynów;-1.0;-1.0
+3183516023;Błażowa;-1.0;-1.0
+3183516024;Błażowa - miasto;-1.0;-1.0
+3183516025;Błażowa - obszar wiejski;-1.0;-1.0
+3183516032;Boguchwała;-1.0;-1.0
+3183516033;Boguchwała;-1.0;-1.0
+3183516034;Boguchwała - miasto;-1.0;-1.0
+3183516035;Boguchwała - obszar wiejski;-1.0;-1.0
+3183516042;Chmielnik;-1.0;-1.0
+3183516052;Dynów;-1.0;-1.0
+3183516063;Głogów Małopolski;-1.0;-1.0
+3183516064;Głogów Małopolski - miasto;-1.0;-1.0
+3183516065;Głogów Małopolski - obszar wiejski;-1.0;-1.0
+3183516072;Hyżne;-1.0;-1.0
+3183516082;Kamień;-1.0;-1.0
+3183516092;Krasne;-1.0;-1.0
+3183516102;Lubenia;-1.0;-1.0
+3183516113;Sokołów Małopolski;-1.0;-1.0
+3183516114;Sokołów Małopolski - miasto;-1.0;-1.0
+3183516115;Sokołów Małopolski - obszar wiejski;-1.0;-1.0
+3183516122;Świlcza;-1.0;-1.0
+3183516132;Trzebownisko;-1.0;-1.0
+3183516143;Tyczyn;-1.0;-1.0
+3183516144;Tyczyn - miasto;-1.0;-1.0
+3183516145;Tyczyn - obszar wiejski;-1.0;-1.0
+3183519000;Powiat strzyżowski;0.76199806;0.85281837
+3183519012;Czudec;-1.0;-1.0
+3183519022;Frysztak;-1.0;-1.0
+3183519032;Niebylec;-1.0;-1.0
+3183519043;Strzyżów;-1.0;-1.0
+3183519044;Strzyżów - miasto;-1.0;-1.0
+3183519045;Strzyżów - obszar wiejski;-1.0;-1.0
+3183519052;Wiśniowa;-1.0;-1.0
+3183563000;Powiat m.Rzeszów;0.7815867;0.82567847
+3183563011;Rzeszów;-1.0;-1.0
+3183600000;Podregion 36 - tarnobrzeski;0.7473066;0.73590815
+3183603000;Powiat dębicki;0.72282076;0.8235908
+3183603011;Dębica;-1.0;-1.0
+3183603022;Brzostek;-1.0;-1.0
+3183603023;Brzostek;-1.0;-1.0
+3183603024;Brzostek - miasto;-1.0;-1.0
+3183603025;Brzostek - obszar wiejski;-1.0;-1.0
+3183603032;Czarna;-1.0;-1.0
+3183603042;Dębica;-1.0;-1.0
+3183603052;Jodłowa;-1.0;-1.0
+3183603063;Pilzno;-1.0;-1.0
+3183603064;Pilzno - miasto;-1.0;-1.0
+3183603065;Pilzno - obszar wiejski;-1.0;-1.0
+3183603072;Żyraków;-1.0;-1.0
+3183608000;Powiat leżajski;0.8256611;0.7849687
+3183608011;Leżajsk;-1.0;-1.0
+3183608022;Grodzisko Dolne;-1.0;-1.0
+3183608032;Kuryłówka;-1.0;-1.0
+3183608042;Leżajsk;-1.0;-1.0
+3183608053;Nowa Sarzyna;-1.0;-1.0
+3183608054;Nowa Sarzyna - miasto;-1.0;-1.0
+3183608055;Nowa Sarzyna - obszar wiejski;-1.0;-1.0
+3183611000;Powiat mielecki;0.7247796;0.78183717
+3183611011;Mielec;-1.0;-1.0
+3183611022;Borowa;-1.0;-1.0
+3183611032;Czermin;-1.0;-1.0
+3183611042;Gawłuszowice;-1.0;-1.0
+3183611052;Mielec;-1.0;-1.0
+3183611062;Padew Narodowa;-1.0;-1.0
+3183611072;Przecław;-1.0;-1.0
+3183611083;Radomyśl Wielki;-1.0;-1.0
+3183611084;Radomyśl Wielki - miasto;-1.0;-1.0
+3183611085;Radomyśl Wielki - obszar wiejski;-1.0;-1.0
+3183611092;Tuszów Narodowy;-1.0;-1.0
+3183611102;Wadowice Górne;-1.0;-1.0
+3183612000;Powiat niżański;0.79529876;0.743215
+3183612012;Harasiuki;-1.0;-1.0
+3183612022;Jarocin;-1.0;-1.0
+3183612032;Jeżowe;-1.0;-1.0
+3183612042;Krzeszów;-1.0;-1.0
+3183612053;Nisko;-1.0;-1.0
+3183612054;Nisko - miasto;-1.0;-1.0
+3183612055;Nisko - obszar wiejski;-1.0;-1.0
+3183612063;Rudnik nad Sanem;-1.0;-1.0
+3183612064;Rudnik nad Sanem - miasto;-1.0;-1.0
+3183612065;Rudnik nad Sanem - obszar wiejski;-1.0;-1.0
+3183612073;Ulanów;-1.0;-1.0
+3183612074;Ulanów - miasto;-1.0;-1.0
+3183612075;Ulanów - obszar wiejski;-1.0;-1.0
+3183618000;Powiat stalowowolski;0.7855044;0.7296451
+3183618011;Stalowa Wola;-1.0;-1.0
+3183618022;Bojanów;-1.0;-1.0
+3183618032;Pysznica;-1.0;-1.0
+3183618042;Radomyśl nad Sanem;-1.0;-1.0
+3183618052;Zaklików;-1.0;-1.0
+3183618062;Zaleszany;-1.0;-1.0
+3183620000;Powiat tarnobrzeski;0.748286;0.73590815
+3183620013;Baranów Sandomierski;-1.0;-1.0
+3183620014;Baranów Sandomierski - miasto;-1.0;-1.0
+3183620015;Baranów Sandomierski - obszar wiejski;-1.0;-1.0
+3183620022;Gorzyce;-1.0;-1.0
+3183620032;Grębów;-1.0;-1.0
+3183620043;Nowa Dęba;-1.0;-1.0
+3183620044;Nowa Dęba - miasto;-1.0;-1.0
+3183620045;Nowa Dęba - obszar wiejski;-1.0;-1.0
+3183664000;Powiat m.Tarnobrzeg;0.748286;0.7348643
+3183664011;Tarnobrzeg;-1.0;-1.0
+3200000000;PODLASKIE;0.87659156;0.28601253
+3203700000;Podregion 37 - białostocki;0.87659156;0.28601253
+3203702000;Powiat białostocki;0.87659156;0.28601253
+3203702013;Choroszcz;-1.0;-1.0
+3203702014;Choroszcz - miasto;-1.0;-1.0
+3203702015;Choroszcz - obszar wiejski;-1.0;-1.0
+3203702023;Czarna Białostocka;-1.0;-1.0
+3203702024;Czarna Białostocka - miasto;-1.0;-1.0
+3203702025;Czarna Białostocka - obszar wiejski;-1.0;-1.0
+3203702032;Dobrzyniewo Duże;-1.0;-1.0
+3203702042;Gródek;-1.0;-1.0
+3203702052;Juchnowiec Kościelny;-1.0;-1.0
+3203702063;Łapy;-1.0;-1.0
+3203702064;Łapy - miasto;-1.0;-1.0
+3203702065;Łapy - obszar wiejski;-1.0;-1.0
+3203702072;Michałowo;-1.0;-1.0
+3203702073;Michałowo;-1.0;-1.0
+3203702074;Michałowo - miasto;-1.0;-1.0
+3203702075;Michałowo - obszar wiejski;-1.0;-1.0
+3203702082;Poświętne;-1.0;-1.0
+3203702093;Supraśl;-1.0;-1.0
+3203702094;Supraśl - miasto;-1.0;-1.0
+3203702095;Supraśl - obszar wiejski;-1.0;-1.0
+3203702103;Suraż;-1.0;-1.0
+3203702104;Suraż - miasto;-1.0;-1.0
+3203702105;Suraż - obszar wiejski;-1.0;-1.0
+3203702112;Turośń Kościelna;-1.0;-1.0
+3203702123;Tykocin;-1.0;-1.0
+3203702124;Tykocin - miasto;-1.0;-1.0
+3203702125;Tykocin - obszar wiejski;-1.0;-1.0
+3203702133;Wasilków;-1.0;-1.0
+3203702134;Wasilków - miasto;-1.0;-1.0
+3203702135;Wasilków - obszar wiejski;-1.0;-1.0
+3203702143;Zabłudów;-1.0;-1.0
+3203702144;Zabłudów - miasto;-1.0;-1.0
+3203702145;Zabłudów - obszar wiejski;-1.0;-1.0
+3203702152;Zawady;-1.0;-1.0
+3203711000;Powiat sokólski;0.90891284;0.23590814
+3203711013;Dąbrowa Białostocka;-1.0;-1.0
+3203711014;Dąbrowa Białostocka - miasto;-1.0;-1.0
+3203711015;Dąbrowa Białostocka - obszar wiejski;-1.0;-1.0
+3203711022;Janów;-1.0;-1.0
+3203711032;Korycin;-1.0;-1.0
+3203711042;Krynki;-1.0;-1.0
+3203711043;Krynki;-1.0;-1.0
+3203711044;Krynki - miasto;-1.0;-1.0
+3203711045;Krynki - obszar wiejski;-1.0;-1.0
+3203711052;Kuźnica;-1.0;-1.0
+3203711062;Nowy Dwór;-1.0;-1.0
+3203711072;Sidra;-1.0;-1.0
+3203711083;Sokółka;-1.0;-1.0
+3203711084;Sokółka - miasto;-1.0;-1.0
+3203711085;Sokółka - obszar wiejski;-1.0;-1.0
+3203711092;Suchowola;-1.0;-1.0
+3203711093;Suchowola;-1.0;-1.0
+3203711094;Suchowola - miasto;-1.0;-1.0
+3203711095;Suchowola - obszar wiejski;-1.0;-1.0
+3203711102;Szudziałowo;-1.0;-1.0
+3203761000;Powiat m.Białystok;0.877571;0.28601253
+3203761011;Białystok;-1.0;-1.0
+3203800000;Podregion 38 - łomżyński;0.7708129;0.28392485
+3203803000;Powiat bielski;0.88246816;0.348643
+3203803011;Bielsk Podlaski;-1.0;-1.0
+3203803021;Brańsk;-1.0;-1.0
+3203803032;Bielsk Podlaski;-1.0;-1.0
+3203803042;Boćki;-1.0;-1.0
+3203803052;Brańsk;-1.0;-1.0
+3203803062;Orla;-1.0;-1.0
+3203803072;Rudka;-1.0;-1.0
+3203803082;Wyszki;-1.0;-1.0
+3203805000;Powiat hajnowski;0.91968656;0.35177454
+3203805011;Hajnówka;-1.0;-1.0
+3203805022;Białowieża;-1.0;-1.0
+3203805032;Czeremcha;-1.0;-1.0
+3203805042;Czyże;-1.0;-1.0
+3203805052;Dubicze Cerkiewne;-1.0;-1.0
+3203805062;Hajnówka;-1.0;-1.0
+3203805073;Kleszczele;-1.0;-1.0
+3203805074;Kleszczele - miasto;-1.0;-1.0
+3203805075;Kleszczele - obszar wiejski;-1.0;-1.0
+3203805082;Narew;-1.0;-1.0
+3203805092;Narewka;-1.0;-1.0
+3203806000;Powiat kolneński;0.7571009;0.2453027
+3203806011;Kolno;-1.0;-1.0
+3203806022;Grabowo;-1.0;-1.0
+3203806032;Kolno;-1.0;-1.0
+3203806042;Mały Płock;-1.0;-1.0
+3203806053;Stawiski;-1.0;-1.0
+3203806054;Stawiski - miasto;-1.0;-1.0
+3203806055;Stawiski - obszar wiejski;-1.0;-1.0
+3203806062;Turośl;-1.0;-1.0
+3203807000;Powiat łomżyński;0.77179235;0.28496867
+3203807013;Jedwabne;-1.0;-1.0
+3203807014;Jedwabne - miasto;-1.0;-1.0
+3203807015;Jedwabne - obszar wiejski;-1.0;-1.0
+3203807022;Łomża;-1.0;-1.0
+3203807032;Miastkowo;-1.0;-1.0
+3203807043;Nowogród;-1.0;-1.0
+3203807044;Nowogród - miasto;-1.0;-1.0
+3203807045;Nowogród - obszar wiejski;-1.0;-1.0
+3203807052;Piątnica;-1.0;-1.0
+3203807062;Przytuły;-1.0;-1.0
+3203807072;Śniadowo;-1.0;-1.0
+3203807082;Wizna;-1.0;-1.0
+3203807092;Zbójna;-1.0;-1.0
+3203810000;Powiat siemiatycki;0.85504407;0.4091858
+3203810011;Siemiatycze;-1.0;-1.0
+3203810023;Drohiczyn;-1.0;-1.0
+3203810024;Drohiczyn - miasto;-1.0;-1.0
+3203810025;Drohiczyn - obszar wiejski;-1.0;-1.0
+3203810032;Dziadkowice;-1.0;-1.0
+3203810042;Grodzisk;-1.0;-1.0
+3203810052;Mielnik;-1.0;-1.0
+3203810062;Milejczyce;-1.0;-1.0
+3203810072;Nurzec-Stacja;-1.0;-1.0
+3203810082;Perlejewo;-1.0;-1.0
+3203810092;Siemiatycze;-1.0;-1.0
+3203813000;Powiat wysokomazowiecki;0.81684625;0.32463464
+3203813011;Wysokie Mazowieckie;-1.0;-1.0
+3203813023;Ciechanowiec;-1.0;-1.0
+3203813024;Ciechanowiec - miasto;-1.0;-1.0
+3203813025;Ciechanowiec - obszar wiejski;-1.0;-1.0
+3203813032;Czyżew-Osada;-1.0;-1.0
+3203813042;Klukowo;-1.0;-1.0
+3203813052;Kobylin-Borzymy;-1.0;-1.0
+3203813062;Kulesze Kościelne;-1.0;-1.0
+3203813072;Nowe Piekuty;-1.0;-1.0
+3203813082;Sokoły;-1.0;-1.0
+3203813092;Szepietowo;-1.0;-1.0
+3203813102;Wysokie Mazowieckie;-1.0;-1.0
+3203814000;Powiat zambrowski;0.7904016;0.3162839
+3203814011;Zambrów;-1.0;-1.0
+3203814022;Kołaki Kościelne;-1.0;-1.0
+3203814032;Rutki;-1.0;-1.0
+3203814042;Szumowo;-1.0;-1.0
+3203814052;Zambrów;-1.0;-1.0
+3203862000;Powiat m.Łomża;0.77179235;0.28496867
+3203862011;Łomża;-1.0;-1.0
+3203900000;Podregion 39 - suwalski;0.8472086;0.12108559
+3203901000;Powiat augustowski;0.8530852;0.16283925
+3203901011;Augustów;-1.0;-1.0
+3203901022;Augustów;-1.0;-1.0
+3203901032;Bargłów Kościelny;-1.0;-1.0
+3203901043;Lipsk;-1.0;-1.0
+3203901044;Lipsk - miasto;-1.0;-1.0
+3203901045;Lipsk - obszar wiejski;-1.0;-1.0
+3203901052;Nowinka;-1.0;-1.0
+3203901062;Płaska;-1.0;-1.0
+3203901072;Sztabin;-1.0;-1.0
+3203904000;Powiat grajewski;0.8060725;0.20146137
+3203904011;Grajewo;-1.0;-1.0
+3203904022;Grajewo;-1.0;-1.0
+3203904032;Radziłów;-1.0;-1.0
+3203904043;Rajgród;-1.0;-1.0
+3203904044;Rajgród - miasto;-1.0;-1.0
+3203904045;Rajgród - obszar wiejski;-1.0;-1.0
+3203904053;Szczuczyn;-1.0;-1.0
+3203904054;Szczuczyn - miasto;-1.0;-1.0
+3203904055;Szczuczyn - obszar wiejski;-1.0;-1.0
+3203904062;Wąsosz;-1.0;-1.0
+3203908000;Powiat moniecki;0.841332;0.2400835
+3203908013;Goniądz;-1.0;-1.0
+3203908014;Goniądz - miasto;-1.0;-1.0
+3203908015;Goniądz - obszar wiejski;-1.0;-1.0
+3203908022;Jasionówka;-1.0;-1.0
+3203908032;Jaświły;-1.0;-1.0
+3203908043;Knyszyn;-1.0;-1.0
+3203908044;Knyszyn - miasto;-1.0;-1.0
+3203908045;Knyszyn - obszar wiejski;-1.0;-1.0
+3203908052;Krypno;-1.0;-1.0
+3203908063;Mońki;-1.0;-1.0
+3203908064;Mońki - miasto;-1.0;-1.0
+3203908065;Mońki - obszar wiejski;-1.0;-1.0
+3203908072;Trzcianne;-1.0;-1.0
+3203909000;Powiat sejneński;0.88834476;0.114822544
+3203909011;Sejny;-1.0;-1.0
+3203909022;Giby;-1.0;-1.0
+3203909032;Krasnopol;-1.0;-1.0
+3203909042;Puńsk;-1.0;-1.0
+3203909052;Sejny;-1.0;-1.0
+3203912000;Powiat suwalski;0.8472086;0.12212943
+3203912012;Bakałarzewo;-1.0;-1.0
+3203912022;Filipów;-1.0;-1.0
+3203912032;Jeleniewo;-1.0;-1.0
+3203912042;Przerośl;-1.0;-1.0
+3203912052;Raczki;-1.0;-1.0
+3203912062;Rutka-Tartak;-1.0;-1.0
+3203912072;Suwałki;-1.0;-1.0
+3203912082;Szypliszki;-1.0;-1.0
+3203912092;Wiżajny;-1.0;-1.0
+3203963000;Powiat m.Suwałki;0.8472086;0.12004175
+3203963011;Suwałki;-1.0;-1.0
+3260000000;ŚWIĘTOKRZYSKIE;0.6376102;0.6858038
+3265200000;Podregion 52 - kielecki;0.6376102;0.6858038
+3265204000;Powiat kielecki;0.6376102;0.6858038
+3265204012;Bieliny;-1.0;-1.0
+3265204023;Bodzentyn;-1.0;-1.0
+3265204024;Bodzentyn - miasto;-1.0;-1.0
+3265204025;Bodzentyn - obszar wiejski;-1.0;-1.0
+3265204033;Chęciny;-1.0;-1.0
+3265204034;Chęciny - miasto;-1.0;-1.0
+3265204035;Chęciny - obszar wiejski;-1.0;-1.0
+3265204043;Chmielnik;-1.0;-1.0
+3265204044;Chmielnik - miasto;-1.0;-1.0
+3265204045;Chmielnik - obszar wiejski;-1.0;-1.0
+3265204052;Daleszyce;-1.0;-1.0
+3265204053;Daleszyce;-1.0;-1.0
+3265204054;Daleszyce - miasto;-1.0;-1.0
+3265204055;Daleszyce - obszar wiejski;-1.0;-1.0
+3265204062;Górno;-1.0;-1.0
+3265204072;Łagów;-1.0;-1.0
+3265204082;Łopuszno;-1.0;-1.0
+3265204092;Masłów;-1.0;-1.0
+3265204102;Miedziana Góra;-1.0;-1.0
+3265204112;Mniów;-1.0;-1.0
+3265204122;Morawica;-1.0;-1.0
+3265204132;Nowa Słupia;-1.0;-1.0
+3265204142;Piekoszów;-1.0;-1.0
+3265204152;Pierzchnica;-1.0;-1.0
+3265204162;Raków;-1.0;-1.0
+3265204172;Sitkówka-Nowiny;-1.0;-1.0
+3265204182;Strawczyn;-1.0;-1.0
+3265204192;Zagnańsk;-1.0;-1.0
+3265205000;Powiat konecki;0.6160627;0.631524
+3265205012;Fałków;-1.0;-1.0
+3265205022;Gowarczów;-1.0;-1.0
+3265205033;Końskie;-1.0;-1.0
+3265205034;Końskie - miasto;-1.0;-1.0
+3265205035;Końskie - obszar wiejski;-1.0;-1.0
+3265205042;Radoszyce;-1.0;-1.0
+3265205052;Ruda Maleniecka;-1.0;-1.0
+3265205062;Słupia (Konecka);-1.0;-1.0
+3265205072;Smyków;-1.0;-1.0
+3265205083;Stąporków;-1.0;-1.0
+3265205084;Stąporków - miasto;-1.0;-1.0
+3265205085;Stąporków - obszar wiejski;-1.0;-1.0
+3265207000;Powiat ostrowiecki;0.71596473;0.67118996
+3265207011;Ostrowiec Świętokrzyski;-1.0;-1.0
+3265207022;Bałtów;-1.0;-1.0
+3265207032;Bodzechów;-1.0;-1.0
+3265207043;Ćmielów;-1.0;-1.0
+3265207044;Ćmielów - miasto;-1.0;-1.0
+3265207045;Ćmielów - obszar wiejski;-1.0;-1.0
+3265207053;Kunów;-1.0;-1.0
+3265207054;Kunów - miasto;-1.0;-1.0
+3265207055;Kunów - obszar wiejski;-1.0;-1.0
+3265207062;Waśniów;-1.0;-1.0
+3265210000;Powiat skarżyski;0.6630754;0.6440501
+3265210011;Skarżysko-Kamienna;-1.0;-1.0
+3265210022;Bliżyn;-1.0;-1.0
+3265210032;Łączna;-1.0;-1.0
+3265210042;Skarżysko Kościelne;-1.0;-1.0
+3265210053;Suchedniów;-1.0;-1.0
+3265210054;Suchedniów - miasto;-1.0;-1.0
+3265210055;Suchedniów - obszar wiejski;-1.0;-1.0
+3265211000;Powiat starachowicki;0.68364346;0.6544885
+3265211011;Starachowice;-1.0;-1.0
+3265211022;Brody;-1.0;-1.0
+3265211032;Mirzec;-1.0;-1.0
+3265211042;Pawłów;-1.0;-1.0
+3265211053;Wąchock;-1.0;-1.0
+3265211054;Wąchock - miasto;-1.0;-1.0
+3265211055;Wąchock - obszar wiejski;-1.0;-1.0
+3265261000;Powiat m.Kielce;0.6366308;0.6868476
+3265261011;Kielce;-1.0;-1.0
+3265300000;Podregion 53 - sandomiersko-jędrzejowski;0.66209596;0.7150313
+3265301000;Powiat buski;0.6503428;0.7526096
+3265301013;Busko-Zdrój;-1.0;-1.0
+3265301014;Busko-Zdrój - miasto;-1.0;-1.0
+3265301015;Busko-Zdrój - obszar wiejski;-1.0;-1.0
+3265301022;Gnojno;-1.0;-1.0
+3265301032;Nowy Korczyn;-1.0;-1.0
+3265301042;Pacanów;-1.0;-1.0
+3265301052;Solec-Zdrój;-1.0;-1.0
+3265301062;Stopnica;-1.0;-1.0
+3265301072;Tuczępy;-1.0;-1.0
+3265301082;Wiślica;-1.0;-1.0
+3265302000;Powiat jędrzejowski;0.6052889;0.7254697
+3265302012;Imielno;-1.0;-1.0
+3265302023;Jędrzejów;-1.0;-1.0
+3265302024;Jędrzejów - miasto;-1.0;-1.0
+3265302025;Jędrzejów - obszar wiejski;-1.0;-1.0
+3265302032;Małogoszcz;-1.0;-1.0
+3265302033;Małogoszcz;-1.0;-1.0
+3265302034;Małogoszcz - miasto;-1.0;-1.0
+3265302035;Małogoszcz - obszar wiejski;-1.0;-1.0
+3265302042;Nagłowice;-1.0;-1.0
+3265302052;Oksa;-1.0;-1.0
+3265302063;Sędziszów;-1.0;-1.0
+3265302064;Sędziszów - miasto;-1.0;-1.0
+3265302065;Sędziszów - obszar wiejski;-1.0;-1.0
+3265302072;Słupia (Jędrzejowska);-1.0;-1.0
+3265302082;Sobków;-1.0;-1.0
+3265302092;Wodzisław;-1.0;-1.0
+3265303000;Powiat kazimierski;0.625857;0.78914404
+3265303012;Bejsce;-1.0;-1.0
+3265303022;Czarnocin;-1.0;-1.0
+3265303033;Kazimierza Wielka;-1.0;-1.0
+3265303034;Kazimierza Wielka - miasto;-1.0;-1.0
+3265303035;Kazimierza Wielka - obszar wiejski;-1.0;-1.0
+3265303042;Opatowiec;-1.0;-1.0
+3265303053;Skalbmierz;-1.0;-1.0
+3265303054;Skalbmierz - miasto;-1.0;-1.0
+3265303055;Skalbmierz - obszar wiejski;-1.0;-1.0
+3265306000;Powiat opatowski;0.72184134;0.6941545
+3265306012;Baćkowice;-1.0;-1.0
+3265306022;Iwaniska;-1.0;-1.0
+3265306032;Lipnik;-1.0;-1.0
+3265306043;Opatów;-1.0;-1.0
+3265306044;Opatów - miasto;-1.0;-1.0
+3265306045;Opatów - obszar wiejski;-1.0;-1.0
+3265306053;Ożarów;-1.0;-1.0
+3265306054;Ożarów - miasto;-1.0;-1.0
+3265306055;Ożarów - obszar wiejski;-1.0;-1.0
+3265306062;Sadowie;-1.0;-1.0
+3265306072;Tarłów;-1.0;-1.0
+3265306082;Wojciechowice;-1.0;-1.0
+3265308000;Powiat pińczowski;0.62977475;0.74634653
+3265308013;Działoszyce;-1.0;-1.0
+3265308014;Działoszyce - miasto;-1.0;-1.0
+3265308015;Działoszyce - obszar wiejski;-1.0;-1.0
+3265308022;Kije;-1.0;-1.0
+3265308032;Michałów;-1.0;-1.0
+3265308043;Pińczów;-1.0;-1.0
+3265308044;Pińczów - miasto;-1.0;-1.0
+3265308045;Pińczów - obszar wiejski;-1.0;-1.0
+3265308052;Złota;-1.0;-1.0
+3265309000;Powiat sandomierski;0.72184134;0.69311064
+3265309011;Sandomierz;-1.0;-1.0
+3265309022;Dwikozy;-1.0;-1.0
+3265309032;Klimontów;-1.0;-1.0
+3265309042;Koprzywnica;-1.0;-1.0
+3265309043;Koprzywnica;-1.0;-1.0
+3265309044;Koprzywnica - miasto;-1.0;-1.0
+3265309045;Koprzywnica - obszar wiejski;-1.0;-1.0
+3265309052;Łoniów;-1.0;-1.0
+3265309062;Obrazów;-1.0;-1.0
+3265309072;Samborzec;-1.0;-1.0
+3265309082;Wilczyce;-1.0;-1.0
+3265309093;Zawichost;-1.0;-1.0
+3265309094;Zawichost - miasto;-1.0;-1.0
+3265309095;Zawichost - obszar wiejski;-1.0;-1.0
+3265312000;Powiat staszowski;0.6963761;0.73590815
+3265312012;Bogoria;-1.0;-1.0
+3265312022;Łubnice;-1.0;-1.0
+3265312032;Oleśnica;-1.0;-1.0
+3265312043;Osiek;-1.0;-1.0
+3265312044;Osiek - miasto;-1.0;-1.0
+3265312045;Osiek - obszar wiejski;-1.0;-1.0
+3265312053;Połaniec;-1.0;-1.0
+3265312054;Połaniec - miasto;-1.0;-1.0
+3265312055;Połaniec - obszar wiejski;-1.0;-1.0
+3265312062;Rytwiany;-1.0;-1.0
+3265312073;Staszów;-1.0;-1.0
+3265312074;Staszów - miasto;-1.0;-1.0
+3265312075;Staszów - obszar wiejski;-1.0;-1.0
+3265312082;Szydłów;-1.0;-1.0
+3265313000;Powiat włoszczowski;0.57492656;0.6889353
+3265313012;Kluczewsko;-1.0;-1.0
+3265313022;Krasocin;-1.0;-1.0
+3265313032;Moskorzew;-1.0;-1.0
+3265313042;Radków;-1.0;-1.0
+3265313052;Secemin;-1.0;-1.0
+3265313063;Włoszczowa;-1.0;-1.0
+3265313064;Włoszczowa - miasto;-1.0;-1.0
+3265313065;Włoszczowa - obszar wiejski;-1.0;-1.0
+4000000000;Region północno-zachodni;0.3006856;0.23903966
+4080000000;LUBUSKIE;0.10969637;0.3559499
+4081300000;Podregion 13 - gorzowski;0.10773751;0.3559499
+4081301000;Powiat gorzowski;0.10773751;0.3559499
+4081301011;Kostrzyn nad Odrą;-1.0;-1.0
+4081301022;Bogdaniec;-1.0;-1.0
+4081301032;Deszczno;-1.0;-1.0
+4081301042;Kłodawa;-1.0;-1.0
+4081301052;Lubiszyn;-1.0;-1.0
+4081301062;Santok;-1.0;-1.0
+4081301073;Witnica;-1.0;-1.0
+4081301074;Witnica - miasto;-1.0;-1.0
+4081301075;Witnica - obszar wiejski;-1.0;-1.0
+4081303000;Powiat międzyrzecki;0.1410382;0.4039666
+4081303012;Bledzew;-1.0;-1.0
+4081303023;Międzyrzecz;-1.0;-1.0
+4081303024;Międzyrzecz - miasto;-1.0;-1.0
+4081303025;Międzyrzecz - obszar wiejski;-1.0;-1.0
+4081303032;Przytoczna;-1.0;-1.0
+4081303042;Pszczew;-1.0;-1.0
+4081303053;Skwierzyna;-1.0;-1.0
+4081303054;Skwierzyna - miasto;-1.0;-1.0
+4081303055;Skwierzyna - obszar wiejski;-1.0;-1.0
+4081303063;Trzciel;-1.0;-1.0
+4081303064;Trzciel - miasto;-1.0;-1.0
+4081303065;Trzciel - obszar wiejski;-1.0;-1.0
+4081305000;Powiat słubicki;0.041136142;0.41336116
+4081305013;Cybinka;-1.0;-1.0
+4081305014;Cybinka - miasto;-1.0;-1.0
+4081305015;Cybinka - obszar wiejski;-1.0;-1.0
+4081305022;Górzyca;-1.0;-1.0
+4081305033;Ośno Lubuskie;-1.0;-1.0
+4081305034;Ośno Lubuskie - miasto;-1.0;-1.0
+4081305035;Ośno Lubuskie - obszar wiejski;-1.0;-1.0
+4081305043;Rzepin;-1.0;-1.0
+4081305044;Rzepin - miasto;-1.0;-1.0
+4081305045;Rzepin - obszar wiejski;-1.0;-1.0
+4081305053;Słubice;-1.0;-1.0
+4081305054;Słubice - miasto;-1.0;-1.0
+4081305055;Słubice - obszar wiejski;-1.0;-1.0
+4081306000;Powiat strzelecko-drezdenecki;0.13907933;0.32881
+4081306013;Dobiegniew;-1.0;-1.0
+4081306014;Dobiegniew - miasto;-1.0;-1.0
+4081306015;Dobiegniew - obszar wiejski;-1.0;-1.0
+4081306023;Drezdenko;-1.0;-1.0
+4081306024;Drezdenko - miasto;-1.0;-1.0
+4081306025;Drezdenko - obszar wiejski;-1.0;-1.0
+4081306032;Stare Kurowo;-1.0;-1.0
+4081306043;Strzelce Krajeńskie;-1.0;-1.0
+4081306044;Strzelce Krajeńskie - miasto;-1.0;-1.0
+4081306045;Strzelce Krajeńskie - obszar wiejski;-1.0;-1.0
+4081306052;Zwierzyn;-1.0;-1.0
+4081307000;Powiat sulęciński;0.095004894;0.40187892
+4081307012;Krzeszyce;-1.0;-1.0
+4081307023;Lubniewice;-1.0;-1.0
+4081307024;Lubniewice - miasto;-1.0;-1.0
+4081307025;Lubniewice - obszar wiejski;-1.0;-1.0
+4081307032;Słońsk;-1.0;-1.0
+4081307043;Sulęcin;-1.0;-1.0
+4081307044;Sulęcin - miasto;-1.0;-1.0
+4081307045;Sulęcin - obszar wiejski;-1.0;-1.0
+4081307053;Torzym;-1.0;-1.0
+4081307054;Torzym - miasto;-1.0;-1.0
+4081307055;Torzym - obszar wiejski;-1.0;-1.0
+4081361000;Powiat m.Gorzów Wielkopolski;0.10773751;0.35490605
+4081361011;Gorzów Wielkopolski;-1.0;-1.0
+4081400000;Podregion 14 - zielonogórski;0.12732615;0.49164927
+4081402000;Powiat krośnieński;0.08619001;0.4676409
+4081402011;Gubin;-1.0;-1.0
+4081402022;Bobrowice;-1.0;-1.0
+4081402032;Bytnica;-1.0;-1.0
+4081402042;Dąbie;-1.0;-1.0
+4081402052;Gubin;-1.0;-1.0
+4081402063;Krosno Odrzańskie;-1.0;-1.0
+4081402064;Krosno Odrzańskie - miasto;-1.0;-1.0
+4081402065;Krosno Odrzańskie - obszar wiejski;-1.0;-1.0
+4081402072;Maszewo;-1.0;-1.0
+4081404000;Powiat nowosolski;0.14593536;0.5177453
+4081404011;Nowa Sól;-1.0;-1.0
+4081404023;Bytom Odrzański;-1.0;-1.0
+4081404024;Bytom Odrzański - miasto;-1.0;-1.0
+4081404025;Bytom Odrzański - obszar wiejski;-1.0;-1.0
+4081404032;Kolsko;-1.0;-1.0
+4081404043;Kożuchów;-1.0;-1.0
+4081404044;Kożuchów - miasto;-1.0;-1.0
+4081404045;Kożuchów - obszar wiejski;-1.0;-1.0
+4081404052;Nowa Sól;-1.0;-1.0
+4081404063;Nowe Miasteczko;-1.0;-1.0
+4081404064;Nowe Miasteczko - miasto;-1.0;-1.0
+4081404065;Nowe Miasteczko - obszar wiejski;-1.0;-1.0
+4081404072;Otyń;-1.0;-1.0
+4081404082;Siedlisko;-1.0;-1.0
+4081404093;Sława;-1.0;-1.0
+4081404094;Sława - miasto;-1.0;-1.0
+4081404095;Sława - obszar wiejski;-1.0;-1.0
+4081404103;Szlichtyngowa;-1.0;-1.0
+4081404104;Szlichtyngowa - miasto;-1.0;-1.0
+4081404105;Szlichtyngowa - obszar wiejski;-1.0;-1.0
+4081404113;Wschowa;-1.0;-1.0
+4081404114;Wschowa - miasto;-1.0;-1.0
+4081404115;Wschowa - obszar wiejski;-1.0;-1.0
+4081408000;Powiat świebodziński;0.13320275;0.43841335
+4081408012;Lubrza;-1.0;-1.0
+4081408022;Łagów;-1.0;-1.0
+4081408032;Skąpe;-1.0;-1.0
+4081408042;Szczaniec;-1.0;-1.0
+4081408053;Świebodzin;-1.0;-1.0
+4081408054;Świebodzin - miasto;-1.0;-1.0
+4081408055;Świebodzin - obszar wiejski;-1.0;-1.0
+4081408063;Zbąszynek;-1.0;-1.0
+4081408064;Zbąszynek - miasto;-1.0;-1.0
+4081408065;Zbąszynek - obszar wiejski;-1.0;-1.0
+4081409000;Powiat zielonogórski;0.12830558;0.49164927
+4081409013;Babimost;-1.0;-1.0
+4081409014;Babimost - miasto;-1.0;-1.0
+4081409015;Babimost - obszar wiejski;-1.0;-1.0
+4081409022;Bojadła;-1.0;-1.0
+4081409033;Czerwieńsk;-1.0;-1.0
+4081409034;Czerwieńsk - miasto;-1.0;-1.0
+4081409035;Czerwieńsk - obszar wiejski;-1.0;-1.0
+4081409043;Kargowa;-1.0;-1.0
+4081409044;Kargowa - miasto;-1.0;-1.0
+4081409045;Kargowa - obszar wiejski;-1.0;-1.0
+4081409053;Nowogród Bobrzański;-1.0;-1.0
+4081409054;Nowogród Bobrzański - miasto;-1.0;-1.0
+4081409055;Nowogród Bobrzański - obszar wiejski;-1.0;-1.0
+4081409063;Sulechów;-1.0;-1.0
+4081409064;Sulechów - miasto;-1.0;-1.0
+4081409065;Sulechów - obszar wiejski;-1.0;-1.0
+4081409072;Świdnica;-1.0;-1.0
+4081409082;Trzebiechów;-1.0;-1.0
+4081409092;Zabór;-1.0;-1.0
+4081409102;Zielona Góra;-1.0;-1.0
+4081410000;Powiat żagański;0.10479922;0.5469729
+4081410011;Gozdnica;-1.0;-1.0
+4081410021;Żagań;-1.0;-1.0
+4081410032;Brzeźnica;-1.0;-1.0
+4081410043;Iłowa;-1.0;-1.0
+4081410044;Iłowa - miasto;-1.0;-1.0
+4081410045;Iłowa - obszar wiejski;-1.0;-1.0
+4081410053;Małomice;-1.0;-1.0
+4081410054;Małomice - miasto;-1.0;-1.0
+4081410055;Małomice - obszar wiejski;-1.0;-1.0
+4081410062;Niegosławice;-1.0;-1.0
+4081410073;Szprotawa;-1.0;-1.0
+4081410074;Szprotawa - miasto;-1.0;-1.0
+4081410075;Szprotawa - obszar wiejski;-1.0;-1.0
+4081410082;Wymiarki;-1.0;-1.0
+4081410092;Żagań;-1.0;-1.0
+4081411000;Powiat żarski;0.08814888;0.54175365
+4081411011;Łęknica;-1.0;-1.0
+4081411021;Żary;-1.0;-1.0
+4081411032;Brody;-1.0;-1.0
+4081411043;Jasień;-1.0;-1.0
+4081411044;Jasień - miasto;-1.0;-1.0
+4081411045;Jasień - obszar wiejski;-1.0;-1.0
+4081411052;Lipinki Łużyckie;-1.0;-1.0
+4081411063;Lubsko;-1.0;-1.0
+4081411064;Lubsko - miasto;-1.0;-1.0
+4081411065;Lubsko - obszar wiejski;-1.0;-1.0
+4081411072;Przewóz;-1.0;-1.0
+4081411082;Trzebiel;-1.0;-1.0
+4081411092;Tuplice;-1.0;-1.0
+4081411102;Żary;-1.0;-1.0
+4081412000;Powiat wschowski;0.20666014;0.5187892
+4081412013;Sława;-1.0;-1.0
+4081412014;Sława - miasto;-1.0;-1.0
+4081412015;Sława - obszar wiejski;-1.0;-1.0
+4081412023;Szlichtyngowa;-1.0;-1.0
+4081412024;Szlichtyngowa - miasto;-1.0;-1.0
+4081412025;Szlichtyngowa - obszar wiejski;-1.0;-1.0
+4081412033;Wschowa;-1.0;-1.0
+4081412034;Wschowa - miasto;-1.0;-1.0
+4081412035;Wschowa - obszar wiejski;-1.0;-1.0
+4081462000;Powiat m.Zielona Góra;0.12732615;0.4926931
+4081462011;Zielona Góra;-1.0;-1.0
+4300000000;WIELKOPOLSKIE;0.27130264;0.42066807
+4305700000;Podregion 57 - kaliski;0.38197845;0.5334029
+4305706000;Powiat jarociński;0.32713026;0.49582464
+4305706012;Jaraczewo;-1.0;-1.0
+4305706023;Jarocin;-1.0;-1.0
+4305706024;Jarocin - miasto;-1.0;-1.0
+4305706025;Jarocin - obszar wiejski;-1.0;-1.0
+4305706032;Kotlin;-1.0;-1.0
+4305706043;Żerków;-1.0;-1.0
+4305706044;Żerków - miasto;-1.0;-1.0
+4305706045;Żerków - obszar wiejski;-1.0;-1.0
+4305707000;Powiat kaliski;0.38197845;0.5334029
+4305707012;Blizanów;-1.0;-1.0
+4305707022;Brzeziny;-1.0;-1.0
+4305707032;Ceków-Kolonia;-1.0;-1.0
+4305707042;Godziesze Wielkie;-1.0;-1.0
+4305707052;Koźminek;-1.0;-1.0
+4305707062;Lisków;-1.0;-1.0
+4305707072;Mycielin;-1.0;-1.0
+4305707082;Opatówek;-1.0;-1.0
+4305707093;Stawiszyn;-1.0;-1.0
+4305707094;Stawiszyn - miasto;-1.0;-1.0
+4305707095;Stawiszyn - obszar wiejski;-1.0;-1.0
+4305707102;Szczytniki;-1.0;-1.0
+4305707112;Żelazków;-1.0;-1.0
+4305708000;Powiat kępiński;0.37218413;0.6106472
+4305708012;Baranów;-1.0;-1.0
+4305708022;Bralin;-1.0;-1.0
+4305708033;Kępno;-1.0;-1.0
+4305708034;Kępno - miasto;-1.0;-1.0
+4305708035;Kępno - obszar wiejski;-1.0;-1.0
+4305708042;Łęka Opatowska;-1.0;-1.0
+4305708052;Perzów;-1.0;-1.0
+4305708062;Rychtal;-1.0;-1.0
+4305708072;Trzcinica;-1.0;-1.0
+4305712000;Powiat krotoszyński;0.3192948;0.5407098
+4305712011;Sulmierzyce;-1.0;-1.0
+4305712023;Kobylin;-1.0;-1.0
+4305712024;Kobylin - miasto;-1.0;-1.0
+4305712025;Kobylin - obszar wiejski;-1.0;-1.0
+4305712033;Koźmin Wielkopolski;-1.0;-1.0
+4305712034;Koźmin Wielkopolski - miasto;-1.0;-1.0
+4305712035;Koźmin Wielkopolski - obszar wiejski;-1.0;-1.0
+4305712043;Krotoszyn;-1.0;-1.0
+4305712044;Krotoszyn - miasto;-1.0;-1.0
+4305712045;Krotoszyn - obszar wiejski;-1.0;-1.0
+4305712052;Rozdrażew;-1.0;-1.0
+4305712063;Zduny;-1.0;-1.0
+4305712064;Zduny - miasto;-1.0;-1.0
+4305712065;Zduny - obszar wiejski;-1.0;-1.0
+4305717000;Powiat ostrowski;0.35749266;0.55114824
+4305717011;Ostrów Wielkopolski;-1.0;-1.0
+4305717023;Nowe Skalmierzyce;-1.0;-1.0
+4305717024;Nowe Skalmierzyce - miasto;-1.0;-1.0
+4305717025;Nowe Skalmierzyce - obszar wiejski;-1.0;-1.0
+4305717033;Odolanów;-1.0;-1.0
+4305717034;Odolanów - miasto;-1.0;-1.0
+4305717035;Odolanów - obszar wiejski;-1.0;-1.0
+4305717042;Ostrów Wielkopolski;-1.0;-1.0
+4305717052;Przygodzice;-1.0;-1.0
+4305717063;Raszków;-1.0;-1.0
+4305717064;Raszków - miasto;-1.0;-1.0
+4305717065;Raszków - obszar wiejski;-1.0;-1.0
+4305717072;Sieroszewice;-1.0;-1.0
+4305717082;Sośnie;-1.0;-1.0
+4305718000;Powiat ostrzeszowski;0.36728698;0.5887265
+4305718012;Czajków;-1.0;-1.0
+4305718022;Doruchów;-1.0;-1.0
+4305718033;Grabów nad Prosną;-1.0;-1.0
+4305718034;Grabów nad Prosną - miasto;-1.0;-1.0
+4305718035;Grabów nad Prosną - obszar wiejski;-1.0;-1.0
+4305718042;Kobyla Góra;-1.0;-1.0
+4305718052;Kraszewice;-1.0;-1.0
+4305718063;Mikstat;-1.0;-1.0
+4305718064;Mikstat - miasto;-1.0;-1.0
+4305718065;Mikstat - obszar wiejski;-1.0;-1.0
+4305718073;Ostrzeszów;-1.0;-1.0
+4305718074;Ostrzeszów - miasto;-1.0;-1.0
+4305718075;Ostrzeszów - obszar wiejski;-1.0;-1.0
+4305720000;Powiat pleszewski;0.35357493;0.50835073
+4305720012;Chocz;-1.0;-1.0
+4305720022;Czermin;-1.0;-1.0
+4305720032;Dobrzyca;-1.0;-1.0
+4305720042;Gizałki;-1.0;-1.0
+4305720052;Gołuchów;-1.0;-1.0
+4305720063;Pleszew;-1.0;-1.0
+4305720064;Pleszew - miasto;-1.0;-1.0
+4305720065;Pleszew - obszar wiejski;-1.0;-1.0
+4305761000;Powiat m.Kalisz;0.38393733;0.5334029
+4305761011;Kalisz;-1.0;-1.0
+4305800000;Podregion 58 - koniński;0.40058765;0.45093945
+4305803000;Powiat gnieźnieński;0.337904;0.39770356
+4305803011;Gniezno;-1.0;-1.0
+4305803023;Czerniejewo;-1.0;-1.0
+4305803024;Czerniejewo - miasto;-1.0;-1.0
+4305803025;Czerniejewo - obszar wiejski;-1.0;-1.0
+4305803032;Gniezno;-1.0;-1.0
+4305803042;Kiszkowo;-1.0;-1.0
+4305803053;Kłecko;-1.0;-1.0
+4305803054;Kłecko - miasto;-1.0;-1.0
+4305803055;Kłecko - obszar wiejski;-1.0;-1.0
+4305803062;Łubowo;-1.0;-1.0
+4305803072;Mieleszyn;-1.0;-1.0
+4305803082;Niechanowo;-1.0;-1.0
+4305803093;Trzemeszno;-1.0;-1.0
+4305803094;Trzemeszno - miasto;-1.0;-1.0
+4305803095;Trzemeszno - obszar wiejski;-1.0;-1.0
+4305803103;Witkowo;-1.0;-1.0
+4305803104;Witkowo - miasto;-1.0;-1.0
+4305803105;Witkowo - obszar wiejski;-1.0;-1.0
+4305809000;Powiat kolski;0.4387855;0.454071
+4305809011;Koło;-1.0;-1.0
+4305809022;Babiak;-1.0;-1.0
+4305809032;Chodów;-1.0;-1.0
+4305809043;Dąbie;-1.0;-1.0
+4305809044;Dąbie - miasto;-1.0;-1.0
+4305809045;Dąbie - obszar wiejski;-1.0;-1.0
+4305809052;Grzegorzew;-1.0;-1.0
+4305809063;Kłodawa;-1.0;-1.0
+4305809064;Kłodawa - miasto;-1.0;-1.0
+4305809065;Kłodawa - obszar wiejski;-1.0;-1.0
+4305809072;Koło;-1.0;-1.0
+4305809082;Kościelec;-1.0;-1.0
+4305809092;Olszówka;-1.0;-1.0
+4305809102;Osiek Mały;-1.0;-1.0
+4305809113;Przedecz;-1.0;-1.0
+4305809114;Przedecz - miasto;-1.0;-1.0
+4305809115;Przedecz - obszar wiejski;-1.0;-1.0
+4305810000;Powiat koniński;0.4015671;0.4519833
+4305810013;Golina;-1.0;-1.0
+4305810014;Golina - miasto;-1.0;-1.0
+4305810015;Golina - obszar wiejski;-1.0;-1.0
+4305810022;Grodziec;-1.0;-1.0
+4305810032;Kazimierz Biskupi;-1.0;-1.0
+4305810043;Kleczew;-1.0;-1.0
+4305810044;Kleczew - miasto;-1.0;-1.0
+4305810045;Kleczew - obszar wiejski;-1.0;-1.0
+4305810052;Kramsk;-1.0;-1.0
+4305810062;Krzymów;-1.0;-1.0
+4305810073;Rychwał;-1.0;-1.0
+4305810074;Rychwał - miasto;-1.0;-1.0
+4305810075;Rychwał - obszar wiejski;-1.0;-1.0
+4305810082;Rzgów;-1.0;-1.0
+4305810092;Skulsk;-1.0;-1.0
+4305810103;Sompolno;-1.0;-1.0
+4305810104;Sompolno - miasto;-1.0;-1.0
+4305810105;Sompolno - obszar wiejski;-1.0;-1.0
+4305810112;Stare Miasto;-1.0;-1.0
+4305810123;Ślesin;-1.0;-1.0
+4305810124;Ślesin - miasto;-1.0;-1.0
+4305810125;Ślesin - obszar wiejski;-1.0;-1.0
+4305810132;Wierzbinek;-1.0;-1.0
+4305810142;Wilczyn;-1.0;-1.0
+4305823000;Powiat słupecki;0.36434868;0.44050103
+4305823011;Słupca;-1.0;-1.0
+4305823022;Lądek;-1.0;-1.0
+4305823032;Orchowo;-1.0;-1.0
+4305823042;Ostrowite;-1.0;-1.0
+4305823052;Powidz;-1.0;-1.0
+4305823062;Słupca;-1.0;-1.0
+4305823072;Strzałkowo;-1.0;-1.0
+4305823083;Zagórów;-1.0;-1.0
+4305823084;Zagórów - miasto;-1.0;-1.0
+4305823085;Zagórów - obszar wiejski;-1.0;-1.0
+4305827000;Powiat turecki;0.42507344;0.4874739
+4305827011;Turek;-1.0;-1.0
+4305827022;Brudzew;-1.0;-1.0
+4305827033;Dobra;-1.0;-1.0
+4305827034;Dobra - miasto;-1.0;-1.0
+4305827035;Dobra - obszar wiejski;-1.0;-1.0
+4305827042;Kawęczyn;-1.0;-1.0
+4305827052;Malanów;-1.0;-1.0
+4305827062;Przykona;-1.0;-1.0
+4305827073;Tuliszków;-1.0;-1.0
+4305827074;Tuliszków - miasto;-1.0;-1.0
+4305827075;Tuliszków - obszar wiejski;-1.0;-1.0
+4305827082;Turek;-1.0;-1.0
+4305827092;Władysławów;-1.0;-1.0
+4305830000;Powiat wrzesiński;0.3349657;0.4321503
+4305830012;Kołaczkowo;-1.0;-1.0
+4305830023;Miłosław;-1.0;-1.0
+4305830024;Miłosław - miasto;-1.0;-1.0
+4305830025;Miłosław - obszar wiejski;-1.0;-1.0
+4305830032;Nekla;-1.0;-1.0
+4305830033;Nekla;-1.0;-1.0
+4305830034;Nekla - miasto;-1.0;-1.0
+4305830035;Nekla - obszar wiejski;-1.0;-1.0
+4305830043;Pyzdry;-1.0;-1.0
+4305830044;Pyzdry - miasto;-1.0;-1.0
+4305830045;Pyzdry - obszar wiejski;-1.0;-1.0
+4305830053;Września;-1.0;-1.0
+4305830054;Września - miasto;-1.0;-1.0
+4305830055;Września - obszar wiejski;-1.0;-1.0
+4305862000;Powiat m.Konin;0.4015671;0.4519833
+4305862011;Konin;-1.0;-1.0
+4305900000;Podregion 59 - leszczyński;0.23408423;0.51356995
+4305904000;Powiat gostyński;0.27522036;0.5093946
+4305904013;Borek Wielkopolski;-1.0;-1.0
+4305904014;Borek Wielkopolski - miasto;-1.0;-1.0
+4305904015;Borek Wielkopolski - obszar wiejski;-1.0;-1.0
+4305904023;Gostyń;-1.0;-1.0
+4305904024;Gostyń - miasto;-1.0;-1.0
+4305904025;Gostyń - obszar wiejski;-1.0;-1.0
+4305904033;Krobia;-1.0;-1.0
+4305904034;Krobia - miasto;-1.0;-1.0
+4305904035;Krobia - obszar wiejski;-1.0;-1.0
+4305904042;Pępowo;-1.0;-1.0
+4305904052;Piaski;-1.0;-1.0
+4305904063;Pogorzela;-1.0;-1.0
+4305904064;Pogorzela - miasto;-1.0;-1.0
+4305904065;Pogorzela - obszar wiejski;-1.0;-1.0
+4305904073;Poniec;-1.0;-1.0
+4305904074;Poniec - miasto;-1.0;-1.0
+4305904075;Poniec - obszar wiejski;-1.0;-1.0
+4305905000;Powiat grodziski;0.21547502;0.44572026
+4305905012;Granowo;-1.0;-1.0
+4305905023;Grodzisk Wielkopolski;-1.0;-1.0
+4305905024;Grodzisk Wielkopolski - miasto;-1.0;-1.0
+4305905025;Grodzisk Wielkopolski - obszar wiejski;-1.0;-1.0
+4305905032;Kamieniec;-1.0;-1.0
+4305905043;Rakoniewice;-1.0;-1.0
+4305905044;Rakoniewice - miasto;-1.0;-1.0
+4305905045;Rakoniewice - obszar wiejski;-1.0;-1.0
+4305905053;Wielichowo;-1.0;-1.0
+4305905054;Wielichowo - miasto;-1.0;-1.0
+4305905055;Wielichowo - obszar wiejski;-1.0;-1.0
+4305911000;Powiat kościański;0.24289912;0.47286013
+4305911011;Kościan;-1.0;-1.0
+4305911023;Czempiń;-1.0;-1.0
+4305911024;Czempiń - miasto;-1.0;-1.0
+4305911025;Czempiń - obszar wiejski;-1.0;-1.0
+4305911032;Kościan;-1.0;-1.0
+4305911043;Krzywiń;-1.0;-1.0
+4305911044;Krzywiń - miasto;-1.0;-1.0
+4305911045;Krzywiń - obszar wiejski;-1.0;-1.0
+4305911053;Śmigiel;-1.0;-1.0
+4305911054;Śmigiel - miasto;-1.0;-1.0
+4305911055;Śmigiel - obszar wiejski;-1.0;-1.0
+4305913000;Powiat leszczyński;0.23408423;0.51356995
+4305913012;Krzemieniewo;-1.0;-1.0
+4305913022;Lipno;-1.0;-1.0
+4305913033;Osieczna;-1.0;-1.0
+4305913034;Osieczna - miasto;-1.0;-1.0
+4305913035;Osieczna - obszar wiejski;-1.0;-1.0
+4305913043;Rydzyna;-1.0;-1.0
+4305913044;Rydzyna - miasto;-1.0;-1.0
+4305913045;Rydzyna - obszar wiejski;-1.0;-1.0
+4305913052;Święciechowa;-1.0;-1.0
+4305913062;Wijewo;-1.0;-1.0
+4305913072;Włoszakowice;-1.0;-1.0
+4305914000;Powiat międzychodzki;0.17335945;0.3810021
+4305914012;Chrzypsko Wielkie;-1.0;-1.0
+4305914022;Kwilcz;-1.0;-1.0
+4305914033;Międzychód;-1.0;-1.0
+4305914034;Międzychód - miasto;-1.0;-1.0
+4305914035;Międzychód - obszar wiejski;-1.0;-1.0
+4305914043;Sieraków;-1.0;-1.0
+4305914044;Sieraków - miasto;-1.0;-1.0
+4305914045;Sieraków - obszar wiejski;-1.0;-1.0
+4305915000;Powiat nowotomyski;0.19294809;0.43006262
+4305915012;Kuślin;-1.0;-1.0
+4305915023;Lwówek;-1.0;-1.0
+4305915024;Lwówek - miasto;-1.0;-1.0
+4305915025;Lwówek - obszar wiejski;-1.0;-1.0
+4305915032;Miedzichowo;-1.0;-1.0
+4305915043;Nowy Tomyśl;-1.0;-1.0
+4305915044;Nowy Tomyśl - miasto;-1.0;-1.0
+4305915045;Nowy Tomyśl - obszar wiejski;-1.0;-1.0
+4305915053;Opalenica;-1.0;-1.0
+4305915054;Opalenica - miasto;-1.0;-1.0
+4305915055;Opalenica - obszar wiejski;-1.0;-1.0
+4305915063;Zbąszyń;-1.0;-1.0
+4305915064;Zbąszyń - miasto;-1.0;-1.0
+4305915065;Zbąszyń - obszar wiejski;-1.0;-1.0
+4305922000;Powiat rawicki;0.2634672;0.5532359
+4305922013;Bojanowo;-1.0;-1.0
+4305922014;Bojanowo - miasto;-1.0;-1.0
+4305922015;Bojanowo - obszar wiejski;-1.0;-1.0
+4305922023;Jutrosin;-1.0;-1.0
+4305922024;Jutrosin - miasto;-1.0;-1.0
+4305922025;Jutrosin - obszar wiejski;-1.0;-1.0
+4305922033;Miejska Górka;-1.0;-1.0
+4305922034;Miejska Górka - miasto;-1.0;-1.0
+4305922035;Miejska Górka - obszar wiejski;-1.0;-1.0
+4305922042;Pakosław;-1.0;-1.0
+4305922053;Rawicz;-1.0;-1.0
+4305922054;Rawicz - miasto;-1.0;-1.0
+4305922055;Rawicz - obszar wiejski;-1.0;-1.0
+4305929000;Powiat wolsztyński;0.18903036;0.46346554
+4305929012;Przemęt;-1.0;-1.0
+4305929022;Siedlec;-1.0;-1.0
+4305929033;Wolsztyn;-1.0;-1.0
+4305929034;Wolsztyn - miasto;-1.0;-1.0
+4305929035;Wolsztyn - obszar wiejski;-1.0;-1.0
+4305963000;Powiat m.Leszno;0.2331048;0.5146138
+4305963011;Leszno;-1.0;-1.0
+4306000000;Podregion 60 - pilski;0.25954947;0.2901879
+4306001000;Powiat chodzieski;0.27326152;0.3152401
+4306001011;Chodzież;-1.0;-1.0
+4306001022;Budzyń;-1.0;-1.0
+4306001032;Chodzież;-1.0;-1.0
+4306001043;Margonin;-1.0;-1.0
+4306001044;Margonin - miasto;-1.0;-1.0
+4306001045;Margonin - obszar wiejski;-1.0;-1.0
+4306001053;Szamocin;-1.0;-1.0
+4306001054;Szamocin - miasto;-1.0;-1.0
+4306001055;Szamocin - obszar wiejski;-1.0;-1.0
+4306002000;Powiat czarnkowsko-trzcianecki;0.24094026;0.32881
+4306002011;Czarnków;-1.0;-1.0
+4306002022;Czarnków;-1.0;-1.0
+4306002032;Drawsko;-1.0;-1.0
+4306002043;Krzyż Wielkopolski;-1.0;-1.0
+4306002044;Krzyż Wielkopolski - miasto;-1.0;-1.0
+4306002045;Krzyż Wielkopolski - obszar wiejski;-1.0;-1.0
+4306002052;Lubasz;-1.0;-1.0
+4306002062;Połajewo;-1.0;-1.0
+4306002073;Trzcianka;-1.0;-1.0
+4306002074;Trzcianka - miasto;-1.0;-1.0
+4306002075;Trzcianka - obszar wiejski;-1.0;-1.0
+4306002083;Wieleń;-1.0;-1.0
+4306002084;Wieleń - miasto;-1.0;-1.0
+4306002085;Wieleń - obszar wiejski;-1.0;-1.0
+4306019000;Powiat pilski;0.25661117;0.28914404
+4306019011;Piła;-1.0;-1.0
+4306019022;Białośliwie;-1.0;-1.0
+4306019032;Kaczory;-1.0;-1.0
+4306019043;Łobżenica;-1.0;-1.0
+4306019044;Łobżenica - miasto;-1.0;-1.0
+4306019045;Łobżenica - obszar wiejski;-1.0;-1.0
+4306019052;Miasteczko Krajeńskie;-1.0;-1.0
+4306019062;Szydłowo;-1.0;-1.0
+4306019073;Ujście;-1.0;-1.0
+4306019074;Ujście - miasto;-1.0;-1.0
+4306019075;Ujście - obszar wiejski;-1.0;-1.0
+4306019083;Wyrzysk;-1.0;-1.0
+4306019084;Wyrzysk - miasto;-1.0;-1.0
+4306019085;Wyrzysk - obszar wiejski;-1.0;-1.0
+4306019093;Wysoka;-1.0;-1.0
+4306019094;Wysoka - miasto;-1.0;-1.0
+4306019095;Wysoka - obszar wiejski;-1.0;-1.0
+4306028000;Powiat wągrowiecki;0.3006856;0.34759918
+4306028011;Wągrowiec;-1.0;-1.0
+4306028022;Damasławek;-1.0;-1.0
+4306028033;Gołańcz;-1.0;-1.0
+4306028034;Gołańcz - miasto;-1.0;-1.0
+4306028035;Gołańcz - obszar wiejski;-1.0;-1.0
+4306028042;Mieścisko;-1.0;-1.0
+4306028053;Skoki;-1.0;-1.0
+4306028054;Skoki - miasto;-1.0;-1.0
+4306028055;Skoki - obszar wiejski;-1.0;-1.0
+4306028062;Wapno;-1.0;-1.0
+4306028072;Wągrowiec;-1.0;-1.0
+4306031000;Powiat złotowski;0.2889324;0.25574112
+4306031011;Złotów;-1.0;-1.0
+4306031023;Jastrowie;-1.0;-1.0
+4306031024;Jastrowie - miasto;-1.0;-1.0
+4306031025;Jastrowie - obszar wiejski;-1.0;-1.0
+4306031033;Krajenka;-1.0;-1.0
+4306031034;Krajenka - miasto;-1.0;-1.0
+4306031035;Krajenka - obszar wiejski;-1.0;-1.0
+4306031042;Lipka;-1.0;-1.0
+4306031053;Okonek;-1.0;-1.0
+4306031054;Okonek - miasto;-1.0;-1.0
+4306031055;Okonek - obszar wiejski;-1.0;-1.0
+4306031062;Tarnówka;-1.0;-1.0
+4306031072;Zakrzewo;-1.0;-1.0
+4306031082;Złotów;-1.0;-1.0
+4306100000;Podregion 61 - poznański;0.27228206;0.42066807
+4306116000;Powiat obornicki;0.26150832;0.37473905
+4306116013;Oborniki;-1.0;-1.0
+4306116014;Oborniki - miasto;-1.0;-1.0
+4306116015;Oborniki - obszar wiejski;-1.0;-1.0
+4306116023;Rogoźno;-1.0;-1.0
+4306116024;Rogoźno - miasto;-1.0;-1.0
+4306116025;Rogoźno - obszar wiejski;-1.0;-1.0
+4306116032;Ryczywół;-1.0;-1.0
+4306121000;Powiat poznański;0.27130264;0.41858038
+4306121011;Luboń;-1.0;-1.0
+4306121021;Puszczykowo;-1.0;-1.0
+4306121033;Buk;-1.0;-1.0
+4306121034;Buk - miasto;-1.0;-1.0
+4306121035;Buk - obszar wiejski;-1.0;-1.0
+4306121042;Czerwonak;-1.0;-1.0
+4306121052;Dopiewo;-1.0;-1.0
+4306121062;Kleszczewo;-1.0;-1.0
+4306121072;Komorniki;-1.0;-1.0
+4306121083;Kostrzyn;-1.0;-1.0
+4306121084;Kostrzyn - miasto;-1.0;-1.0
+4306121085;Kostrzyn - obszar wiejski;-1.0;-1.0
+4306121093;Kórnik;-1.0;-1.0
+4306121094;Kórnik - miasto;-1.0;-1.0
+4306121095;Kórnik - obszar wiejski;-1.0;-1.0
+4306121103;Mosina;-1.0;-1.0
+4306121104;Mosina - miasto;-1.0;-1.0
+4306121105;Mosina - obszar wiejski;-1.0;-1.0
+4306121113;Murowana Goślina;-1.0;-1.0
+4306121114;Murowana Goślina - miasto;-1.0;-1.0
+4306121115;Murowana Goślina - obszar wiejski;-1.0;-1.0
+4306121123;Pobiedziska;-1.0;-1.0
+4306121124;Pobiedziska - miasto;-1.0;-1.0
+4306121125;Pobiedziska - obszar wiejski;-1.0;-1.0
+4306121132;Rokietnica;-1.0;-1.0
+4306121143;Stęszew;-1.0;-1.0
+4306121144;Stęszew - miasto;-1.0;-1.0
+4306121145;Stęszew - obszar wiejski;-1.0;-1.0
+4306121152;Suchy Las;-1.0;-1.0
+4306121163;Swarzędz;-1.0;-1.0
+4306121164;Swarzędz - miasto;-1.0;-1.0
+4306121165;Swarzędz - obszar wiejski;-1.0;-1.0
+4306121172;Tarnowo Podgórne;-1.0;-1.0
+4306124000;Powiat szamotulski;0.23702253;0.37995824
+4306124011;Obrzycko;-1.0;-1.0
+4306124022;Duszniki;-1.0;-1.0
+4306124032;Kaźmierz;-1.0;-1.0
+4306124042;Obrzycko;-1.0;-1.0
+4306124053;Ostroróg;-1.0;-1.0
+4306124054;Ostroróg - miasto;-1.0;-1.0
+4306124055;Ostroróg - obszar wiejski;-1.0;-1.0
+4306124063;Pniewy;-1.0;-1.0
+4306124064;Pniewy - miasto;-1.0;-1.0
+4306124065;Pniewy - obszar wiejski;-1.0;-1.0
+4306124073;Szamotuły;-1.0;-1.0
+4306124074;Szamotuły - miasto;-1.0;-1.0
+4306124075;Szamotuły - obszar wiejski;-1.0;-1.0
+4306124083;Wronki;-1.0;-1.0
+4306124084;Wronki - miasto;-1.0;-1.0
+4306124085;Wronki - obszar wiejski;-1.0;-1.0
+4306125000;Powiat średzki;0.30558276;0.44885176
+4306125012;Dominowo;-1.0;-1.0
+4306125022;Krzykosy;-1.0;-1.0
+4306125032;Nowe Miasto nad Wartą;-1.0;-1.0
+4306125043;Środa Wielkopolska;-1.0;-1.0
+4306125044;Środa Wielkopolska - miasto;-1.0;-1.0
+4306125045;Środa Wielkopolska - obszar wiejski;-1.0;-1.0
+4306125052;Zaniemyśl;-1.0;-1.0
+4306126000;Powiat śremski;0.2791381;0.47286013
+4306126012;Brodnica;-1.0;-1.0
+4306126023;Dolsk;-1.0;-1.0
+4306126024;Dolsk - miasto;-1.0;-1.0
+4306126025;Dolsk - obszar wiejski;-1.0;-1.0
+4306126033;Książ Wielkopolski;-1.0;-1.0
+4306126034;Książ Wielkopolski - miasto;-1.0;-1.0
+4306126035;Książ Wielkopolski - obszar wiejski;-1.0;-1.0
+4306126043;Śrem;-1.0;-1.0
+4306126044;Śrem - miasto;-1.0;-1.0
+4306126045;Śrem - obszar wiejski;-1.0;-1.0
+4306200000;Podregion 62 - m. Poznań;0.27228206;0.4196242
+4306264000;Powiat m.Poznań;0.27228206;0.4196242
+4306264011;Poznań;-1.0;-1.0
+4320000000;ZACHODNIOPOMORSKIE;0.048971597;0.22964509
+4326300000;Podregion 63 - koszaliński;0.21057786;0.10438413
+4326301000;Powiat białogardzki;0.18903036;0.13987474
+4326301011;Białogard;-1.0;-1.0
+4326301022;Białogard;-1.0;-1.0
+4326301033;Karlino;-1.0;-1.0
+4326301034;Karlino - miasto;-1.0;-1.0
+4326301035;Karlino - obszar wiejski;-1.0;-1.0
+4326301042;Tychowo;-1.0;-1.0
+4326303000;Powiat drawski;0.16944173;0.21920668
+4326303013;Czaplinek;-1.0;-1.0
+4326303014;Czaplinek - miasto;-1.0;-1.0
+4326303015;Czaplinek - obszar wiejski;-1.0;-1.0
+4326303023;Drawsko Pomorskie;-1.0;-1.0
+4326303024;Drawsko Pomorskie - miasto;-1.0;-1.0
+4326303025;Drawsko Pomorskie - obszar wiejski;-1.0;-1.0
+4326303033;Kalisz Pomorski;-1.0;-1.0
+4326303034;Kalisz Pomorski - miasto;-1.0;-1.0
+4326303035;Kalisz Pomorski - obszar wiejski;-1.0;-1.0
+4326303042;Ostrowice;-1.0;-1.0
+4326303052;Wierzchowo;-1.0;-1.0
+4326303063;Złocieniec;-1.0;-1.0
+4326303064;Złocieniec - miasto;-1.0;-1.0
+4326303065;Złocieniec - obszar wiejski;-1.0;-1.0
+4326308000;Powiat kołobrzeski;0.15279138;0.10960334
+4326308011;Kołobrzeg;-1.0;-1.0
+4326308022;Dygowo;-1.0;-1.0
+4326308032;Gościno;-1.0;-1.0
+4326308042;Kołobrzeg;-1.0;-1.0
+4326308052;Rymań;-1.0;-1.0
+4326308062;Siemyśl;-1.0;-1.0
+4326308072;Ustronie Morskie;-1.0;-1.0
+4326309000;Powiat koszaliński;0.21057786;0.10542797
+4326309012;Będzino;-1.0;-1.0
+4326309022;Biesiekierz;-1.0;-1.0
+4326309033;Bobolice;-1.0;-1.0
+4326309034;Bobolice - miasto;-1.0;-1.0
+4326309035;Bobolice - obszar wiejski;-1.0;-1.0
+4326309042;Manowo;-1.0;-1.0
+4326309052;Mielno;-1.0;-1.0
+4326309063;Polanów;-1.0;-1.0
+4326309064;Polanów - miasto;-1.0;-1.0
+4326309065;Polanów - obszar wiejski;-1.0;-1.0
+4326309073;Sianów;-1.0;-1.0
+4326309074;Sianów - miasto;-1.0;-1.0
+4326309075;Sianów - obszar wiejski;-1.0;-1.0
+4326309082;Świeszyno;-1.0;-1.0
+4326313000;Powiat sławieński;0.25661117;0.07933194
+4326313011;Darłowo;-1.0;-1.0
+4326313021;Sławno;-1.0;-1.0
+4326313032;Darłowo;-1.0;-1.0
+4326313042;Malechowo;-1.0;-1.0
+4326313052;Postomino;-1.0;-1.0
+4326313062;Sławno;-1.0;-1.0
+4326315000;Powiat szczecinecki;0.2575906;0.19624217
+4326315011;Szczecinek;-1.0;-1.0
+4326315023;Barwice;-1.0;-1.0
+4326315024;Barwice - miasto;-1.0;-1.0
+4326315025;Barwice - obszar wiejski;-1.0;-1.0
+4326315033;Biały Bór;-1.0;-1.0
+4326315034;Biały Bór - miasto;-1.0;-1.0
+4326315035;Biały Bór - obszar wiejski;-1.0;-1.0
+4326315043;Borne Sulinowo;-1.0;-1.0
+4326315044;Borne Sulinowo - miasto;-1.0;-1.0
+4326315045;Borne Sulinowo - obszar wiejski;-1.0;-1.0
+4326315052;Grzmiąca;-1.0;-1.0
+4326315062;Szczecinek;-1.0;-1.0
+4326316000;Powiat świdwiński;0.17140059;0.17745303
+4326316011;Świdwin;-1.0;-1.0
+4326316022;Brzeżno;-1.0;-1.0
+4326316033;Połczyn-Zdrój;-1.0;-1.0
+4326316034;Połczyn-Zdrój - miasto;-1.0;-1.0
+4326316035;Połczyn-Zdrój - obszar wiejski;-1.0;-1.0
+4326316042;Rąbino;-1.0;-1.0
+4326316052;Sławoborze;-1.0;-1.0
+4326316062;Świdwin;-1.0;-1.0
+4326317000;Powiat wałecki;0.23212537;0.26617953
+4326317011;Wałcz;-1.0;-1.0
+4326317023;Człopa;-1.0;-1.0
+4326317024;Człopa - miasto;-1.0;-1.0
+4326317025;Człopa - obszar wiejski;-1.0;-1.0
+4326317033;Mirosławiec;-1.0;-1.0
+4326317034;Mirosławiec - miasto;-1.0;-1.0
+4326317035;Mirosławiec - obszar wiejski;-1.0;-1.0
+4326317043;Tuczno;-1.0;-1.0
+4326317044;Tuczno - miasto;-1.0;-1.0
+4326317045;Tuczno - obszar wiejski;-1.0;-1.0
+4326317052;Wałcz;-1.0;-1.0
+4326361000;Powiat m.Koszalin;0.2115573;0.107515655
+4326361011;Koszalin;-1.0;-1.0
+4326400000;Podregion 64 - stargardzki;0.09402546;0.24947807
+4326402000;Powiat choszczeński;0.13026445;0.27974948
+4326402012;Bierzwnik;-1.0;-1.0
+4326402023;Choszczno;-1.0;-1.0
+4326402024;Choszczno - miasto;-1.0;-1.0
+4326402025;Choszczno - obszar wiejski;-1.0;-1.0
+4326402033;Drawno;-1.0;-1.0
+4326402034;Drawno - miasto;-1.0;-1.0
+4326402035;Drawno - obszar wiejski;-1.0;-1.0
+4326402042;Krzęcin;-1.0;-1.0
+4326402053;Pełczyce;-1.0;-1.0
+4326402054;Pełczyce - miasto;-1.0;-1.0
+4326402055;Pełczyce - obszar wiejski;-1.0;-1.0
+4326402063;Recz;-1.0;-1.0
+4326402064;Recz - miasto;-1.0;-1.0
+4326402065;Recz - obszar wiejski;-1.0;-1.0
+4326405000;Powiat gryficki;0.11557297;0.15031315
+4326405012;Brojce;-1.0;-1.0
+4326405023;Gryfice;-1.0;-1.0
+4326405024;Gryfice - miasto;-1.0;-1.0
+4326405025;Gryfice - obszar wiejski;-1.0;-1.0
+4326405032;Karnice;-1.0;-1.0
+4326405043;Płoty;-1.0;-1.0
+4326405044;Płoty - miasto;-1.0;-1.0
+4326405045;Płoty - obszar wiejski;-1.0;-1.0
+4326405052;Radowo Małe;-1.0;-1.0
+4326405063;Resko;-1.0;-1.0
+4326405064;Resko - miasto;-1.0;-1.0
+4326405065;Resko - obszar wiejski;-1.0;-1.0
+4326405072;Rewal;-1.0;-1.0
+4326405083;Trzebiatów;-1.0;-1.0
+4326405084;Trzebiatów - miasto;-1.0;-1.0
+4326405085;Trzebiatów - obszar wiejski;-1.0;-1.0
+4326410000;Powiat myśliborski;0.0734574;0.31732777
+4326410013;Barlinek;-1.0;-1.0
+4326410014;Barlinek - miasto;-1.0;-1.0
+4326410015;Barlinek - obszar wiejski;-1.0;-1.0
+4326410022;Boleszkowice;-1.0;-1.0
+4326410033;Dębno;-1.0;-1.0
+4326410034;Dębno - miasto;-1.0;-1.0
+4326410035;Dębno - obszar wiejski;-1.0;-1.0
+4326410043;Myślibórz;-1.0;-1.0
+4326410044;Myślibórz - miasto;-1.0;-1.0
+4326410045;Myślibórz - obszar wiejski;-1.0;-1.0
+4326410052;Nowogródek Pomorski;-1.0;-1.0
+4326412000;Powiat pyrzycki;0.07737512;0.2807933
+4326412012;Bielice;-1.0;-1.0
+4326412022;Kozielice;-1.0;-1.0
+4326412033;Lipiany;-1.0;-1.0
+4326412034;Lipiany - miasto;-1.0;-1.0
+4326412035;Lipiany - obszar wiejski;-1.0;-1.0
+4326412042;Przelewice;-1.0;-1.0
+4326412053;Pyrzyce;-1.0;-1.0
+4326412054;Pyrzyce - miasto;-1.0;-1.0
+4326412055;Pyrzyce - obszar wiejski;-1.0;-1.0
+4326412062;Warnice;-1.0;-1.0
+4326414000;Powiat stargardzki;0.095004894;0.24947807
+4326414011;Stargard Szczeciński;-1.0;-1.0
+4326414023;Chociwel;-1.0;-1.0
+4326414024;Chociwel - miasto;-1.0;-1.0
+4326414025;Chociwel - obszar wiejski;-1.0;-1.0
+4326414033;Dobrzany;-1.0;-1.0
+4326414034;Dobrzany - miasto;-1.0;-1.0
+4326414035;Dobrzany - obszar wiejski;-1.0;-1.0
+4326414042;Dolice;-1.0;-1.0
+4326414053;Ińsko;-1.0;-1.0
+4326414054;Ińsko - miasto;-1.0;-1.0
+4326414055;Ińsko - obszar wiejski;-1.0;-1.0
+4326414062;Kobylanka;-1.0;-1.0
+4326414073;Łobez;-1.0;-1.0
+4326414074;Łobez - miasto;-1.0;-1.0
+4326414075;Łobez - obszar wiejski;-1.0;-1.0
+4326414082;Marianowo;-1.0;-1.0
+4326414092;Stara Dąbrowa;-1.0;-1.0
+4326414102;Stargard Szczeciński;-1.0;-1.0
+4326414113;Suchań;-1.0;-1.0
+4326414114;Suchań - miasto;-1.0;-1.0
+4326414115;Suchań - obszar wiejski;-1.0;-1.0
+4326414123;Węgorzyno;-1.0;-1.0
+4326414124;Węgorzyno - miasto;-1.0;-1.0
+4326414125;Węgorzyno - obszar wiejski;-1.0;-1.0
+4326418000;Powiat łobeski;0.15083252;0.19728601
+4326418013;Dobra;-1.0;-1.0
+4326418014;Dobra - miasto;-1.0;-1.0
+4326418015;Dobra - obszar wiejski;-1.0;-1.0
+4326418023;Łobez;-1.0;-1.0
+4326418024;Łobez - miasto;-1.0;-1.0
+4326418025;Łobez - obszar wiejski;-1.0;-1.0
+4326418032;Radowo Małe;-1.0;-1.0
+4326418043;Resko;-1.0;-1.0
+4326418044;Resko - miasto;-1.0;-1.0
+4326418045;Resko - obszar wiejski;-1.0;-1.0
+4326418053;Węgorzyno;-1.0;-1.0
+4326418054;Węgorzyno - miasto;-1.0;-1.0
+4326418055;Węgorzyno - obszar wiejski;-1.0;-1.0
+4326500000;Podregion 65 - m. Szczecin;0.047992166;0.23068893
+4326562000;Powiat m.Szczecin;0.047992166;0.23068893
+4326562011;Szczecin;-1.0;-1.0
+4326600000;Podregion 66 - szczeciński;0.047992166;0.23068893
+4326604000;Powiat goleniowski;0.07737512;0.20563674
+4326604013;Dobra;-1.0;-1.0
+4326604014;Dobra - miasto;-1.0;-1.0
+4326604015;Dobra - obszar wiejski;-1.0;-1.0
+4326604023;Goleniów;-1.0;-1.0
+4326604024;Goleniów - miasto;-1.0;-1.0
+4326604025;Goleniów - obszar wiejski;-1.0;-1.0
+4326604033;Maszewo;-1.0;-1.0
+4326604034;Maszewo - miasto;-1.0;-1.0
+4326604035;Maszewo - obszar wiejski;-1.0;-1.0
+4326604043;Nowogard;-1.0;-1.0
+4326604044;Nowogard - miasto;-1.0;-1.0
+4326604045;Nowogard - obszar wiejski;-1.0;-1.0
+4326604052;Osina;-1.0;-1.0
+4326604062;Przybiernów;-1.0;-1.0
+4326604072;Stepnica;-1.0;-1.0
+4326606000;Powiat gryfiński;0.04505387;0.25887266
+4326606012;Banie;-1.0;-1.0
+4326606023;Cedynia;-1.0;-1.0
+4326606024;Cedynia - miasto;-1.0;-1.0
+4326606025;Cedynia - obszar wiejski;-1.0;-1.0
+4326606033;Chojna;-1.0;-1.0
+4326606034;Chojna - miasto;-1.0;-1.0
+4326606035;Chojna - obszar wiejski;-1.0;-1.0
+4326606043;Gryfino;-1.0;-1.0
+4326606044;Gryfino - miasto;-1.0;-1.0
+4326606045;Gryfino - obszar wiejski;-1.0;-1.0
+4326606053;Mieszkowice;-1.0;-1.0
+4326606054;Mieszkowice - miasto;-1.0;-1.0
+4326606055;Mieszkowice - obszar wiejski;-1.0;-1.0
+4326606063;Moryń;-1.0;-1.0
+4326606064;Moryń - miasto;-1.0;-1.0
+4326606065;Moryń - obszar wiejski;-1.0;-1.0
+4326606072;Stare Czarnowo;-1.0;-1.0
+4326606083;Trzcińsko-Zdrój;-1.0;-1.0
+4326606084;Trzcińsko-Zdrój - miasto;-1.0;-1.0
+4326606085;Trzcińsko-Zdrój - obszar wiejski;-1.0;-1.0
+4326606092;Widuchowa;-1.0;-1.0
+4326607000;Powiat kamieński;0.07933398;0.13778706
+4326607012;Dziwnów;-1.0;-1.0
+4326607013;Dziwnów;-1.0;-1.0
+4326607014;Dziwnów - miasto;-1.0;-1.0
+4326607015;Dziwnów - obszar wiejski;-1.0;-1.0
+4326607023;Golczewo;-1.0;-1.0
+4326607024;Golczewo - miasto;-1.0;-1.0
+4326607025;Golczewo - obszar wiejski;-1.0;-1.0
+4326607033;Kamień Pomorski;-1.0;-1.0
+4326607034;Kamień Pomorski - miasto;-1.0;-1.0
+4326607035;Kamień Pomorski - obszar wiejski;-1.0;-1.0
+4326607043;Międzyzdroje;-1.0;-1.0
+4326607044;Międzyzdroje - miasto;-1.0;-1.0
+4326607045;Międzyzdroje - obszar wiejski;-1.0;-1.0
+4326607052;Świerzno;-1.0;-1.0
+4326607063;Wolin;-1.0;-1.0
+4326607064;Wolin - miasto;-1.0;-1.0
+4326607065;Wolin - obszar wiejski;-1.0;-1.0
+4326611000;Powiat policki;0.048971597;0.20563674
+4326611012;Dobra (Szczecińska);-1.0;-1.0
+4326611022;Kołbaskowo;-1.0;-1.0
+4326611033;Nowe Warpno;-1.0;-1.0
+4326611034;Nowe Warpno - miasto;-1.0;-1.0
+4326611035;Nowe Warpno - obszar wiejski;-1.0;-1.0
+4326611043;Police;-1.0;-1.0
+4326611044;Police - miasto;-1.0;-1.0
+4326611045;Police - obszar wiejski;-1.0;-1.0
+4326663000;Powiat m.Świnoujście;0.02546523;0.14613779
+4326663011;Świnoujście;-1.0;-1.0
+5000000000;Region południowo-zachodni;0.31145936;0.6440501
+5020000000;DOLNOŚLĄSKIE;0.27424094;0.6388309
+5020100000;Podregion 1 - jeleniogórski;0.13907933;0.6722338
+5020101000;Powiat bolesławiecki;0.12928501;0.611691
+5020101011;Bolesławiec;-1.0;-1.0
+5020101022;Bolesławiec;-1.0;-1.0
+5020101032;Gromadka;-1.0;-1.0
+5020101043;Nowogrodziec;-1.0;-1.0
+5020101044;Nowogrodziec - miasto;-1.0;-1.0
+5020101045;Nowogrodziec - obszar wiejski;-1.0;-1.0
+5020101052;Osiecznica;-1.0;-1.0
+5020101062;Warta Bolesławiecka;-1.0;-1.0
+5020105000;Powiat jaworski;0.18903036;0.64718163
+5020105011;Jawor;-1.0;-1.0
+5020105023;Bolków;-1.0;-1.0
+5020105024;Bolków - miasto;-1.0;-1.0
+5020105025;Bolków - obszar wiejski;-1.0;-1.0
+5020105032;Męcinka;-1.0;-1.0
+5020105042;Mściwojów;-1.0;-1.0
+5020105052;Paszowice;-1.0;-1.0
+5020105062;Wądroże Wielkie;-1.0;-1.0
+5020106000;Powiat jeleniogórski;0.1410382;0.67118996
+5020106011;Karpacz;-1.0;-1.0
+5020106021;Kowary;-1.0;-1.0
+5020106031;Piechowice;-1.0;-1.0
+5020106041;Szklarska Poręba;-1.0;-1.0
+5020106052;Janowice Wielkie;-1.0;-1.0
+5020106062;Jeżów Sudecki;-1.0;-1.0
+5020106072;Mysłakowice;-1.0;-1.0
+5020106082;Podgórzyn;-1.0;-1.0
+5020106092;Stara Kamienica;-1.0;-1.0
+5020107000;Powiat kamiennogórski;0.16846229;0.6941545
+5020107011;Kamienna Góra;-1.0;-1.0
+5020107022;Kamienna Góra;-1.0;-1.0
+5020107033;Lubawka;-1.0;-1.0
+5020107034;Lubawka - miasto;-1.0;-1.0
+5020107035;Lubawka - obszar wiejski;-1.0;-1.0
+5020107042;Marciszów;-1.0;-1.0
+5020110000;Powiat lubański;0.097943194;0.6304802
+5020110011;Lubań;-1.0;-1.0
+5020110021;Świeradów-Zdrój;-1.0;-1.0
+5020110033;Leśna;-1.0;-1.0
+5020110034;Leśna - miasto;-1.0;-1.0
+5020110035;Leśna - obszar wiejski;-1.0;-1.0
+5020110042;Lubań;-1.0;-1.0
+5020110052;Olszyna;-1.0;-1.0
+5020110053;Olszyna;-1.0;-1.0
+5020110054;Olszyna - miasto;-1.0;-1.0
+5020110055;Olszyna - obszar wiejski;-1.0;-1.0
+5020110062;Platerówka;-1.0;-1.0
+5020110072;Siekierczyn;-1.0;-1.0
+5020112000;Powiat lwówecki;0.12732615;0.6367432
+5020112013;Gryfów Śląski;-1.0;-1.0
+5020112014;Gryfów Śląski - miasto;-1.0;-1.0
+5020112015;Gryfów Śląski - obszar wiejski;-1.0;-1.0
+5020112023;Lubomierz;-1.0;-1.0
+5020112024;Lubomierz - miasto;-1.0;-1.0
+5020112025;Lubomierz - obszar wiejski;-1.0;-1.0
+5020112033;Lwówek Śląski;-1.0;-1.0
+5020112034;Lwówek Śląski - miasto;-1.0;-1.0
+5020112035;Lwówek Śląski - obszar wiejski;-1.0;-1.0
+5020112043;Mirsk;-1.0;-1.0
+5020112044;Mirsk - miasto;-1.0;-1.0
+5020112045;Mirsk - obszar wiejski;-1.0;-1.0
+5020112053;Wleń;-1.0;-1.0
+5020112054;Wleń - miasto;-1.0;-1.0
+5020112055;Wleń - obszar wiejski;-1.0;-1.0
+5020125000;Powiat zgorzelecki;0.0734574;0.62526095
+5020125011;Zawidów;-1.0;-1.0
+5020125021;Zgorzelec;-1.0;-1.0
+5020125033;Bogatynia;-1.0;-1.0
+5020125034;Bogatynia - miasto;-1.0;-1.0
+5020125035;Bogatynia - obszar wiejski;-1.0;-1.0
+5020125043;Pieńsk;-1.0;-1.0
+5020125044;Pieńsk - miasto;-1.0;-1.0
+5020125045;Pieńsk - obszar wiejski;-1.0;-1.0
+5020125052;Sulików;-1.0;-1.0
+5020125063;Węgliniec;-1.0;-1.0
+5020125064;Węgliniec - miasto;-1.0;-1.0
+5020125065;Węgliniec - obszar wiejski;-1.0;-1.0
+5020125072;Zgorzelec;-1.0;-1.0
+5020126000;Powiat złotoryjski;0.1625857;0.6336117
+5020126011;Wojcieszów;-1.0;-1.0
+5020126021;Złotoryja;-1.0;-1.0
+5020126032;Pielgrzymka;-1.0;-1.0
+5020126043;Świerzawa;-1.0;-1.0
+5020126044;Świerzawa - miasto;-1.0;-1.0
+5020126045;Świerzawa - obszar wiejski;-1.0;-1.0
+5020126052;Zagrodno;-1.0;-1.0
+5020126062;Złotoryja;-1.0;-1.0
+5020161000;Powiat m.Jelenia Góra;0.14005877;0.67118996
+5020161011;Jelenia Góra;-1.0;-1.0
+5020200000;Podregion 2 - legnicko-głogowski;0.1811949;0.59394574
+5020203000;Powiat głogowski;0.18021548;0.54488516
+5020203011;Głogów;-1.0;-1.0
+5020203022;Głogów;-1.0;-1.0
+5020203032;Jerzmanowa;-1.0;-1.0
+5020203042;Kotla;-1.0;-1.0
+5020203052;Pęcław;-1.0;-1.0
+5020203062;Żukowice;-1.0;-1.0
+5020204000;Powiat górowski;0.22820763;0.5427975
+5020204013;Góra;-1.0;-1.0
+5020204014;Góra - miasto;-1.0;-1.0
+5020204015;Góra - obszar wiejski;-1.0;-1.0
+5020204022;Jemielno;-1.0;-1.0
+5020204032;Niechlów;-1.0;-1.0
+5020204043;Wąsosz;-1.0;-1.0
+5020204044;Wąsosz - miasto;-1.0;-1.0
+5020204045;Wąsosz - obszar wiejski;-1.0;-1.0
+5020209000;Powiat legnicki;0.18805093;0.62212944
+5020209011;Chojnów;-1.0;-1.0
+5020209022;Chojnów;-1.0;-1.0
+5020209032;Krotoszyce;-1.0;-1.0
+5020209042;Kunice;-1.0;-1.0
+5020209052;Legnickie Pole;-1.0;-1.0
+5020209062;Miłkowice;-1.0;-1.0
+5020209073;Prochowice;-1.0;-1.0
+5020209074;Prochowice - miasto;-1.0;-1.0
+5020209075;Prochowice - obszar wiejski;-1.0;-1.0
+5020209082;Ruja;-1.0;-1.0
+5020211000;Powiat lubiński;0.19196866;0.58768266
+5020211011;Lubin;-1.0;-1.0
+5020211022;Lubin;-1.0;-1.0
+5020211032;Rudna;-1.0;-1.0
+5020211043;Ścinawa;-1.0;-1.0
+5020211044;Ścinawa - miasto;-1.0;-1.0
+5020211045;Ścinawa - obszar wiejski;-1.0;-1.0
+5020216000;Powiat polkowicki;0.18021548;0.56993735
+5020216001;Miejska strefa usług publicznych;-1.0;-1.0
+5020216013;Chocianów;-1.0;-1.0
+5020216014;Chocianów - miasto;-1.0;-1.0
+5020216015;Chocianów - obszar wiejski;-1.0;-1.0
+5020216022;Gaworzyce;-1.0;-1.0
+5020216032;Grębocice;-1.0;-1.0
+5020216043;Polkowice;-1.0;-1.0
+5020216044;Polkowice - miasto;-1.0;-1.0
+5020216045;Polkowice - obszar wiejski;-1.0;-1.0
+5020216053;Przemków;-1.0;-1.0
+5020216054;Przemków - miasto;-1.0;-1.0
+5020216055;Przemków - obszar wiejski;-1.0;-1.0
+5020216062;Radwanice;-1.0;-1.0
+5020262000;Powiat m.Legnica;0.1870715;0.6210856
+5020262011;Legnica;-1.0;-1.0
+5020300000;Podregion 3 - wałbrzyski;0.19686581;0.69519836
+5020302000;Powiat dzierżoniowski;0.2331048;0.70563674
+5020302011;Bielawa;-1.0;-1.0
+5020302021;Dzierżoniów;-1.0;-1.0
+5020302031;Pieszyce;-1.0;-1.0
+5020302041;Piława Górna;-1.0;-1.0
+5020302052;Dzierżoniów;-1.0;-1.0
+5020302062;Łagiewniki;-1.0;-1.0
+5020302073;Niemcza;-1.0;-1.0
+5020302074;Niemcza - miasto;-1.0;-1.0
+5020302075;Niemcza - obszar wiejski;-1.0;-1.0
+5020308000;Powiat kłodzki;0.23016651;0.756785
+5020308011;Duszniki-Zdrój;-1.0;-1.0
+5020308021;Kłodzko;-1.0;-1.0
+5020308031;Kudowa-Zdrój;-1.0;-1.0
+5020308041;Nowa Ruda;-1.0;-1.0
+5020308051;Polanica-Zdrój;-1.0;-1.0
+5020308063;Bystrzyca Kłodzka;-1.0;-1.0
+5020308064;Bystrzyca Kłodzka - miasto;-1.0;-1.0
+5020308065;Bystrzyca Kłodzka - obszar wiejski;-1.0;-1.0
+5020308072;Kłodzko;-1.0;-1.0
+5020308083;Lądek-Zdrój;-1.0;-1.0
+5020308084;Lądek-Zdrój - miasto;-1.0;-1.0
+5020308085;Lądek-Zdrój - obszar wiejski;-1.0;-1.0
+5020308092;Lewin Kłodzki;-1.0;-1.0
+5020308103;Międzylesie;-1.0;-1.0
+5020308104;Międzylesie - miasto;-1.0;-1.0
+5020308105;Międzylesie - obszar wiejski;-1.0;-1.0
+5020308112;Nowa Ruda;-1.0;-1.0
+5020308123;Radków;-1.0;-1.0
+5020308124;Radków - miasto;-1.0;-1.0
+5020308125;Radków - obszar wiejski;-1.0;-1.0
+5020308133;Stronie Śląskie;-1.0;-1.0
+5020308134;Stronie Śląskie - miasto;-1.0;-1.0
+5020308135;Stronie Śląskie - obszar wiejski;-1.0;-1.0
+5020308143;Szczytna;-1.0;-1.0
+5020308144;Szczytna - miasto;-1.0;-1.0
+5020308145;Szczytna - obszar wiejski;-1.0;-1.0
+5020319000;Powiat świdnicki;0.21743388;0.6858038
+5020319011;Świdnica;-1.0;-1.0
+5020319021;Świebodzice;-1.0;-1.0
+5020319032;Dobromierz;-1.0;-1.0
+5020319043;Jaworzyna Śląska;-1.0;-1.0
+5020319044;Jaworzyna Śląska - miasto;-1.0;-1.0
+5020319045;Jaworzyna Śląska - obszar wiejski;-1.0;-1.0
+5020319052;Marcinowice;-1.0;-1.0
+5020319063;Strzegom;-1.0;-1.0
+5020319064;Strzegom - miasto;-1.0;-1.0
+5020319065;Strzegom - obszar wiejski;-1.0;-1.0
+5020319072;Świdnica;-1.0;-1.0
+5020319083;Żarów;-1.0;-1.0
+5020319084;Żarów - miasto;-1.0;-1.0
+5020319085;Żarów - obszar wiejski;-1.0;-1.0
+5020321000;Powiat wałbrzyski;0.19784525;0.69624215
+5020321011;Boguszów-Gorce;-1.0;-1.0
+5020321021;Jedlina-Zdrój;-1.0;-1.0
+5020321031;Szczawno-Zdrój;-1.0;-1.0
+5020321042;Czarny Bór;-1.0;-1.0
+5020321053;Głuszyca;-1.0;-1.0
+5020321054;Głuszyca - miasto;-1.0;-1.0
+5020321055;Głuszyca - obszar wiejski;-1.0;-1.0
+5020321063;Mieroszów;-1.0;-1.0
+5020321064;Mieroszów - miasto;-1.0;-1.0
+5020321065;Mieroszów - obszar wiejski;-1.0;-1.0
+5020321072;Stare Bogaczowice;-1.0;-1.0
+5020321082;Walim;-1.0;-1.0
+5020321091;Wałbrzych;-1.0;-1.0
+5020324000;Powiat ząbkowicki;0.251714;0.7317328
+5020324013;Bardo;-1.0;-1.0
+5020324014;Bardo - miasto;-1.0;-1.0
+5020324015;Bardo - obszar wiejski;-1.0;-1.0
+5020324022;Ciepłowody;-1.0;-1.0
+5020324032;Kamieniec Ząbkowicki;-1.0;-1.0
+5020324042;Stoszowice;-1.0;-1.0
+5020324053;Ząbkowice Śląskie;-1.0;-1.0
+5020324054;Ząbkowice Śląskie - miasto;-1.0;-1.0
+5020324055;Ząbkowice Śląskie - obszar wiejski;-1.0;-1.0
+5020324063;Ziębice;-1.0;-1.0
+5020324064;Ziębice - miasto;-1.0;-1.0
+5020324065;Ziębice - obszar wiejski;-1.0;-1.0
+5020324073;Złoty Stok;-1.0;-1.0
+5020324074;Złoty Stok - miasto;-1.0;-1.0
+5020324075;Złoty Stok - obszar wiejski;-1.0;-1.0
+5020363000;Powiat m.Wałbrzych;0.19490695;0.69624215
+5020363011;Wałbrzych;-1.0;-1.0
+5020400000;Podregion 4 - wrocławski;0.27424094;0.63778704
+5020413000;Powiat milicki;0.29970616;0.5709812
+5020413012;Cieszków;-1.0;-1.0
+5020413022;Krośnice;-1.0;-1.0
+5020413033;Milicz;-1.0;-1.0
+5020413034;Milicz - miasto;-1.0;-1.0
+5020413035;Milicz - obszar wiejski;-1.0;-1.0
+5020414000;Powiat oleśnicki;0.3104799;0.6242171
+5020414011;Oleśnica;-1.0;-1.0
+5020414023;Bierutów;-1.0;-1.0
+5020414024;Bierutów - miasto;-1.0;-1.0
+5020414025;Bierutów - obszar wiejski;-1.0;-1.0
+5020414032;Dobroszyce;-1.0;-1.0
+5020414042;Dziadowa Kłoda;-1.0;-1.0
+5020414053;Międzybórz;-1.0;-1.0
+5020414054;Międzybórz - miasto;-1.0;-1.0
+5020414055;Międzybórz - obszar wiejski;-1.0;-1.0
+5020414062;Oleśnica;-1.0;-1.0
+5020414073;Syców;-1.0;-1.0
+5020414074;Syców - miasto;-1.0;-1.0
+5020414075;Syców - obszar wiejski;-1.0;-1.0
+5020414083;Twardogóra;-1.0;-1.0
+5020414084;Twardogóra - miasto;-1.0;-1.0
+5020414085;Twardogóra - obszar wiejski;-1.0;-1.0
+5020415000;Powiat oławski;0.29970616;0.67014617
+5020415011;Oława;-1.0;-1.0
+5020415022;Domaniów;-1.0;-1.0
+5020415033;Jelcz-Laskowice;-1.0;-1.0
+5020415034;Jelcz-Laskowice - miasto;-1.0;-1.0
+5020415035;Jelcz-Laskowice - obszar wiejski;-1.0;-1.0
+5020415042;Oława;-1.0;-1.0
+5020417000;Powiat strzeliński;0.27815866;0.6993737
+5020417012;Borów;-1.0;-1.0
+5020417022;Kondratowice;-1.0;-1.0
+5020417032;Przeworno;-1.0;-1.0
+5020417043;Strzelin;-1.0;-1.0
+5020417044;Strzelin - miasto;-1.0;-1.0
+5020417045;Strzelin - obszar wiejski;-1.0;-1.0
+5020417053;Wiązów;-1.0;-1.0
+5020417054;Wiązów - miasto;-1.0;-1.0
+5020417055;Wiązów - obszar wiejski;-1.0;-1.0
+5020418000;Powiat średzki;0.23016651;0.6325678
+5020418012;Kostomłoty;-1.0;-1.0
+5020418022;Malczyce;-1.0;-1.0
+5020418032;Miękinia;-1.0;-1.0
+5020418043;Środa Śląska;-1.0;-1.0
+5020418044;Środa Śląska - miasto;-1.0;-1.0
+5020418045;Środa Śląska - obszar wiejski;-1.0;-1.0
+5020418052;Udanin;-1.0;-1.0
+5020420000;Powiat trzebnicki;0.27815866;0.60751563
+5020420013;Oborniki Śląskie;-1.0;-1.0
+5020420014;Oborniki Śląskie - miasto;-1.0;-1.0
+5020420015;Oborniki Śląskie - obszar wiejski;-1.0;-1.0
+5020420022;Prusice;-1.0;-1.0
+5020420023;Prusice;-1.0;-1.0
+5020420024;Prusice - miasto;-1.0;-1.0
+5020420025;Prusice - obszar wiejski;-1.0;-1.0
+5020420033;Trzebnica;-1.0;-1.0
+5020420034;Trzebnica - miasto;-1.0;-1.0
+5020420035;Trzebnica - obszar wiejski;-1.0;-1.0
+5020420042;Wisznia Mała;-1.0;-1.0
+5020420052;Zawonia;-1.0;-1.0
+5020420063;Żmigród;-1.0;-1.0
+5020420064;Żmigród - miasto;-1.0;-1.0
+5020420065;Żmigród - obszar wiejski;-1.0;-1.0
+5020422000;Powiat wołowski;0.2360431;0.60020876
+5020422013;Brzeg Dolny;-1.0;-1.0
+5020422014;Brzeg Dolny - miasto;-1.0;-1.0
+5020422015;Brzeg Dolny - obszar wiejski;-1.0;-1.0
+5020422022;Wińsko;-1.0;-1.0
+5020422033;Wołów;-1.0;-1.0
+5020422034;Wołów - miasto;-1.0;-1.0
+5020422035;Wołów - obszar wiejski;-1.0;-1.0
+5020423000;Powiat wrocławski;0.27522036;0.6388309
+5020423012;Czernica;-1.0;-1.0
+5020423022;Długołęka;-1.0;-1.0
+5020423032;Jordanów Śląski;-1.0;-1.0
+5020423043;Kąty Wrocławskie;-1.0;-1.0
+5020423044;Kąty Wrocławskie - miasto;-1.0;-1.0
+5020423045;Kąty Wrocławskie - obszar wiejski;-1.0;-1.0
+5020423052;Kobierzyce;-1.0;-1.0
+5020423062;Mietków;-1.0;-1.0
+5020423073;Sobótka;-1.0;-1.0
+5020423074;Sobótka - miasto;-1.0;-1.0
+5020423075;Sobótka - obszar wiejski;-1.0;-1.0
+5020423082;Święta Katarzyna;-1.0;-1.0
+5020423083;Święta Katarzyna;-1.0;-1.0
+5020423084;Siechnice - miasto;-1.0;-1.0
+5020423085;Święta Katarzyna - obszar wiejski;-1.0;-1.0
+5020423092;Żórawina;-1.0;-1.0
+5020500000;Podregion 5 - m. Wrocław;0.27522036;0.6388309
+5020564000;Powiat m.Wrocław;0.27522036;0.6388309
+5020564011;Wrocław;-1.0;-1.0
+5160000000;OPOLSKIE;0.36434868;0.71816283
+5163100000;Podregion 31 - nyski;0.30362388;0.7526096
+5163101000;Powiat brzeski;0.3183154;0.6868476
+5163101011;Brzeg;-1.0;-1.0
+5163101022;Skarbimierz;-1.0;-1.0
+5163101033;Grodków;-1.0;-1.0
+5163101034;Grodków - miasto;-1.0;-1.0
+5163101035;Grodków - obszar wiejski;-1.0;-1.0
+5163101043;Lewin Brzeski;-1.0;-1.0
+5163101044;Lewin Brzeski - miasto;-1.0;-1.0
+5163101045;Lewin Brzeski - obszar wiejski;-1.0;-1.0
+5163101052;Lubsza;-1.0;-1.0
+5163101062;Olszanka;-1.0;-1.0
+5163104000;Powiat kluczborski;0.39471108;0.6670146
+5163104013;Byczyna;-1.0;-1.0
+5163104014;Byczyna - miasto;-1.0;-1.0
+5163104015;Byczyna - obszar wiejski;-1.0;-1.0
+5163104023;Kluczbork;-1.0;-1.0
+5163104024;Kluczbork - miasto;-1.0;-1.0
+5163104025;Kluczbork - obszar wiejski;-1.0;-1.0
+5163104032;Lasowice Wielkie;-1.0;-1.0
+5163104043;Wołczyn;-1.0;-1.0
+5163104044;Wołczyn - miasto;-1.0;-1.0
+5163104045;Wołczyn - obszar wiejski;-1.0;-1.0
+5163106000;Powiat namysłowski;0.3437806;0.64718163
+5163106012;Domaszowice;-1.0;-1.0
+5163106023;Namysłów;-1.0;-1.0
+5163106024;Namysłów - miasto;-1.0;-1.0
+5163106025;Namysłów - obszar wiejski;-1.0;-1.0
+5163106032;Pokój;-1.0;-1.0
+5163106042;Świerczów;-1.0;-1.0
+5163106052;Wilków;-1.0;-1.0
+5163107000;Powiat nyski;0.30362388;0.7526096
+5163107013;Głuchołazy;-1.0;-1.0
+5163107014;Głuchołazy - miasto;-1.0;-1.0
+5163107015;Głuchołazy - obszar wiejski;-1.0;-1.0
+5163107022;Kamiennik;-1.0;-1.0
+5163107033;Korfantów;-1.0;-1.0
+5163107034;Korfantów - miasto;-1.0;-1.0
+5163107035;Korfantów - obszar wiejski;-1.0;-1.0
+5163107042;Łambinowice;-1.0;-1.0
+5163107053;Nysa;-1.0;-1.0
+5163107054;Nysa - miasto;-1.0;-1.0
+5163107055;Nysa - obszar wiejski;-1.0;-1.0
+5163107063;Otmuchów;-1.0;-1.0
+5163107064;Otmuchów - miasto;-1.0;-1.0
+5163107065;Otmuchów - obszar wiejski;-1.0;-1.0
+5163107073;Paczków;-1.0;-1.0
+5163107074;Paczków - miasto;-1.0;-1.0
+5163107075;Paczków - obszar wiejski;-1.0;-1.0
+5163107082;Pakosławice;-1.0;-1.0
+5163107092;Skoroszyce;-1.0;-1.0
+5163110000;Powiat prudnicki;0.32713026;0.7776618
+5163110013;Biała;-1.0;-1.0
+5163110014;Biała - miasto;-1.0;-1.0
+5163110015;Biała - obszar wiejski;-1.0;-1.0
+5163110023;Głogówek;-1.0;-1.0
+5163110024;Głogówek - miasto;-1.0;-1.0
+5163110025;Głogówek - obszar wiejski;-1.0;-1.0
+5163110032;Lubrza;-1.0;-1.0
+5163110043;Prudnik;-1.0;-1.0
+5163110044;Prudnik - miasto;-1.0;-1.0
+5163110045;Prudnik - obszar wiejski;-1.0;-1.0
+5163200000;Podregion 32 - opolski;0.36434868;0.7192067
+5163202000;Powiat głubczycki;0.3525955;0.7995825
+5163202013;Baborów;-1.0;-1.0
+5163202014;Baborów - miasto;-1.0;-1.0
+5163202015;Baborów - obszar wiejski;-1.0;-1.0
+5163202022;Branice;-1.0;-1.0
+5163202033;Głubczyce;-1.0;-1.0
+5163202034;Głubczyce - miasto;-1.0;-1.0
+5163202035;Głubczyce - obszar wiejski;-1.0;-1.0
+5163202043;Kietrz;-1.0;-1.0
+5163202044;Kietrz - miasto;-1.0;-1.0
+5163202045;Kietrz - obszar wiejski;-1.0;-1.0
+5163203000;Powiat kędzierzyńsko-kozielski;0.39079335;0.77348644
+5163203011;Kędzierzyn-Koźle;-1.0;-1.0
+5163203022;Bierawa;-1.0;-1.0
+5163203032;Cisek;-1.0;-1.0
+5163203042;Pawłowiczki;-1.0;-1.0
+5163203052;Polska Cerekiew;-1.0;-1.0
+5163203062;Reńska Wieś;-1.0;-1.0
+5163205000;Powiat krapkowicki;0.36336926;0.7526096
+5163205013;Gogolin;-1.0;-1.0
+5163205014;Gogolin - miasto;-1.0;-1.0
+5163205015;Gogolin - obszar wiejski;-1.0;-1.0
+5163205023;Krapkowice;-1.0;-1.0
+5163205024;Krapkowice - miasto;-1.0;-1.0
+5163205025;Krapkowice - obszar wiejski;-1.0;-1.0
+5163205032;Strzeleczki;-1.0;-1.0
+5163205042;Walce;-1.0;-1.0
+5163205053;Zdzieszowice;-1.0;-1.0
+5163205054;Zdzieszowice - miasto;-1.0;-1.0
+5163205055;Zdzieszowice - obszar wiejski;-1.0;-1.0
+5163208000;Powiat oleski;0.41527915;0.68371606
+5163208013;Dobrodzień;-1.0;-1.0
+5163208014;Dobrodzień - miasto;-1.0;-1.0
+5163208015;Dobrodzień - obszar wiejski;-1.0;-1.0
+5163208023;Gorzów Śląski;-1.0;-1.0
+5163208024;Gorzów Śląski - miasto;-1.0;-1.0
+5163208025;Gorzów Śląski - obszar wiejski;-1.0;-1.0
+5163208033;Olesno;-1.0;-1.0
+5163208034;Olesno - miasto;-1.0;-1.0
+5163208035;Olesno - obszar wiejski;-1.0;-1.0
+5163208043;Praszka;-1.0;-1.0
+5163208044;Praszka - miasto;-1.0;-1.0
+5163208045;Praszka - obszar wiejski;-1.0;-1.0
+5163208052;Radłów;-1.0;-1.0
+5163208062;Rudniki;-1.0;-1.0
+5163208072;Zębowice;-1.0;-1.0
+5163209000;Powiat opolski;0.3653281;0.72025055
+5163209012;Chrząstowice;-1.0;-1.0
+5163209022;Dąbrowa;-1.0;-1.0
+5163209032;Dobrzeń Wielki;-1.0;-1.0
+5163209042;Komprachcice;-1.0;-1.0
+5163209052;Łubniany;-1.0;-1.0
+5163209062;Murów;-1.0;-1.0
+5163209073;Niemodlin;-1.0;-1.0
+5163209074;Niemodlin - miasto;-1.0;-1.0
+5163209075;Niemodlin - obszar wiejski;-1.0;-1.0
+5163209083;Ozimek;-1.0;-1.0
+5163209084;Ozimek - miasto;-1.0;-1.0
+5163209085;Ozimek - obszar wiejski;-1.0;-1.0
+5163209092;Popielów;-1.0;-1.0
+5163209102;Prószków;-1.0;-1.0
+5163209103;Prószków;-1.0;-1.0
+5163209104;Prószków - miasto;-1.0;-1.0
+5163209105;Prószków - obszar wiejski;-1.0;-1.0
+5163209112;Tarnów Opolski;-1.0;-1.0
+5163209122;Tułowice;-1.0;-1.0
+5163209132;Turawa;-1.0;-1.0
+5163211000;Powiat strzelecki;0.4015671;0.7442589
+5163211012;Izbicko;-1.0;-1.0
+5163211022;Jemielnica;-1.0;-1.0
+5163211033;Kolonowskie;-1.0;-1.0
+5163211034;Kolonowskie - miasto;-1.0;-1.0
+5163211035;Kolonowskie - obszar wiejski;-1.0;-1.0
+5163211043;Leśnica;-1.0;-1.0
+5163211044;Leśnica - miasto;-1.0;-1.0
+5163211045;Leśnica - obszar wiejski;-1.0;-1.0
+5163211053;Strzelce Opolskie;-1.0;-1.0
+5163211054;Strzelce Opolskie - miasto;-1.0;-1.0
+5163211055;Strzelce Opolskie - obszar wiejski;-1.0;-1.0
+5163211063;Ujazd;-1.0;-1.0
+5163211064;Ujazd - miasto;-1.0;-1.0
+5163211065;Ujazd - obszar wiejski;-1.0;-1.0
+5163211073;Zawadzkie;-1.0;-1.0
+5163211074;Zawadzkie - miasto;-1.0;-1.0
+5163211075;Zawadzkie - obszar wiejski;-1.0;-1.0
+5163261000;Powiat m.Opole;0.3653281;0.71816283
+5163261011;Opole;-1.0;-1.0
+6000000000;Region północny;0.48873654;0.21607515
+6040000000;KUJAWSKO-POMORSKIE;0.43976495;0.3152401
+6040600000;Podregion 6 - bydgosko-toruński;0.41527915;0.31002086
+6040603000;Powiat bydgoski;0.38491675;0.29645094
+6040603012;Białe Błota;-1.0;-1.0
+6040603022;Dąbrowa Chełmińska;-1.0;-1.0
+6040603032;Dobrcz;-1.0;-1.0
+6040603043;Koronowo;-1.0;-1.0
+6040603044;Koronowo - miasto;-1.0;-1.0
+6040603045;Koronowo - obszar wiejski;-1.0;-1.0
+6040603052;Nowa Wieś Wielka;-1.0;-1.0
+6040603062;Osielsko;-1.0;-1.0
+6040603072;Sicienko;-1.0;-1.0
+6040603083;Solec Kujawski;-1.0;-1.0
+6040603084;Solec Kujawski - miasto;-1.0;-1.0
+6040603085;Solec Kujawski - obszar wiejski;-1.0;-1.0
+6040615000;Powiat toruński;0.43682665;0.3131524
+6040615011;Chełmża;-1.0;-1.0
+6040615022;Chełmża;-1.0;-1.0
+6040615032;Czernikowo;-1.0;-1.0
+6040615042;Lubicz;-1.0;-1.0
+6040615052;Łubianka;-1.0;-1.0
+6040615062;Łysomice;-1.0;-1.0
+6040615072;Obrowo;-1.0;-1.0
+6040615082;Wielka Nieszawka;-1.0;-1.0
+6040615092;Zławieś Wielka;-1.0;-1.0
+6040661000;Powiat m.Bydgoszcz;0.38491675;0.29645094
+6040661011;Bydgoszcz;-1.0;-1.0
+6040663000;Powiat m.Toruń;0.4387855;0.3162839
+6040663011;Toruń;-1.0;-1.0
+6040700000;Podregion 7 - grudziądzki;0.45543584;0.23695198
+6040702000;Powiat brodnicki;0.51420176;0.27244258
+6040702011;Brodnica;-1.0;-1.0
+6040702022;Bobrowo;-1.0;-1.0
+6040702032;Brodnica;-1.0;-1.0
+6040702042;Brzozie;-1.0;-1.0
+6040702053;Górzno;-1.0;-1.0
+6040702054;Górzno - miasto;-1.0;-1.0
+6040702055;Górzno - obszar wiejski;-1.0;-1.0
+6040702062;Bartniczka;-1.0;-1.0
+6040702073;Jabłonowo Pomorskie;-1.0;-1.0
+6040702074;Jabłonowo Pomorskie - miasto;-1.0;-1.0
+6040702075;Jabłonowo Pomorskie - obszar wiejski;-1.0;-1.0
+6040702082;Osiek;-1.0;-1.0
+6040702092;Świedziebnia;-1.0;-1.0
+6040702102;Zbiczno;-1.0;-1.0
+6040704000;Powiat chełmiński;0.42115572;0.26200417
+6040704011;Chełmno;-1.0;-1.0
+6040704022;Chełmno;-1.0;-1.0
+6040704032;Kijewo Królewskie;-1.0;-1.0
+6040704042;Lisewo;-1.0;-1.0
+6040704052;Papowo Biskupie;-1.0;-1.0
+6040704062;Stolno;-1.0;-1.0
+6040704072;Unisław;-1.0;-1.0
+6040705000;Powiat golubsko-dobrzyński;0.48188052;0.3006263
+6040705011;Golub-Dobrzyń;-1.0;-1.0
+6040705022;Ciechocin;-1.0;-1.0
+6040705032;Golub-Dobrzyń;-1.0;-1.0
+6040705043;Kowalewo Pomorskie;-1.0;-1.0
+6040705044;Kowalewo Pomorskie - miasto;-1.0;-1.0
+6040705045;Kowalewo Pomorskie - obszar wiejski;-1.0;-1.0
+6040705052;Radomin;-1.0;-1.0
+6040705062;Zbójno;-1.0;-1.0
+6040706000;Powiat grudziądzki;0.45543584;0.2348643
+6040706012;Grudziądz;-1.0;-1.0
+6040706022;Gruta;-1.0;-1.0
+6040706033;Łasin;-1.0;-1.0
+6040706034;Łasin - miasto;-1.0;-1.0
+6040706035;Łasin - obszar wiejski;-1.0;-1.0
+6040706043;Radzyń Chełmiński;-1.0;-1.0
+6040706044;Radzyń Chełmiński - miasto;-1.0;-1.0
+6040706045;Radzyń Chełmiński - obszar wiejski;-1.0;-1.0
+6040706052;Rogóźno;-1.0;-1.0
+6040706062;Świecie nad Osą;-1.0;-1.0
+6040713000;Powiat sępoleński;0.33594516;0.23903966
+6040713013;Kamień Krajeński;-1.0;-1.0
+6040713014;Kamień Krajeński - miasto;-1.0;-1.0
+6040713015;Kamień Krajeński - obszar wiejski;-1.0;-1.0
+6040713023;Sępólno Krajeńskie;-1.0;-1.0
+6040713024;Sępólno Krajeńskie - miasto;-1.0;-1.0
+6040713025;Sępólno Krajeńskie - obszar wiejski;-1.0;-1.0
+6040713032;Sośno;-1.0;-1.0
+6040713043;Więcbork;-1.0;-1.0
+6040713044;Więcbork - miasto;-1.0;-1.0
+6040713045;Więcbork - obszar wiejski;-1.0;-1.0
+6040714000;Powiat świecki;0.42213517;0.24634655
+6040714012;Bukowiec;-1.0;-1.0
+6040714022;Dragacz;-1.0;-1.0
+6040714032;Drzycim;-1.0;-1.0
+6040714042;Jeżewo;-1.0;-1.0
+6040714052;Lniano;-1.0;-1.0
+6040714063;Nowe;-1.0;-1.0
+6040714064;Nowe - miasto;-1.0;-1.0
+6040714065;Nowe - obszar wiejski;-1.0;-1.0
+6040714072;Osie;-1.0;-1.0
+6040714082;Pruszcz;-1.0;-1.0
+6040714093;Świecie;-1.0;-1.0
+6040714094;Świecie - miasto;-1.0;-1.0
+6040714095;Świecie - obszar wiejski;-1.0;-1.0
+6040714102;Świekatowo;-1.0;-1.0
+6040714112;Warlubie;-1.0;-1.0
+6040716000;Powiat tucholski;0.3682664;0.21816283
+6040716012;Cekcyn;-1.0;-1.0
+6040716022;Gostycyn;-1.0;-1.0
+6040716032;Kęsowo;-1.0;-1.0
+6040716042;Lubiewo;-1.0;-1.0
+6040716052;Śliwice;-1.0;-1.0
+6040716063;Tuchola;-1.0;-1.0
+6040716064;Tuchola - miasto;-1.0;-1.0
+6040716065;Tuchola - obszar wiejski;-1.0;-1.0
+6040717000;Powiat wąbrzeski;0.4701273;0.2703549
+6040717011;Wąbrzeźno;-1.0;-1.0
+6040717022;Dębowa Łąka;-1.0;-1.0
+6040717032;Książki;-1.0;-1.0
+6040717042;Płużnica;-1.0;-1.0
+6040717052;Wąbrzeźno;-1.0;-1.0
+6040762000;Powiat m.Grudziądz;0.45641527;0.23590814
+6040762011;Grudziądz;-1.0;-1.0
+6040800000;Podregion 8 - włocławski;0.48285994;0.37891442
+6040801000;Powiat aleksandrowski;0.44564152;0.33924845
+6040801011;Aleksandrów Kujawski;-1.0;-1.0
+6040801021;Ciechocinek;-1.0;-1.0
+6040801031;Nieszawa;-1.0;-1.0
+6040801042;Aleksandrów Kujawski;-1.0;-1.0
+6040801052;Bądkowo;-1.0;-1.0
+6040801062;Koneck;-1.0;-1.0
+6040801072;Raciążek;-1.0;-1.0
+6040801082;Waganiec;-1.0;-1.0
+6040801092;Zakrzewo;-1.0;-1.0
+6040807000;Powiat inowrocławski;0.40352595;0.35699373
+6040807011;Inowrocław;-1.0;-1.0
+6040807022;Dąbrowa Biskupia;-1.0;-1.0
+6040807033;Gniewkowo;-1.0;-1.0
+6040807034;Gniewkowo - miasto;-1.0;-1.0
+6040807035;Gniewkowo - obszar wiejski;-1.0;-1.0
+6040807042;Inowrocław;-1.0;-1.0
+6040807053;Janikowo;-1.0;-1.0
+6040807054;Janikowo - miasto;-1.0;-1.0
+6040807055;Janikowo - obszar wiejski;-1.0;-1.0
+6040807063;Kruszwica;-1.0;-1.0
+6040807064;Kruszwica - miasto;-1.0;-1.0
+6040807065;Kruszwica - obszar wiejski;-1.0;-1.0
+6040807073;Pakość;-1.0;-1.0
+6040807074;Pakość - miasto;-1.0;-1.0
+6040807075;Pakość - obszar wiejski;-1.0;-1.0
+6040807082;Rojewo;-1.0;-1.0
+6040807092;Złotniki Kujawskie;-1.0;-1.0
+6040808000;Powiat lipnowski;0.49265426;0.3455115
+6040808011;Lipno;-1.0;-1.0
+6040808022;Bobrowniki;-1.0;-1.0
+6040808032;Chrostkowo;-1.0;-1.0
+6040808043;Dobrzyń nad Wisłą;-1.0;-1.0
+6040808044;Dobrzyń nad Wisłą - miasto;-1.0;-1.0
+6040808045;Dobrzyń nad Wisłą - obszar wiejski;-1.0;-1.0
+6040808052;Kikół;-1.0;-1.0
+6040808062;Lipno;-1.0;-1.0
+6040808072;Skępe;-1.0;-1.0
+6040808073;Skępe;-1.0;-1.0
+6040808074;Skępe - miasto;-1.0;-1.0
+6040808075;Skępe - obszar wiejski;-1.0;-1.0
+6040808082;Tłuchowo;-1.0;-1.0
+6040808092;Wielgie;-1.0;-1.0
+6040809000;Powiat mogileński;0.37316355;0.37578288
+6040809012;Dąbrowa;-1.0;-1.0
+6040809022;Jeziora Wielkie;-1.0;-1.0
+6040809033;Mogilno;-1.0;-1.0
+6040809034;Mogilno - miasto;-1.0;-1.0
+6040809035;Mogilno - obszar wiejski;-1.0;-1.0
+6040809043;Strzelno;-1.0;-1.0
+6040809044;Strzelno - miasto;-1.0;-1.0
+6040809045;Strzelno - obszar wiejski;-1.0;-1.0
+6040810000;Powiat nakielski;0.3408423;0.2933194
+6040810001;Miejska strefa usług publicznych;-1.0;-1.0
+6040810013;Kcynia;-1.0;-1.0
+6040810014;Kcynia - miasto;-1.0;-1.0
+6040810015;Kcynia - obszar wiejski;-1.0;-1.0
+6040810023;Mrocza;-1.0;-1.0
+6040810024;Mrocza - miasto;-1.0;-1.0
+6040810025;Mrocza - obszar wiejski;-1.0;-1.0
+6040810033;Nakło nad Notecią;-1.0;-1.0
+6040810034;Nakło nad Notecią - miasto;-1.0;-1.0
+6040810035;Nakło nad Notecią - obszar wiejski;-1.0;-1.0
+6040810042;Sadki;-1.0;-1.0
+6040810053;Szubin;-1.0;-1.0
+6040810054;Szubin - miasto;-1.0;-1.0
+6040810055;Szubin - obszar wiejski;-1.0;-1.0
+6040811000;Powiat radziejowski;0.42703232;0.38308978
+6040811011;Radziejów;-1.0;-1.0
+6040811022;Bytoń;-1.0;-1.0
+6040811032;Dobre;-1.0;-1.0
+6040811042;Osięciny;-1.0;-1.0
+6040811052;Piotrków Kujawski;-1.0;-1.0
+6040811053;Piotrków Kujawski;-1.0;-1.0
+6040811054;Piotrków Kujawski - miasto;-1.0;-1.0
+6040811055;Piotrków Kujawski - obszar wiejski;-1.0;-1.0
+6040811062;Radziejów;-1.0;-1.0
+6040811072;Topólka;-1.0;-1.0
+6040812000;Powiat rypiński;0.5161606;0.31002086
+6040812011;Rypin;-1.0;-1.0
+6040812022;Brzuze;-1.0;-1.0
+6040812032;Rogowo;-1.0;-1.0
+6040812042;Rypin;-1.0;-1.0
+6040812052;Skrwilno;-1.0;-1.0
+6040812062;Wąpielsk;-1.0;-1.0
+6040818000;Powiat włocławski;0.48188052;0.3810021
+6040818011;Kowal;-1.0;-1.0
+6040818022;Baruchowo;-1.0;-1.0
+6040818032;Boniewo;-1.0;-1.0
+6040818043;Brześć Kujawski;-1.0;-1.0
+6040818044;Brześć Kujawski - miasto;-1.0;-1.0
+6040818045;Brześć Kujawski - obszar wiejski;-1.0;-1.0
+6040818052;Choceń;-1.0;-1.0
+6040818063;Chodecz;-1.0;-1.0
+6040818064;Chodecz - miasto;-1.0;-1.0
+6040818065;Chodecz - obszar wiejski;-1.0;-1.0
+6040818072;Fabianki;-1.0;-1.0
+6040818083;Izbica Kujawska;-1.0;-1.0
+6040818084;Izbica Kujawska - miasto;-1.0;-1.0
+6040818085;Izbica Kujawska - obszar wiejski;-1.0;-1.0
+6040818092;Kowal;-1.0;-1.0
+6040818102;Lubanie;-1.0;-1.0
+6040818113;Lubień Kujawski;-1.0;-1.0
+6040818114;Lubień Kujawski - miasto;-1.0;-1.0
+6040818115;Lubień Kujawski - obszar wiejski;-1.0;-1.0
+6040818123;Lubraniec;-1.0;-1.0
+6040818124;Lubraniec - miasto;-1.0;-1.0
+6040818125;Lubraniec - obszar wiejski;-1.0;-1.0
+6040818132;Włocławek;-1.0;-1.0
+6040819000;Powiat żniński;0.3525955;0.34446764
+6040819013;Barcin;-1.0;-1.0
+6040819014;Barcin - miasto;-1.0;-1.0
+6040819015;Barcin - obszar wiejski;-1.0;-1.0
+6040819022;Gąsawa;-1.0;-1.0
+6040819033;Janowiec Wielkopolski;-1.0;-1.0
+6040819034;Janowiec Wielkopolski - miasto;-1.0;-1.0
+6040819035;Janowiec Wielkopolski - obszar wiejski;-1.0;-1.0
+6040819043;Łabiszyn;-1.0;-1.0
+6040819044;Łabiszyn - miasto;-1.0;-1.0
+6040819045;Łabiszyn - obszar wiejski;-1.0;-1.0
+6040819052;Rogowo;-1.0;-1.0
+6040819063;Żnin;-1.0;-1.0
+6040819064;Żnin - miasto;-1.0;-1.0
+6040819065;Żnin - obszar wiejski;-1.0;-1.0
+6040864000;Powiat m.Włocławek;0.48285994;0.37995824
+6040864011;Włocławek;-1.0;-1.0
+6220000000;POMORSKIE;0.44270322;0.08350731
+6224000000;Podregion 40 - gdański;0.44270322;0.08350731
+6224004000;Powiat gdański;0.44270322;0.08350731
+6224004011;Pruszcz Gdański;-1.0;-1.0
+6224004022;Cedry Wielkie;-1.0;-1.0
+6224004032;Kolbudy;-1.0;-1.0
+6224004042;Pruszcz Gdański;-1.0;-1.0
+6224004052;Przywidz;-1.0;-1.0
+6224004062;Pszczółki;-1.0;-1.0
+6224004072;Suchy Dąb;-1.0;-1.0
+6224004082;Trąbki Wielkie;-1.0;-1.0
+6224005000;Powiat kartuski;0.40254653;0.08768267
+6224005012;Chmielno;-1.0;-1.0
+6224005023;Kartuzy;-1.0;-1.0
+6224005024;Kartuzy - miasto;-1.0;-1.0
+6224005025;Kartuzy - obszar wiejski;-1.0;-1.0
+6224005032;Przodkowo;-1.0;-1.0
+6224005042;Sierakowice;-1.0;-1.0
+6224005052;Somonino;-1.0;-1.0
+6224005062;Stężyca;-1.0;-1.0
+6224005072;Sulęczyno;-1.0;-1.0
+6224005083;Żukowo;-1.0;-1.0
+6224005084;Żukowo - miasto;-1.0;-1.0
+6224005085;Żukowo - obszar wiejski;-1.0;-1.0
+6224010000;Powiat nowodworski;0.48873654;0.10960334
+6224010011;Krynica Morska;-1.0;-1.0
+6224010023;Nowy Dwór Gdański;-1.0;-1.0
+6224010024;Nowy Dwór Gdański - miasto;-1.0;-1.0
+6224010025;Nowy Dwór Gdański - obszar wiejski;-1.0;-1.0
+6224010032;Ostaszewo;-1.0;-1.0
+6224010042;Stegna;-1.0;-1.0
+6224010052;Sztutowo;-1.0;-1.0
+6224011000;Powiat pucki;0.41919687;0.02296451
+6224011011;Hel;-1.0;-1.0
+6224011021;Jastarnia;-1.0;-1.0
+6224011031;Puck;-1.0;-1.0
+6224011041;Władysławowo;-1.0;-1.0
+6224011052;Kosakowo;-1.0;-1.0
+6224011062;Krokowa;-1.0;-1.0
+6224011072;Puck;-1.0;-1.0
+6224015000;Powiat wejherowski;0.40646425;0.041753653
+6224015011;Reda;-1.0;-1.0
+6224015021;Rumia;-1.0;-1.0
+6224015031;Wejherowo;-1.0;-1.0
+6224015042;Choczewo;-1.0;-1.0
+6224015052;Gniewino;-1.0;-1.0
+6224015062;Linia;-1.0;-1.0
+6224015072;Luzino;-1.0;-1.0
+6224015082;Łęczyce;-1.0;-1.0
+6224015092;Szemud;-1.0;-1.0
+6224015102;Wejherowo;-1.0;-1.0
+6224100000;Podregion 41 - słupski;0.2938296;0.06367432
+6224101000;Powiat bytowski;0.3349657;0.1137787
+6224101012;Borzytuchom;-1.0;-1.0
+6224101023;Bytów;-1.0;-1.0
+6224101024;Bytów - miasto;-1.0;-1.0
+6224101025;Bytów - obszar wiejski;-1.0;-1.0
+6224101032;Czarna Dąbrówka;-1.0;-1.0
+6224101042;Kołczygłowy;-1.0;-1.0
+6224101052;Lipnica;-1.0;-1.0
+6224101063;Miastko;-1.0;-1.0
+6224101064;Miastko - miasto;-1.0;-1.0
+6224101065;Miastko - obszar wiejski;-1.0;-1.0
+6224101072;Parchowo;-1.0;-1.0
+6224101082;Studzienice;-1.0;-1.0
+6224101092;Trzebielino;-1.0;-1.0
+6224101102;Tuchomie;-1.0;-1.0
+6224102000;Powiat chojnicki;0.337904;0.19624217
+6224102011;Chojnice;-1.0;-1.0
+6224102023;Brusy;-1.0;-1.0
+6224102024;Brusy - miasto;-1.0;-1.0
+6224102025;Brusy - obszar wiejski;-1.0;-1.0
+6224102032;Chojnice;-1.0;-1.0
+6224102043;Czersk;-1.0;-1.0
+6224102044;Czersk - miasto;-1.0;-1.0
+6224102045;Czersk - obszar wiejski;-1.0;-1.0
+6224102052;Konarzyny;-1.0;-1.0
+6224103000;Powiat człuchowski;0.32027423;0.20146137
+6224103011;Człuchów;-1.0;-1.0
+6224103023;Czarne;-1.0;-1.0
+6224103024;Czarne - miasto;-1.0;-1.0
+6224103025;Czarne - obszar wiejski;-1.0;-1.0
+6224103032;Człuchów;-1.0;-1.0
+6224103043;Debrzno;-1.0;-1.0
+6224103044;Debrzno - miasto;-1.0;-1.0
+6224103045;Debrzno - obszar wiejski;-1.0;-1.0
+6224103052;Koczała;-1.0;-1.0
+6224103062;Przechlewo;-1.0;-1.0
+6224103072;Rzeczenica;-1.0;-1.0
+6224108000;Powiat lęborski;0.35945153;0.051148225
+6224108011;Lębork;-1.0;-1.0
+6224108021;Łeba;-1.0;-1.0
+6224108032;Cewice;-1.0;-1.0
+6224108042;Nowa Wieś Lęborska;-1.0;-1.0
+6224108052;Wicko;-1.0;-1.0
+6224112000;Powiat słupski;0.2908913;0.06367432
+6224112011;Ustka;-1.0;-1.0
+6224112022;Damnica;-1.0;-1.0
+6224112032;Dębnica Kaszubska;-1.0;-1.0
+6224112042;Główczyce;-1.0;-1.0
+6224112053;Kępice;-1.0;-1.0
+6224112054;Kępice - miasto;-1.0;-1.0
+6224112055;Kępice - obszar wiejski;-1.0;-1.0
+6224112062;Kobylnica;-1.0;-1.0
+6224112072;Potęgowo;-1.0;-1.0
+6224112082;Słupsk;-1.0;-1.0
+6224112092;Smołdzino;-1.0;-1.0
+6224112102;Ustka;-1.0;-1.0
+6224163000;Powiat m.Słupsk;0.2908913;0.06367432
+6224163011;Słupsk;-1.0;-1.0
+6224200000;Podregion 42 - starogardzki;0.43095005;0.15240084
+6224206000;Powiat kościerski;0.38001958;0.12212943
+6224206011;Kościerzyna;-1.0;-1.0
+6224206022;Dziemiany;-1.0;-1.0
+6224206032;Karsin;-1.0;-1.0
+6224206042;Kościerzyna;-1.0;-1.0
+6224206052;Liniewo;-1.0;-1.0
+6224206062;Lipusz;-1.0;-1.0
+6224206072;Nowa Karczma;-1.0;-1.0
+6224206082;Stara Kiszewa;-1.0;-1.0
+6224207000;Powiat kwidzyński;0.4691479;0.19311064
+6224207011;Kwidzyn;-1.0;-1.0
+6224207022;Gardeja;-1.0;-1.0
+6224207032;Kwidzyn;-1.0;-1.0
+6224207043;Prabuty;-1.0;-1.0
+6224207044;Prabuty - miasto;-1.0;-1.0
+6224207045;Prabuty - obszar wiejski;-1.0;-1.0
+6224207052;Ryjewo;-1.0;-1.0
+6224207062;Sadlinki;-1.0;-1.0
+6224209000;Powiat malborski;0.47992164;0.14300627
+6224209011;Malbork;-1.0;-1.0
+6224209023;Dzierzgoń;-1.0;-1.0
+6224209024;Dzierzgoń - miasto;-1.0;-1.0
+6224209025;Dzierzgoń - obszar wiejski;-1.0;-1.0
+6224209032;Lichnowy;-1.0;-1.0
+6224209042;Malbork;-1.0;-1.0
+6224209052;Mikołajki Pomorskie;-1.0;-1.0
+6224209062;Miłoradz;-1.0;-1.0
+6224209073;Nowy Staw;-1.0;-1.0
+6224209074;Nowy Staw - miasto;-1.0;-1.0
+6224209075;Nowy Staw - obszar wiejski;-1.0;-1.0
+6224209082;Stare Pole;-1.0;-1.0
+6224209092;Stary Dzierzgoń;-1.0;-1.0
+6224209102;Stary Targ;-1.0;-1.0
+6224209113;Sztum;-1.0;-1.0
+6224209114;Sztum - miasto;-1.0;-1.0
+6224209115;Sztum - obszar wiejski;-1.0;-1.0
+6224213000;Powiat starogardzki;0.43290892;0.151357
+6224213011;Czarna Woda;-1.0;-1.0
+6224213021;Skórcz;-1.0;-1.0
+6224213031;Starogard Gdański;-1.0;-1.0
+6224213042;Bobowo;-1.0;-1.0
+6224213052;Kaliska;-1.0;-1.0
+6224213062;Lubichowo;-1.0;-1.0
+6224213072;Osieczna;-1.0;-1.0
+6224213082;Osiek;-1.0;-1.0
+6224213093;Skarszewy;-1.0;-1.0
+6224213094;Skarszewy - miasto;-1.0;-1.0
+6224213095;Skarszewy - obszar wiejski;-1.0;-1.0
+6224213102;Skórcz;-1.0;-1.0
+6224213112;Smętowo Graniczne;-1.0;-1.0
+6224213122;Starogard Gdański;-1.0;-1.0
+6224213132;Zblewo;-1.0;-1.0
+6224214000;Powiat tczewski;0.45249754;0.13152401
+6224214011;Tczew;-1.0;-1.0
+6224214023;Gniew;-1.0;-1.0
+6224214024;Gniew - miasto;-1.0;-1.0
+6224214025;Gniew - obszar wiejski;-1.0;-1.0
+6224214032;Morzeszczyn;-1.0;-1.0
+6224214043;Pelplin;-1.0;-1.0
+6224214044;Pelplin - miasto;-1.0;-1.0
+6224214045;Pelplin - obszar wiejski;-1.0;-1.0
+6224214052;Subkowy;-1.0;-1.0
+6224214062;Tczew;-1.0;-1.0
+6224216000;Powiat sztumski;0.4779628;0.15970773
+6224216013;Dzierzgoń;-1.0;-1.0
+6224216014;Dzierzgoń - miasto;-1.0;-1.0
+6224216015;Dzierzgoń - obszar wiejski;-1.0;-1.0
+6224216022;Mikołajki Pomorskie;-1.0;-1.0
+6224216032;Stary Dzierzgoń;-1.0;-1.0
+6224216042;Stary Targ;-1.0;-1.0
+6224216053;Sztum;-1.0;-1.0
+6224216054;Sztum - miasto;-1.0;-1.0
+6224216055;Sztum - obszar wiejski;-1.0;-1.0
+6224300000;Podregion 43 - trójmiejski;0.4417238;0.08350731
+6224361000;Powiat m.Gdańsk;0.44270322;0.08350731
+6224361011;Gdańsk;-1.0;-1.0
+6224362000;Powiat m.Gdynia;0.43095005;0.058455113
+6224362011;Gdynia;-1.0;-1.0
+6224364000;Powiat m.Sopot;0.43290892;0.06993737
+6224364011;Sopot;-1.0;-1.0
+6280000000;WARMIŃSKO-MAZURSKIE;0.6170421;0.18371607
+6285400000;Podregion 54 - elbląski;0.5161606;0.115866385
+6285402000;Powiat braniewski;0.55337906;0.081419624
+6285402011;Braniewo;-1.0;-1.0
+6285402022;Braniewo;-1.0;-1.0
+6285402033;Frombork;-1.0;-1.0
+6285402034;Frombork - miasto;-1.0;-1.0
+6285402035;Frombork - obszar wiejski;-1.0;-1.0
+6285402042;Lelkowo;-1.0;-1.0
+6285402053;Pieniężno;-1.0;-1.0
+6285402054;Pieniężno - miasto;-1.0;-1.0
+6285402055;Pieniężno - obszar wiejski;-1.0;-1.0
+6285402062;Płoskinia;-1.0;-1.0
+6285402072;Wilczęta;-1.0;-1.0
+6285403000;Powiat działdowski;0.589618;0.27661794
+6285403011;Działdowo;-1.0;-1.0
+6285403022;Działdowo;-1.0;-1.0
+6285403032;Iłowo-Osada;-1.0;-1.0
+6285403043;Lidzbark;-1.0;-1.0
+6285403044;Lidzbark - miasto;-1.0;-1.0
+6285403045;Lidzbark - obszar wiejski;-1.0;-1.0
+6285403052;Płośnica;-1.0;-1.0
+6285403062;Rybno;-1.0;-1.0
+6285404000;Powiat elbląski;0.5181195;0.114822544
+6285404012;Elbląg;-1.0;-1.0
+6285404022;Godkowo;-1.0;-1.0
+6285404032;Gronowo Elbląskie;-1.0;-1.0
+6285404042;Markusy;-1.0;-1.0
+6285404052;Milejewo;-1.0;-1.0
+6285404063;Młynary;-1.0;-1.0
+6285404064;Młynary - miasto;-1.0;-1.0
+6285404065;Młynary - obszar wiejski;-1.0;-1.0
+6285404073;Pasłęk;-1.0;-1.0
+6285404074;Pasłęk - miasto;-1.0;-1.0
+6285404075;Pasłęk - obszar wiejski;-1.0;-1.0
+6285404082;Rychliki;-1.0;-1.0
+6285404093;Tolkmicko;-1.0;-1.0
+6285404094;Tolkmicko - miasto;-1.0;-1.0
+6285404095;Tolkmicko - obszar wiejski;-1.0;-1.0
+6285407000;Powiat iławski;0.52987266;0.21920668
+6285407011;Iława;-1.0;-1.0
+6285407021;Lubawa;-1.0;-1.0
+6285407032;Iława;-1.0;-1.0
+6285407043;Kisielice;-1.0;-1.0
+6285407044;Kisielice - miasto;-1.0;-1.0
+6285407045;Kisielice - obszar wiejski;-1.0;-1.0
+6285407052;Lubawa;-1.0;-1.0
+6285407063;Susz;-1.0;-1.0
+6285407064;Susz - miasto;-1.0;-1.0
+6285407065;Susz - obszar wiejski;-1.0;-1.0
+6285407073;Zalewo;-1.0;-1.0
+6285407074;Zalewo - miasto;-1.0;-1.0
+6285407075;Zalewo - obszar wiejski;-1.0;-1.0
+6285412000;Powiat nowomiejski;0.532811;0.24947807
+6285412011;Nowe Miasto Lubawskie;-1.0;-1.0
+6285412022;Biskupiec;-1.0;-1.0
+6285412032;Grodziczno;-1.0;-1.0
+6285412042;Kurzętnik;-1.0;-1.0
+6285412052;Nowe Miasto Lubawskie;-1.0;-1.0
+6285415000;Powiat ostródzki;0.56807053;0.19728601
+6285415011;Ostróda;-1.0;-1.0
+6285415022;Dąbrówno;-1.0;-1.0
+6285415032;Grunwald;-1.0;-1.0
+6285415042;Łukta;-1.0;-1.0
+6285415052;Małdyty;-1.0;-1.0
+6285415062;Miłakowo;-1.0;-1.0
+6285415063;Miłakowo;-1.0;-1.0
+6285415064;Miłakowo - miasto;-1.0;-1.0
+6285415065;Miłakowo - obszar wiejski;-1.0;-1.0
+6285415072;Miłomłyn;-1.0;-1.0
+6285415073;Miłomłyn;-1.0;-1.0
+6285415074;Miłomłyn - miasto;-1.0;-1.0
+6285415075;Miłomłyn - obszar wiejski;-1.0;-1.0
+6285415083;Morąg;-1.0;-1.0
+6285415084;Morąg - miasto;-1.0;-1.0
+6285415085;Morąg - obszar wiejski;-1.0;-1.0
+6285415092;Ostróda;-1.0;-1.0
+6285461000;Powiat m.Elbląg;0.5161606;0.1137787
+6285461011;Elbląg;-1.0;-1.0
+6285500000;Podregion 55 - ełcki;0.7962782;0.17014614
+6285505000;Powiat ełcki;0.7972576;0.17014614
+6285505011;Ełk;-1.0;-1.0
+6285505022;Ełk;-1.0;-1.0
+6285505032;Kalinowo;-1.0;-1.0
+6285505042;Prostki;-1.0;-1.0
+6285505052;Stare Juchy;-1.0;-1.0
+6285506000;Powiat giżycki;0.73849165;0.1336117
+6285506011;Giżycko;-1.0;-1.0
+6285506022;Banie Mazurskie;-1.0;-1.0
+6285506032;Budry;-1.0;-1.0
+6285506042;Giżycko;-1.0;-1.0
+6285506052;Kruklanki;-1.0;-1.0
+6285506062;Miłki;-1.0;-1.0
+6285506072;Pozezdrze;-1.0;-1.0
+6285506083;Ryn;-1.0;-1.0
+6285506084;Ryn - miasto;-1.0;-1.0
+6285506085;Ryn - obszar wiejski;-1.0;-1.0
+6285506093;Węgorzewo;-1.0;-1.0
+6285506094;Węgorzewo - miasto;-1.0;-1.0
+6285506095;Węgorzewo - obszar wiejski;-1.0;-1.0
+6285506102;Wydminy;-1.0;-1.0
+6285513000;Powiat olecki;0.8060725;0.1336117
+6285513012;Dubeninki;-1.0;-1.0
+6285513023;Gołdap;-1.0;-1.0
+6285513024;Gołdap - miasto;-1.0;-1.0
+6285513025;Gołdap - obszar wiejski;-1.0;-1.0
+6285513032;Kowale Oleckie;-1.0;-1.0
+6285513043;Olecko;-1.0;-1.0
+6285513044;Olecko - miasto;-1.0;-1.0
+6285513045;Olecko - obszar wiejski;-1.0;-1.0
+6285513052;Świętajno;-1.0;-1.0
+6285513062;Wieliczki;-1.0;-1.0
+6285516000;Powiat piski;0.74143;0.20668058
+6285516013;Biała Piska;-1.0;-1.0
+6285516014;Biała Piska - miasto;-1.0;-1.0
+6285516015;Biała Piska - obszar wiejski;-1.0;-1.0
+6285516023;Orzysz;-1.0;-1.0
+6285516024;Orzysz - miasto;-1.0;-1.0
+6285516025;Orzysz - obszar wiejski;-1.0;-1.0
+6285516033;Pisz;-1.0;-1.0
+6285516034;Pisz - miasto;-1.0;-1.0
+6285516035;Pisz - obszar wiejski;-1.0;-1.0
+6285516043;Ruciane-Nida;-1.0;-1.0
+6285516044;Ruciane-Nida - miasto;-1.0;-1.0
+6285516045;Ruciane-Nida - obszar wiejski;-1.0;-1.0
+6285518000;Powiat gołdapski;0.78746325;0.08872651
+6285518012;Banie Mazurskie;-1.0;-1.0
+6285518022;Dubeninki;-1.0;-1.0
+6285518033;Gołdap;-1.0;-1.0
+6285518034;Gołdap - miasto;-1.0;-1.0
+6285518035;Gołdap - obszar wiejski;-1.0;-1.0
+6285519000;Powiat węgorzewski;0.7365328;0.10542797
+6285519012;Budry;-1.0;-1.0
+6285519022;Pozezdrze;-1.0;-1.0
+6285519033;Węgorzewo;-1.0;-1.0
+6285519034;Węgorzewo - miasto;-1.0;-1.0
+6285519035;Węgorzewo - obszar wiejski;-1.0;-1.0
+6285600000;Podregion 56 - olsztyński;0.6150833;0.18371607
+6285601000;Powiat bartoszycki;0.64642507;0.10125261
+6285601011;Bartoszyce;-1.0;-1.0
+6285601021;Górowo Iławeckie;-1.0;-1.0
+6285601032;Bartoszyce;-1.0;-1.0
+6285601043;Bisztynek;-1.0;-1.0
+6285601044;Bisztynek - miasto;-1.0;-1.0
+6285601045;Bisztynek - obszar wiejski;-1.0;-1.0
+6285601052;Górowo Iławeckie;-1.0;-1.0
+6285601063;Sępopol;-1.0;-1.0
+6285601064;Sępopol - miasto;-1.0;-1.0
+6285601065;Sępopol - obszar wiejski;-1.0;-1.0
+6285608000;Powiat kętrzyński;0.70127326;0.13152401
+6285608011;Kętrzyn;-1.0;-1.0
+6285608022;Barciany;-1.0;-1.0
+6285608032;Kętrzyn;-1.0;-1.0
+6285608043;Korsze;-1.0;-1.0
+6285608044;Korsze - miasto;-1.0;-1.0
+6285608045;Korsze - obszar wiejski;-1.0;-1.0
+6285608053;Reszel;-1.0;-1.0
+6285608054;Reszel - miasto;-1.0;-1.0
+6285608055;Reszel - obszar wiejski;-1.0;-1.0
+6285608062;Srokowo;-1.0;-1.0
+6285609000;Powiat lidzbarski;0.6248776;0.12526096
+6285609011;Lidzbark Warmiński;-1.0;-1.0
+6285609022;Kiwity;-1.0;-1.0
+6285609032;Lidzbark Warmiński;-1.0;-1.0
+6285609042;Lubomino;-1.0;-1.0
+6285609053;Orneta;-1.0;-1.0
+6285609054;Orneta - miasto;-1.0;-1.0
+6285609055;Orneta - obszar wiejski;-1.0;-1.0
+6285610000;Powiat mrągowski;0.69539666;0.16701461
+6285610011;Mrągowo;-1.0;-1.0
+6285610023;Mikołajki;-1.0;-1.0
+6285610024;Mikołajki - miasto;-1.0;-1.0
+6285610025;Mikołajki - obszar wiejski;-1.0;-1.0
+6285610032;Mrągowo;-1.0;-1.0
+6285610042;Piecki;-1.0;-1.0
+6285610052;Sorkwity;-1.0;-1.0
+6285611000;Powiat nidzicki;0.61214495;0.25574112
+6285611012;Janowiec Kościelny;-1.0;-1.0
+6285611022;Janowo;-1.0;-1.0
+6285611032;Kozłowo;-1.0;-1.0
+6285611043;Nidzica;-1.0;-1.0
+6285611044;Nidzica - miasto;-1.0;-1.0
+6285611045;Nidzica - obszar wiejski;-1.0;-1.0
+6285614000;Powiat olsztyński;0.6160627;0.18267223
+6285614013;Barczewo;-1.0;-1.0
+6285614014;Barczewo - miasto;-1.0;-1.0
+6285614015;Barczewo - obszar wiejski;-1.0;-1.0
+6285614023;Biskupiec;-1.0;-1.0
+6285614024;Biskupiec - miasto;-1.0;-1.0
+6285614025;Biskupiec - obszar wiejski;-1.0;-1.0
+6285614033;Dobre Miasto;-1.0;-1.0
+6285614034;Dobre Miasto - miasto;-1.0;-1.0
+6285614035;Dobre Miasto - obszar wiejski;-1.0;-1.0
+6285614042;Dywity;-1.0;-1.0
+6285614052;Gietrzwałd;-1.0;-1.0
+6285614063;Jeziorany;-1.0;-1.0
+6285614064;Jeziorany - miasto;-1.0;-1.0
+6285614065;Jeziorany - obszar wiejski;-1.0;-1.0
+6285614072;Jonkowo;-1.0;-1.0
+6285614082;Kolno;-1.0;-1.0
+6285614093;Olsztynek;-1.0;-1.0
+6285614094;Olsztynek - miasto;-1.0;-1.0
+6285614095;Olsztynek - obszar wiejski;-1.0;-1.0
+6285614102;Purda;-1.0;-1.0
+6285614112;Stawiguda;-1.0;-1.0
+6285614122;Świątki;-1.0;-1.0
+6285617000;Powiat szczycieński;0.6660137;0.22025052
+6285617011;Szczytno;-1.0;-1.0
+6285617022;Dźwierzuty;-1.0;-1.0
+6285617032;Jedwabno;-1.0;-1.0
+6285617042;Pasym;-1.0;-1.0
+6285617043;Pasym;-1.0;-1.0
+6285617044;Pasym - miasto;-1.0;-1.0
+6285617045;Pasym - obszar wiejski;-1.0;-1.0
+6285617052;Rozogi;-1.0;-1.0
+6285617062;Szczytno;-1.0;-1.0
+6285617072;Świętajno;-1.0;-1.0
+6285617082;Wielbark;-1.0;-1.0
+6285662000;Powiat m.Olsztyn;0.6160627;0.183716
+6285662011;Olsztyn;-1.0;-1.0
